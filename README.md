@@ -30,9 +30,9 @@ To train a pipeline model, you need to train a NER model, and then train a RE mo
 
 for example:
 ```
-cd .\Pipeline\DDI\NER_DDI\src
+cd ./Pipeline/DDI/NER_DDI/src
 python bilstm_crf_train.py
-cd  .\Pipeline\DDI\RE_DDI\src
+cd  ./Pipeline/DDI/RE_DDI/src
 python bilstm_re_keras.py
 ```
 
@@ -40,13 +40,13 @@ python bilstm_re_keras.py
 Train our JointBioER model on the DDI 2013 corpus:
 
 ```
-cd .\JointBioER\DDI\src
+cd ./JointBioER/DDI/src
 python bilstm_crf_train_ddi.py 
 ```
 
 Train our JointBioER model on the CPR corpus:
 
 ```
-cd .\JointBioER\CPR\src
+cd ./JointBioER/CPR/src
 python bilstm_crf_train_cpr.py 
 ```
