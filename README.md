@@ -44,7 +44,7 @@ cd .\JointBioER\DDI\src
 python bilstm_crf_train_ddi.py 
 ```
 
-Train our JointBioER model on the CPR corpus::
+Train our JointBioER model on the CPR corpus:
 
 ```
 cd .\JointBioER\CPR\src
