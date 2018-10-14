@@ -1,0 +1,3247 @@
+21	24	geneY	25	30	geneN
+12	19	chem	0	3	geneY	12	26	geneN	7	11	geneN
+7	10	geneY	12	16	geneN
+57	60	geneY	62	66	geneN	151	154	geneY	185	189	geneN
+186	193	chem	86	89	geneY	186	200	geneN
+0	7	chem	39	43	geneN
+108	112	geneN
+16	23	chem	75	79	geneN	115	119	geneY	145	149	geneY	151	153	geneY
+54	61	chem	86	90	geneN	118	122	geneN
+148	155	chem	24	28	geneY	58	62	geneY
+145	152	chem	64	68	geneN	80	84	geneY	99	103	geneY
+119	126	chem	63	67	geneY
+16	23	chem	58	62	geneY
+30	37	chem	59	63	geneN
+65	72	chem
+5	12	chem	25	44	geneY	46	49	geneY
+52	55	geneY	70	73	geneY
+41	48	chem	126	129	geneY
+78	85	chem	38	41	geneY
+45	52	chem
+166	173	chem	99	102	geneY
+147	154	chem	35	38	geneY	194	197	geneY
+
+0	3	chem	113	120	chem	59	72	chem	7	10	chem	0	18	geneN
+20	43	geneN
+37	44	chem	47	55	chem	96	109	chem
+58	79	geneY	58	66	chem	107	115	chem
+54	133	geneN	54	101	chem	105	124	chem
+9	19	chem	9	30	geneN
+32	40	chem	41	49	chem	80	88	chem	32	60	geneY
+107	114	geneY	116	123	geneY	127	149	geneY
+0	7	chem	11	17	geneY
+35	42	chem	56	64	chem
+0	6	chem	80	81	geneY
+0	6	chem
+26	32	chem
+
+83	89	chem	92	99	chem
+0	2	chem	58	64	chem
+34	45	chem	93	99	chem
+18	24	chem
+49	55	chem	79	90	chem
+79	90	geneN
+20	26	chem	70	77	chem	208	226	chem	228	230	chem	70	85	geneY	87	88	geneY	93	116	geneY	118	120	geneY	178	179	geneY	183	185	geneY
+39	45	chem	100	101	geneY
+33	39	chem	73	80	chem
+12	38	chem
+170	173	chem	40	43	chem	12	38	chem
+
+125	128	chem	169	172	chem	88	102	geneY	106	109	geneY
+9	12	chem	124	127	chem
+71	74	chem
+10	13	chem
+43	46	chem	217	228	chem	255	264	chem
+22	32	chem
+102	114	chem	132	140	chem	144	154	chem	181	184	chem	263	272	chem	26	30	geneN	32	36	geneY	240	245	geneY	247	252	geneY	62	70	chem	74	85	chem	95	98	chem
+105	107	geneN	12	14	geneY	18	23	geneY
+123	131	geneN	133	156	geneY	158	160	geneY	165	210	geneY	212	217	geneY	66	68	geneN	80	85	geneN
+64	66	geneN
+11	13	geneY	121	126	geneY	130	132	geneY
+
+61	63	geneY	107	110	geneN
+0	7	chem	11	19	chem	30	33	geneN	55	57	geneY
+12	23	chem	49	59	chem	115	123	chem	127	131	chem	35	37	geneN	61	64	geneN	81	84	geneY	101	104	geneY
+37	50	chem	52	64	chem	68	78	chem	269	281	chem	101	103	geneY	240	242	geneY
+44	49	geneY	103	124	geneY
+63	70	chem	74	82	chem	12	15	geneN	49	52	geneN	94	99	geneY
+28	31	geneN	49	51	geneY	92	97	geneY
+54	71	chem
+88	105	chem	47	53	chem
+55	60	chem	76	81	chem	130	134	chem
+0	3	chem	7	11	chem	101	108	chem
+
+
+21	23	chem
+0	2	chem	42	54	geneY	56	59	geneY	64	67	geneY	113	121	geneY
+81	83	chem	70	78	geneN
+21	23	chem
+0	12	chem	14	16	chem	35	37	geneN	58	61	geneY	63	66	geneY	70	78	geneY
+0	8	geneY	52	55	geneY	59	62	geneY
+0	2	chem	19	27	geneY	29	32	geneY
+244	246	chem	71	73	chem	150	152	chem	231	234	geneY	256	259	geneY	290	299	geneY	76	79	geneY	93	102	geneY	137	140	geneY	160	163	geneY	186	195	geneY
+36	38	chem	5	8	geneY	17	25	geneY
+17	20	geneY
+112	114	chem	28	31	geneY	35	38	geneY	125	133	geneY
+24	26	chem	151	158	chem	57	60	geneY
+23	40	geneN
+101	113	geneN	120	128	geneY	3	9	geneY
+3	11	geneN
+
+64	68	chem	95	98	chem	11	17	geneY	64	92	geneY	95	135	geneN	152	164	geneN
+25	32	chem	67	74	chem	76	90	chem	95	148	chem	150	153	chem	43	52	geneN
+5	11	geneY	21	31	geneN	74	83	geneN
+0	4	chem	66	79	chem	0	17	geneY	21	36	geneY	56	89	geneY
+
+30	44	chem	46	49	chem	0	14	geneY	16	20	geneY
+40	43	chem	15	19	geneY
+3	16	chem	57	60	chem	3	24	geneY	26	29	geneY
+11	25	geneY	27	32	geneY	35	40	geneY	45	57	geneY	59	63	geneY
+41	46	geneY	91	96	geneY	99	103	geneY
+80	83	chem	97	105	chem	11	16	geneY	19	24	geneY
+11	15	chem	46	52	chem	141	149	chem	167	170	chem	11	22	geneN	24	29	geneY	46	67	geneN	71	74	geneY	124	129	geneY
+91	105	geneN	107	111	geneN	145	149	geneN	16	21	geneY
+91	99	chem	117	120	chem	11	16	geneY	17	19	geneY	22	24	geneY	74	79	geneY
+8	27	geneN	29	38	geneN	42	51	geneN	72	89	geneN
+50	53	chem	14	19	geneY
+12	17	geneY	49	54	geneY	58	63	geneY	64	66	geneY
+0	14	geneY
+36	51	chem	55	63	chem
+0	15	chem	87	91	chem	93	97	chem	99	103	chem
+30	31	chem
+14	15	chem	45	64	geneY	66	69	geneY
+40	52	chem	0	3	geneY
+26	41	chem	118	119	chem
+38	39	chem	23	26	geneY
+119	123	chem	158	159	chem
+49	64	chem	105	106	chem
+128	138	chem	140	148	chem	152	155	chem	160	167	chem	192	193	chem	59	62	geneY	50	57	chem	99	114	chem	116	126	chem
+69	70	chem
+26	36	chem	44	46	chem
+92	102	chem	165	178	chem	203	207	chem
+79	85	chem
+12	18	chem	60	76	chem	183	189	chem	12	25	geneN	193	199	geneN
+
+55	58	geneY	60	64	geneN
+36	46	chem	262	265	geneY	267	271	geneN
+0	22	geneY	24	26	geneY	35	55	geneN
+46	49	chem	0	22	geneY	24	26	geneY	46	65	geneN
+0	2	geneY	44	50	geneY	54	62	geneY
+72	74	geneY	142	150	geneN
+97	99	geneY	103	118	geneN	120	122	geneN
+62	64	geneY	129	131	geneY	214	216	geneY
+33	35	geneY	39	54	geneN	151	153	geneY
+0	18	chem	62	76	geneY
+0	18	chem	20	22	chem	59	65	chem	67	99	chem
+12	14	chem
+
+26	28	chem	95	109	geneY	120	123	geneY
+43	45	chem	47	49	chem
+0	2	chem	144	146	chem
+140	142	chem	65	72	geneY	109	116	geneY
+130	132	chem	48	51	geneN	77	90	geneN	100	103	geneY
+5	7	chem	60	63	geneY	90	97	geneY	101	104	geneN
+72	80	chem
+20	29	chem	31	33	chem
+36	38	chem
+160	162	chem	170	181	chem	185	195	chem
+56	65	chem	95	105	chem	128	138	chem	174	191	chem	193	195	chem	56	74	geneN	76	78	geneN	81	88	geneN	90	92	geneN	95	118	geneN	120	122	geneN	128	148	geneN	150	152	geneN
+
+
+91	93	chem	67	76	geneN	26	35	geneN
+
+42	47	chem	107	109	chem	79	81	geneN	139	141	geneN
+34	36	geneN
+11	13	chem
+29	39	chem
+0	10	chem	14	23	chem	34	42	chem	44	51	chem	55	61	chem
+238	249	chem	0	10	chem
+0	10	chem	30	43	chem
+
+0	10	chem	0	20	geneY
+0	21	chem	0	31	geneY
+0	13	chem	0	27	geneY
+0	13	geneY
+0	10	geneN
+
+
+69	82	chem	108	118	chem	132	153	chem	108	128	geneY	132	163	geneY
+35	45	chem
+
+23	33	chem	113	118	chem
+32	45	chem	32	59	geneY	61	74	geneY	78	88	geneN
+21	33	chem
+9	16	chem	100	100	chem	135	142	chem	151	158	chem	68	80	chem
+
+
+39	39	chem
+68	68	chem
+9	24	chem	39	77	chem
+32	47	chem
+48	63	chem
+61	76	chem	90	95	chem
+52	67	chem
+
+0	14	chem	15	35	geneY	37	41	geneY	71	75	geneY
+15	19	geneY	21	24	geneY	3	14	geneN
+0	4	geneY	30	80	geneN	81	101	geneY	103	107	geneY	112	132	geneY	134	138	geneY
+0	13	chem	85	89	geneY
+85	89	geneY
+29	35	chem
+101	105	geneY
+11	20	chem
+0	15	chem	97	102	chem	97	111	geneY
+0	5	chem	52	60	chem	68	74	chem	0	14	geneY	16	17	geneY
+0	15	chem	17	19	chem	40	41	geneY
+23	25	chem	130	137	chem	97	98	geneY
+11	13	chem	35	36	geneY	69	71	geneN	75	77	geneN
+
+47	49	chem
+31	33	chem
+46	47	chem	49	49	chem	75	120	chem	40	44	geneY
+5	61	chem	98	102	geneY
+48	49	chem	51	54	chem	123	190	chem	195	208	chem
+61	64	geneY	90	103	geneN	157	160	geneY
+33	39	chem	46	73	chem	155	156	chem	169	176	chem	202	202	chem	229	237	chem
+23	31	chem	48	56	chem	42	44	geneY
+0	8	chem	12	25	geneY
+27	35	chem
+21	34	geneY
+83	91	chem	4	6	geneY	46	48	geneY	104	117	geneY
+75	83	chem	17	19	geneY	30	32	geneY
+119	127	chem	29	31	geneY	51	64	geneY
+12	17	chem	62	68	chem	0	4	geneY	6	10	geneY	62	87	geneY
+29	35	chem	29	54	geneY	56	60	geneY
+43	45	chem	85	89	geneY
+26	34	chem	72	74	chem	76	81	chem	94	98	geneY	167	188	geneY
+104	110	chem	19	23	geneY	118	122	geneY
+70	76	chem	33	37	geneY
+44	49	chem	90	96	chem	44	68	geneY	70	74	geneY	84	88	geneY
+47	51	geneY
+39	45	chem	33	37	geneY	52	56	geneY	87	91	geneY	102	120	geneY
+92	97	chem	41	45	geneY	60	64	geneY	86	90	geneY	117	121	geneY
+8	29	chem	61	73	chem	81	86	chem	201	207	chem	128	132	geneY	136	140	geneY	170	174	geneY	181	185	geneY	195	199	geneY	215	219	geneY
+14	18	geneY	67	71	geneY
+32	37	chem	95	100	chem	13	17	geneY	19	23	geneY	26	30	geneY	165	169	geneY
+0	19	chem
+53	63	chem	65	75	chem	47	51	geneY	53	63	geneY
+14	24	chem	102	112	chem	14	32	geneN	102	129	geneY
+6	16	chem
+142	161	chem
+31	41	chem	86	98	chem	86	111	geneY
+88	94	chem	34	44	chem	88	101	geneN
+13	23	chem
+51	61	chem
+61	71	chem
+22	32	chem
+0	16	geneN	40	45	geneN
+0	103	chem	105	112	chem	134	139	geneN
+0	0	chem	17	28	chem	63	66	geneN	80	83	geneN
+11	47	chem	62	62	chem	102	105	geneN	147	150	geneN
+4	22	chem	73	94	chem	113	128	chem
+76	84	chem	48	53	geneN
+5	10	geneY
+
+
+
+39	94	geneY	96	101	geneY	121	131	geneY	133	134	geneY	163	168	geneY
+14	19	geneY	75	101	geneY	103	106	geneY
+25	26	geneY	58	59	geneY	61	66	geneY	79	90	geneN
+9	14	geneY	58	63	geneY
+51	57	chem	18	23	geneY
+14	19	geneY	98	103	geneY
+39	40	geneY	44	49	geneY	122	125	geneY
+0	7	chem	43	49	chem	66	73	chem	43	60	geneN	66	84	geneY
+9	16	chem	119	122	chem	134	138	chem	155	161	chem	166	170	chem	189	196	chem	23	34	chem	248	255	chem	248	266	geneN	268	270	geneN
+69	70	chem	72	75	chem	80	81	chem	101	114	chem	121	124	geneY	130	134	geneY	143	146	geneY
+0	8	chem	45	47	chem	51	54	chem	58	65	chem	95	98	geneY
+3	18	chem	33	40	chem	82	85	geneY	92	94	geneY	106	109	geneY	111	113	geneY	122	124	geneY	126	128	geneY
+83	85	geneY
+47	55	geneY	57	70	geneY	75	79	geneY
+
+113	121	chem	142	147	chem	52	76	geneY	113	154	geneN	156	159	geneN
+
+102	107	chem	248	253	chem	268	276	chem	50	63	geneY	89	116	geneN	118	141	geneN	146	185	geneN
+
+28	36	geneY
+33	39	chem	85	101	geneN	21	26	geneY	33	46	geneN	47	52	geneY
+18	26	chem	0	35	geneN	37	46	geneN	51	74	geneN
+35	46	geneN	81	85	geneN
+103	103	chem	38	42	geneN	114	123	geneN	226	231	geneN	265	291	geneN
+125	131	chem	149	150	chem	166	167	chem	186	187	chem	73	80	geneY	91	96	geneY	109	139	geneN	149	156	geneY	158	163	geneN	166	173	geneY	175	181	geneN	186	193	geneY	195	202	geneN
+15	20	geneY	22	29	geneY	63	70	geneY
+61	61	chem	206	207	chem	55	60	geneY	206	213	geneY	221	226	geneY	228	232	geneN	303	315	geneN
+53	61	chem	41	70	geneN
+3	24	geneN	84	92	geneN
+64	70	geneN
+
+17	40	geneN	42	44	geneN	116	122	geneN
+62	64	geneN	139	142	geneY	145	148	geneY	198	203	geneN
+104	106	chem	114	114	chem	3	5	geneN	137	151	geneN
+105	107	geneN	122	125	geneY	136	137	geneN	58	66	geneN
+22	24	geneN	28	31	geneY	146	152	geneN
+125	131	geneN
+22	29	geneY
+
+
+0	7	geneY	10	20	geneN
+91	98	geneY
+36	43	geneY	119	130	chem
+157	164	geneY	267	270	chem	208	218	chem	220	265	chem
+21	28	geneY
+0	3	chem
+31	34	chem	21	28	geneY
+138	149	chem
+
+
+
+22	31	chem	33	39	chem
+98	107	chem	172	182	chem	184	199	chem	276	291	chem	293	299	chem	301	308	chem	310	320	chem	332	346	chem	109	120	geneY	124	136	geneY	161	163	geneN	168	170	geneN	215	240	geneN	244	257	geneY	310	330	geneN	407	423	geneY	425	435	geneN	437	440	geneY	444	447	geneY
+
+118	127	chem	138	148	chem	82	88	geneY	94	100	geneY	102	114	geneY	134	136	geneN	150	164	geneN	168	178	geneN
+4	14	chem	73	88	chem	90	100	chem	120	134	chem	0	2	geneN	29	32	geneY	45	58	geneY	157	160	geneY
+60	75	chem	77	87	chem	102	115	geneY
+
+27	33	geneY	57	62	geneN
+58	60	chem	84	90	geneN	58	76	geneN
+
+
+
+
+60	69	geneY
+40	42	chem	54	54	chem	83	92	chem	145	147	chem	14	18	geneY	40	70	geneN
+127	145	geneN	22	26	geneY
+126	128	chem
+65	69	geneY
+53	55	geneY	57	61	geneN	78	94	geneY
+93	109	geneY	111	113	geneY	69	71	geneY	73	77	geneN
+3	5	geneY	7	11	geneN
+113	124	chem
+
+
+
+
+50	52	geneY	54	58	geneN
+54	65	chem	54	78	geneN	80	88	geneN
+94	115	chem	117	120	chem	18	29	chem	83	91	chem	18	42	geneN	44	46	geneN	48	57	geneY
+16	20	geneY	64	68	geneY
+42	51	chem	79	88	chem	59	63	geneY	97	101	geneY	191	207	geneN
+47	55	geneN
+72	78	chem	83	94	chem	137	154	chem	156	158	chem	49	57	geneN	262	264	geneN
+23	31	geneN	64	80	geneN
+149	151	chem
+14	22	geneN
+18	26	geneN	91	93	geneN
+0	12	chem	59	65	geneY	75	83	geneY
+0	6	geneY	57	73	geneY	75	76	geneY
+115	127	chem	129	132	chem
+50	53	chem	168	173	geneY	177	182	geneY	287	309	geneY	311	313	geneY
+0	3	chem	27	46	chem	27	55	geneY	57	65	geneY	70	74	geneN	75	77	geneY
+16	25	chem	94	97	chem	67	75	geneY
+0	9	chem	30	33	chem
+9	12	chem	82	91	chem	32	40	geneY	44	48	geneN	49	51	geneY
+23	26	chem	36	44	geneY	66	74	geneY	95	97	geneY	140	144	geneN
+19	27	geneY	147	155	geneY
+57	64	chem	65	73	chem	75	83	chem	57	100	geneY
+79	87	chem	0	43	geneY	0	7	chem	45	47	geneY	8	16	chem	95	104	chem	105	111	chem	115	121	chem	18	26	chem
+15	17	geneY
+38	40	geneY
+65	67	geneY	107	109	geneY
+33	35	geneY
+55	57	geneY	13	25	chem	28	41	chem
+41	43	geneY
+18	20	geneY
+77	79	geneY	128	130	geneY	35	44	chem
+23	35	geneY
+26	46	geneN	88	93	chem	34	39	chem	0	13	geneY
+20	25	chem	0	33	geneN
+
+
+114	123	geneN
+
+
+
+16	26	chem	29	33	geneN	69	78	geneN
+55	64	geneN
+36	44	chem	31	51	geneN	53	57	geneY	59	61	geneY
+87	95	chem	66	73	chem	25	31	geneN
+97	105	chem	83	92	geneY	94	96	geneY	97	112	geneN
+29	36	chem	56	74	chem	108	117	chem	8	12	geneY	14	16	geneY
+68	76	chem	166	173	chem	176	180	geneY	182	184	geneY
+94	102	chem	58	62	geneY	64	66	geneY
+
+
+
+
+
+144	156	geneY	158	172	geneY	174	201	geneY	203	207	geneY	209	214	geneY	216	221	geneY	224	234	geneN	236	237	geneN	247	249	geneY	264	275	chem	251	257	geneY	259	284	geneY	286	289	geneY	292	305	geneY	307	310	geneY	315	319	geneY	321	325	geneY	369	381	geneY
+22	31	geneY	33	43	geneN	47	59	geneY
+7	10	geneY	14	17	geneY
+
+
+
+53	57	geneY	40	44	geneY	46	49	geneY
+
+
+78	85	chem	97	116	geneY	27	43	geneY	78	93	geneY
+10	26	geneY	28	30	geneY
+136	155	geneY	181	183	geneY	54	64	chem	74	79	chem	112	122	chem
+43	45	geneY	0	10	chem
+46	56	chem	22	24	geneY	9	19	chem
+48	58	chem	68	70	geneY	105	107	geneY
+0	10	chem	61	66	chem	29	31	geneY	99	101	geneY
+
+
+12	34	geneY	36	38	geneY	12	19	chem	122	127	chem
+9	11	geneY	36	38	geneY
+15	18	geneY
+54	56	geneY	77	80	geneY	128	130	geneY	25	30	chem	34	44	chem
+47	57	chem	47	71	geneN
+102	112	chem	11	21	chem	11	35	geneN	37	40	geneN
+47	51	geneY
+30	34	geneY
+24	28	geneY
+51	53	geneN
+59	61	geneN
+
+118	122	geneY	42	46	geneY
+13	15	geneN
+32	41	geneY	43	55	geneN	60	69	geneN
+19	26	geneN	42	46	geneY	50	54	geneN
+0	9	geneY
+
+33	37	geneY
+29	31	geneN	90	92	geneN
+5	9	geneY
+94	121	chem	8	17	chem	20	38	geneY
+98	101	chem	69	96	chem	20	37	geneY	39	42	geneY
+64	71	chem	106	108	chem	114	121	chem	131	133	chem	164	166	chem	174	176	chem	197	199	chem	205	207	chem	216	218	chem	21	42	geneN
+
+
+
+
+
+43	46	geneY	96	100	geneN	113	117	geneN
+27	30	chem	32	41	chem	43	52	chem	54	62	chem	66	92	chem	94	97	chem	153	157	geneN	188	192	geneN	228	232	geneN
+72	75	chem	136	145	chem	157	166	chem	170	178	chem	210	212	chem	218	220	chem	229	231	chem	29	38	chem
+18	21	chem	23	32	chem	34	43	chem	45	53	chem	57	60	chem	10	14	geneN
+19	22	chem	24	33	chem	35	44	chem	48	51	chem	115	123	chem	54	58	geneN	60	64	geneN	66	70	geneN	74	78	geneN	100	104	geneN	107	111	geneN
+56	59	chem	86	88	chem	94	96	chem	105	107	chem	131	134	chem	27	30	geneY
+54	61	chem	12	16	geneY	20	24	geneY
+0	7	chem	25	33	chem
+116	120	geneY	123	136	geneN	140	144	geneY	147	158	geneN
+
+77	84	chem	0	4	geneY	8	12	geneY
+101	105	geneY	109	113	geneY
+15	22	chem
+19	26	chem
+78	85	chem	22	26	geneY	92	96	geneY
+21	28	chem
+46	53	chem
+0	2	chem	51	66	chem	0	31	geneY
+0	7	chem	9	24	chem	176	183	chem	237	252	chem	283	298	chem	84	99	chem	116	124	geneY	84	114	geneY
+38	53	chem
+47	62	chem	143	158	chem
+27	55	chem	90	105	chem	90	120	geneY	122	130	geneY
+62	64	chem	126	141	chem	16	32	geneY	34	39	geneY	62	93	geneY	95	99	geneY
+7	14	chem	87	102	chem	68	72	geneY
+33	48	chem	6	10	geneY
+37	44	chem	69	84	chem
+68	83	chem	31	35	geneY
+31	39	chem	43	52	chem	60	70	chem
+71	79	chem	124	139	geneY	141	145	geneY	31	51	geneY	53	57	geneY
+12	20	chem	44	53	chem	68	70	geneN
+47	59	chem	61	64	chem	137	145	chem	153	162	chem	184	192	chem	206	215	chem	8	12	geneY
+50	53	chem
+271	279	chem	29	32	chem	44	53	chem	93	101	chem	115	124	chem	217	225	chem	231	240	chem
+29	37	chem	104	113	chem
+124	132	chem	136	145	chem
+54	63	chem	95	103	chem
+28	36	chem	45	48	chem	109	118	chem
+42	50	chem	25	29	geneY
+40	44	geneY
+11	20	chem	118	122	geneY	42	57	geneY	96	106	chem
+12	41	geneY	50	60	chem
+
+71	80	chem
+102	111	chem
+146	150	geneY	130	140	chem
+130	142	chem	57	67	chem
+19	29	chem
+57	70	geneN	213	217	geneY	238	248	chem
+107	113	chem	71	79	geneY	81	88	geneY
+17	23	chem	0	31	geneN
+9	13	geneN	24	37	geneN
+95	97	chem	95	117	geneN
+34	38	geneN	54	62	geneN
+94	100	chem	124	130	chem	64	72	geneN	85	108	geneY	124	137	geneN	157	184	geneY
+
+54	57	chem	96	99	chem	151	154	chem
+35	52	chem	54	56	chem	69	78	chem	82	92	chem	113	115	chem	123	135	chem
+8	16	geneY	70	78	geneN
+22	33	chem	58	72	chem	114	121	chem	144	153	chem	22	49	geneY	51	54	geneY	109	130	geneN	132	134	geneN
+48	50	chem	60	92	chem
+27	27	chem	120	128	geneN
+57	67	chem	69	69	chem	57	81	geneN	83	85	geneN	131	147	geneN
+176	181	geneN	189	214	geneN
+64	70	geneY
+23	34	geneY
+126	132	geneY
+25	31	geneY	35	47	geneY	100	106	geneY	120	131	geneY	134	140	geneY	161	172	geneY	175	181	geneY	211	222	geneY	225	231	geneY	288	294	geneY	254	274	chem	309	315	geneY
+58	72	geneY	150	169	geneY
+36	50	geneY
+47	59	geneY	78	92	geneY
+16	22	geneY	54	65	geneY	108	120	geneY
+85	96	geneY	26	32	geneY
+60	66	geneY	99	111	geneY	151	162	geneY
+46	52	geneY	16	24	chem
+64	70	geneY
+26	32	geneY	96	107	geneY
+0	9	chem
+
+57	71	chem	134	143	chem
+83	92	chem
+0	9	chem	71	80	chem	129	138	chem
+11	20	chem	93	110	chem	117	128	chem	187	197	chem
+0	9	chem
+9	18	chem
+0	9	chem	60	71	chem
+62	71	chem
+102	110	chem	13	50	geneY	54	88	geneN
+
+86	123	geneY	125	128	geneY
+26	34	chem	66	73	geneN	113	116	geneN
+58	67	chem	98	108	chem	112	129	chem	58	76	geneN	78	85	geneN
+19	27	chem	134	139	chem	38	41	geneY	55	87	geneN
+173	197	chem	222	230	chem	29	37	chem	82	85	geneY	159	162	geneY	265	272	geneN
+
+70	81	geneN
+38	41	geneY	140	149	chem	17	26	chem	56	65	chem	17	36	geneY
+13	24	geneN
+29	32	geneY	102	104	geneY	106	109	geneY
+8	11	geneY
+25	36	geneN
+42	45	geneY	135	146	geneN	163	166	geneY
+0	9	chem	117	126	chem	50	53	geneY
+61	72	geneN
+15	22	chem	77	89	chem	15	33	geneY	35	40	geneY
+
+72	84	chem	110	117	chem	110	128	geneY	130	135	geneY
+132	144	chem
+
+
+
+108	118	chem
+79	87	geneN	18	26	chem
+84	96	geneN	47	55	chem
+45	53	chem
+
+60	72	geneN
+0	8	geneN	59	67	geneN
+55	63	geneN	92	100	geneN	8	16	chem
+13	26	geneN	56	64	chem
+29	37	chem
+98	106	geneN	34	42	chem	68	76	geneN
+14	22	geneN
+11	19	chem
+40	48	geneN
+85	93	geneN
+16	25	chem	56	70	chem	56	79	geneY
+0	11	chem
+100	105	chem	108	113	chem	0	14	chem	25	31	geneY	0	23	geneY
+0	5	chem
+60	70	chem	73	79	geneY
+3	12	chem	61	66	chem
+0	9	chem	80	86	geneY
+9	26	geneN
+
+
+
+102	110	geneY	112	114	geneY
+
+
+100	111	chem	115	118	chem	136	144	chem	147	155	chem	176	206	chem
+17	20	chem	36	45	chem	49	57	chem	81	88	geneY	92	98	geneY
+31	33	geneY	104	106	geneY	133	135	geneN	139	141	geneY	151	153	geneN	177	179	geneY
+25	36	chem	126	128	geneY
+22	25	chem	27	35	chem	38	46	chem
+75	92	geneN
+
+32	43	chem	32	51	geneN
+102	111	chem	115	124	chem	79	90	chem
+45	56	chem	45	64	geneN	66	69	geneN	109	112	geneN
+17	20	geneN
+69	78	chem	82	91	chem	0	4	geneY	8	12	geneY	34	35	geneY	112	116	geneY	139	143	geneY
+21	22	geneY	126	129	geneN
+24	35	chem	61	65	geneY	70	74	geneY	76	80	geneY	141	154	geneN
+17	25	chem	57	65	chem	17	46	geneY	57	82	geneY
+110	120	chem	144	153	chem	60	72	chem	5	13	chem	77	94	chem	0	3	geneY	5	34	geneY
+130	138	chem	50	55	geneY	57	65	geneY	125	155	geneY
+27	36	chem	63	71	chem	73	75	chem	82	90	chem	39	44	geneY
+63	72	chem
+7	11	geneN	13	17	geneN	21	25	geneN	39	44	geneY
+31	40	chem	172	180	chem	117	121	geneN	125	128	geneN	189	193	geneN
+
+
+
+11	15	geneN	19	23	geneN
+76	81	geneY
+52	59	chem
+0	7	chem	114	121	chem
+35	42	chem	214	227	chem	83	86	geneY	88	91	geneY	95	99	geneY	109	111	geneN
+193	210	chem	229	236	chem	347	354	chem
+0	7	chem	0	17	geneY	102	136	geneN
+50	57	chem	50	67	geneY
+26	33	chem	203	221	geneN
+41	48	chem	78	87	chem	91	129	chem	131	139	chem	170	180	chem	215	222	chem	41	58	geneY	215	233	geneY	251	252	geneY
+
+164	175	chem	27	36	chem	52	60	chem	192	193	geneY
+38	48	chem
+49	61	geneN	107	116	geneY	72	80	chem	127	137	chem
+55	89	geneN	91	93	geneN	0	9	chem	13	21	chem	142	152	chem
+83	90	chem	15	27	geneN	47	49	geneN	65	71	chem	73	80	chem
+20	27	chem	118	131	geneN	156	165	geneY
+0	25	chem	92	102	chem	32	43	chem	74	89	chem
+96	105	chem	84	92	chem	135	156	geneN
+60	69	chem	107	118	chem	154	160	chem	239	249	chem	293	308	chem	310	335	chem	340	351	chem	357	367	chem	107	126	geneY	154	169	geneN
+81	91	chem	192	207	chem
+19	34	chem	132	133	chem	217	242	chem	78	88	geneY
+11	22	chem	51	66	chem	86	96	chem
+63	70	chem	72	83	chem	100	107	chem	63	136	geneN
+5	14	chem	22	33	chem	68	93	chem	104	114	chem
+63	81	chem	41	46	geneN	52	89	geneN
+94	110	chem	94	152	geneN
+10	25	chem	50	59	chem	135	138	chem	141	149	chem	151	169	chem	112	117	geneY	119	124	geneY	129	133	geneY
+148	156	chem	92	95	geneY	109	134	geneN	144	188	geneN
+60	68	chem
+89	97	chem	118	126	geneY	128	136	geneY	138	146	geneY	151	161	geneY
+0	3	geneY
+71	108	chem	110	112	chem	141	149	chem	171	176	chem
+43	48	geneY	83	91	geneN	56	66	chem	99	122	chem
+83	92	chem	0	14	chem	68	79	chem
+56	64	chem	84	92	chem	27	30	geneY	56	71	geneN
+0	3	geneY
+19	22	chem	0	3	geneY	19	30	geneN	36	40	geneN	106	109	geneY	132	137	geneY
+31	37	chem	0	4	geneY	49	55	geneY
+20	26	chem
+126	132	chem	60	64	geneY	106	112	geneY
+58	64	chem	0	4	geneY	58	94	geneY
+105	109	geneY
+51	57	chem	0	4	geneY	30	36	geneN	100	104	geneY
+63	69	chem	0	4	geneY	81	87	geneN
+82	88	chem	108	112	geneY	50	56	geneN
+0	6	chem	63	69	chem	0	20	geneY	108	112	geneY
+91	109	chem	20	24	geneY
+94	99	geneY
+
+
+47	53	chem	171	179	chem	31	66	geneY	68	73	geneY
+45	51	chem	6	11	geneY	64	72	geneN
+46	52	chem	91	99	chem	23	29	geneN	149	155	geneN
+143	147	chem	155	161	chem
+
+120	126	chem	395	401	chem	449	455	chem	322	343	geneN	355	381	geneN	108	112	chem
+
+146	157	geneY	159	162	geneY	167	195	geneN	197	199	geneN	225	254	geneY	236	246	chem	256	259	geneY	281	291	chem	293	294	chem
+78	81	geneY	170	173	geneY	190	192	geneN	103	104	chem	175	186	chem
+22	28	chem
+155	159	chem	170	176	chem
+
+0	62	chem	64	71	chem	84	91	chem	84	101	geneY
+0	63	chem	65	72	chem	96	113	geneY	96	103	chem
+0	13	chem	48	55	chem	114	121	chem	176	184	chem	109	133	geneN
+0	7	chem	45	52	chem	104	111	chem	45	64	geneN	91	120	geneN
+26	34	chem	38	45	chem	47	54	chem	197	202	geneY
+0	7	chem	63	65	chem	96	103	chem	112	115	chem	127	134	chem	176	183	chem	122	146	geneN	171	198	geneN
+76	87	geneN	12	19	chem	21	28	chem
+7	14	chem
+0	7	chem	61	68	chem
+74	81	chem	74	92	geneN	5	12	chem
+
+104	111	chem
+
+
+54	61	chem
+
+
+
+149	160	chem	164	171	chem	175	188	chem	192	209	chem	73	86	chem	90	94	chem	98	104	chem
+
+
+
+0	11	chem
+
+212	224	chem	167	180	geneY
+0	6	chem	21	34	geneY
+39	50	chem	5	18	geneY
+0	11	chem
+52	63	chem
+191	202	chem	205	210	chem	213	215	chem	219	227	chem
+
+83	94	chem
+
+
+5	16	chem
+9	20	chem
+
+163	174	chem
+85	96	chem
+47	58	chem
+
+
+
+20	31	chem
+
+
+
+
+70	77	chem	89	96	chem
+14	21	chem	33	40	chem	74	121	chem
+48	51	chem	53	56	chem	62	65	chem	67	71	chem	79	82	chem	84	88	chem
+114	123	chem	53	55	geneN
+52	56	geneY	60	64	geneY	112	116	geneY
+
+3	6	chem	10	17	chem	19	20	chem	79	83	geneY
+0	7	chem	93	102	chem	30	47	chem	78	87	chem	0	18	geneY
+89	118	chem	120	128	chem	136	145	chem	51	58	chem	51	69	geneY
+
+125	132	chem	125	143	geneY
+40	48	chem	96	105	chem
+31	40	chem	61	68	chem	61	80	geneY
+94	105	chem
+94	96	chem	98	100	chem	105	107	chem	110	112	chem	89	91	chem	44	46	chem	48	50	chem	52	54	chem	57	59	chem	63	65	chem	67	69	chem	84	86	chem
+248	250	chem	252	254	chem	258	260	chem	263	265	chem	310	312	chem	314	316	chem
+
+108	110	chem	112	114	chem	116	118	chem	121	123	chem	32	34	chem	36	38	chem	40	42	chem	45	47	chem	52	54	chem	57	59	chem	61	63	chem	65	67	chem
+94	96	chem	98	100	chem	104	106	chem	109	111	chem	130	132	chem	134	136	chem
+20	22	chem	25	27	chem	30	32	chem	34	36	chem	39	41	chem	43	45	chem	49	51	chem	54	56	chem	70	70	chem	142	144	chem	146	148	chem	159	161	chem	163	165	chem	180	181	chem	182	182	chem	184	185	chem	186	186	chem	197	199	chem	202	204	chem
+30	37	chem
+205	209	chem	135	142	chem	144	152	chem	198	201	chem
+28	32	chem	36	56	chem
+10	17	chem	49	56	chem	82	85	chem
+26	33	chem
+0	7	chem	150	159	geneY
+57	65	chem	104	111	chem	31	49	geneN
+59	66	chem	26	33	chem	211	212	geneN	214	215	geneN	162	177	chem
+54	57	chem	59	63	chem	67	75	chem
+110	117	geneY	122	140	geneN	46	53	chem
+45	46	geneN	48	49	geneN
+0	12	chem	80	83	geneY	85	89	geneY
+
+49	59	chem	0	12	chem	14	16	chem
+5	7	chem	121	123	chem
+3	14	geneY	16	59	geneY	61	64	geneY	66	70	geneY
+44	46	chem	158	160	chem	96	99	geneY	101	105	geneY
+0	2	chem
+13	15	chem	192	197	chem
+12	14	chem	67	69	chem	61	64	geneY	102	106	geneY
+0	2	chem	36	40	geneY	87	92	geneY	96	100	geneY	175	177	geneY	179	181	geneY	192	202	geneY	214	221	geneY	226	247	geneN	264	266	geneY	270	272	geneY
+0	2	chem	51	55	chem	31	34	geneY	36	40	geneY
+14	16	chem	73	76	geneY	78	82	geneY
+79	81	chem	32	35	geneY	37	41	geneY
+99	102	geneY	16	26	geneY	30	41	geneY
+92	95	geneY	105	120	geneY	122	125	geneY	26	36	geneY	40	51	geneY
+68	71	geneY	106	117	geneY	124	134	geneY
+73	83	geneY	87	98	geneY
+125	135	geneY	139	150	geneY
+45	55	geneY	80	91	geneY
+63	73	geneY	77	88	geneY	125	135	geneY	151	162	geneY
+88	98	geneY	102	113	geneY	163	173	geneY	231	234	geneY
+
+44	59	chem	11	30	geneY
+0	15	chem	17	19	chem
+
+63	100	geneY	102	107	geneY
+77	83	chem	97	99	chem	110	113	chem	129	131	chem	137	139	chem	48	53	geneY	77	95	geneN	110	127	geneN
+3	15	chem	52	54	chem	84	94	chem	115	120	chem
+46	53	chem	65	72	chem	81	83	chem
+3	10	chem	42	49	chem	64	66	chem
+32	37	geneY
+0	27	chem	91	98	chem	82	87	chem	82	106	geneN
+0	27	chem	93	99	chem
+72	77	chem	81	88	chem	72	97	geneN
+
+0	28	chem	52	63	chem	0	28	geneY	153	157	geneY	79	99	geneY
+30	33	chem	0	28	chem	0	28	geneY	30	33	geneY
+
+8	11	chem	8	11	geneY
+8	11	chem	96	99	chem	8	19	geneY	40	64	geneN	96	99	geneY	163	183	geneY
+38	41	chem	93	96	chem	38	49	geneY	93	104	geneY	141	156	geneY
+24	30	chem	41	48	chem	75	82	chem	121	144	geneN	146	150	geneY	41	54	geneN	55	58	geneY	63	88	geneN	89	93	geneY	100	119	geneN
+21	24	chem	21	24	geneY	72	87	geneY	92	96	geneY
+0	3	geneY	12	15	geneY	49	53	geneY	58	73	geneY	109	112	geneY	124	127	geneY	189	209	geneY	0	3	chem	124	127	chem
+0	3	geneY	12	16	geneY	66	70	geneY	103	123	geneY	0	3	chem
+25	28	geneY	91	106	geneY	12	23	chem	25	28	chem
+22	25	geneY	42	57	geneY	22	25	chem
+83	86	chem	139	142	chem	180	191	chem	13	16	geneY	83	86	geneY	139	142	geneY	13	16	chem
+16	27	chem	36	39	chem	70	73	chem	36	39	geneY	70	81	geneY
+0	9	chem	36	43	chem	24	50	geneN
+27	34	chem	43	52	chem	15	41	geneN
+
+
+46	84	geneN	86	90	geneN	92	106	geneN	132	168	geneN	170	175	geneN	178	207	geneN	209	212	geneN	218	246	geneY	248	251	geneY
+33	37	geneN
+53	58	chem	53	71	geneY
+77	82	chem	77	95	geneY
+63	70	chem	72	77	chem
+55	65	chem	6	27	geneY
+34	54	geneN
+
+61	71	chem	73	85	chem	90	102	chem	32	52	geneN
+194	204	chem	29	49	geneN	111	132	geneN
+56	63	chem	86	91	chem	130	137	chem	12	32	geneN	65	73	geneY	93	101	geneY	106	114	geneY	139	147	geneY	152	160	geneY
+145	155	chem	161	173	chem	11	31	geneN	182	194	chem
+13	25	chem
+27	34	chem	36	41	chem	46	53	chem	145	155	chem
+130	137	chem	144	149	chem	161	168	chem	207	229	geneY	38	48	chem
+78	99	geneY
+44	54	chem	56	68	chem	73	85	chem	15	35	geneN
+49	70	geneY
+0	12	chem	0	20	geneN	76	86	geneY
+5	15	chem	5	33	geneY	17	19	chem
+15	27	geneN	15	19	chem
+49	56	chem	64	72	chem	80	89	chem
+19	29	chem	155	159	chem	168	172	chem	213	217	chem	13	17	geneY	19	29	geneY	155	159	geneY	168	180	geneN	213	217	geneY
+32	36	chem	75	83	chem	92	101	chem	32	36	geneY
+
+64	73	chem
+30	42	geneN	116	120	geneY	30	34	chem	116	120	chem
+122	134	geneN	81	90	chem	122	126	chem	153	161	chem	165	172	chem
+15	18	geneY	39	56	geneY
+
+0	19	geneY	21	24	geneY	151	156	geneY	158	161	geneY
+91	110	chem	112	115	chem	33	50	geneY	52	54	geneY	58	72	geneN	137	140	geneY	144	147	geneY
+25	28	chem	31	36	chem	75	87	chem	40	42	geneY	91	93	geneY
+0	3	chem	37	40	geneY	44	47	geneY
+47	50	chem	23	26	geneY	30	33	geneY
+0	5	chem
+19	24	chem	65	77	chem	12	15	chem	39	42	geneY	46	49	geneY
+96	98	geneY
+
+
+64	64	chem
+106	112	chem	154	160	chem
+12	23	geneY	26	31	geneN
+
+0	12	chem	21	32	chem
+123	131	chem	17	25	chem
+53	64	chem	66	68	chem	133	135	chem
+
+79	81	chem	132	144	chem
+0	18	chem	34	46	chem	81	83	chem	94	106	chem	167	169	chem	214	226	chem
+146	148	chem	160	169	chem	12	14	chem	42	54	chem	71	80	chem	84	93	chem	99	106	chem	99	113	geneY
+44	46	chem	77	92	chem	158	165	chem	209	212	chem	77	104	geneN	106	119	geneY	121	123	geneY	158	173	geneY
+124	131	chem	160	162	chem	205	217	chem	228	235	chem	253	262	chem	266	267	chem	228	242	geneY
+99	106	chem	44	52	geneN	54	56	geneY	99	114	geneY
+37	39	chem	51	54	chem
+46	54	chem	104	108	geneY
+83	91	chem	34	53	geneN
+42	50	chem	124	130	geneY
+
+28	36	chem	74	87	chem	106	115	chem	134	142	chem	169	177	chem	215	218	chem	234	242	chem	246	249	chem	268	277	chem	74	95	geneY	215	222	geneY	246	256	geneN
+125	133	chem
+0	8	chem
+53	61	chem	41	70	geneN
+46	53	chem
+0	7	chem
+
+
+40	47	chem
+64	71	chem
+49	56	chem
+110	117	chem
+53	60	chem
+86	93	chem
+
+142	149	chem	108	114	geneY	118	123	geneY
+
+86	93	chem
+0	6	chem	94	100	geneN	15	17	geneY	37	54	geneN
+0	6	chem	10	39	chem	10	48	geneY
+
+41	58	geneN	60	63	geneN	102	121	geneN	140	142	geneY	144	146	geneY	148	150	geneY
+52	65	chem	103	107	geneY
+44	53	chem	63	67	geneY
+0	2	geneY	9	11	geneY	33	57	geneN	65	67	geneY
+89	95	geneN	112	114	geneY	128	137	geneN	154	156	geneY	164	174	geneN
+
+66	69	geneN	89	98	geneN	120	122	geneY
+34	37	geneN
+0	6	chem	54	60	geneY
+
+55	70	geneY	72	73	geneY	0	8	chem	10	11	chem
+
+0	6	chem	8	9	chem
+82	87	geneN	89	91	geneN	95	104	geneY	105	111	geneN	37	38	chem
+34	35	geneY	0	1	chem
+16	17	geneY	38	49	geneN
+11	17	geneY	35	40	geneY	0	1	chem
+15	20	geneN	22	24	geneN	28	37	geneY	0	1	chem
+55	59	geneY	63	67	geneY	87	91	geneY
+0	1	chem	18	22	geneN	24	28	geneN	32	36	geneY
+32	33	chem	78	79	chem	45	51	geneN
+85	87	geneN	89	94	geneN	98	107	geneY	108	114	geneN	141	145	geneY	35	36	chem	147	151	geneY	155	159	geneY	164	170	geneY
+
+
+31	44	chem
+20	47	chem	79	91	chem
+0	6	chem	47	52	chem
+77	80	chem	82	85	chem	87	110	chem
+97	110	chem
+61	68	chem	81	94	chem	97	108	chem
+52	64	chem	158	172	geneY
+0	7	chem	71	79	chem	30	67	geneN	71	102	geneN
+
+
+55	62	chem	117	124	chem
+0	7	chem	52	60	chem	84	92	chem	138	140	chem	84	115	geneN	117	119	geneN	133	155	geneN	157	159	geneN	172	209	geneN	211	216	geneN	233	244	geneY
+91	98	chem	37	39	geneN	41	46	geneN	48	50	geneN	55	66	geneY
+32	35	chem	117	122	geneN	140	151	geneY	25	27	geneN	45	47	geneN
+22	26	chem	12	17	geneN	61	63	geneN	94	105	geneY
+15	19	chem	23	26	chem	111	118	chem	130	135	geneN	137	139	geneN	144	155	geneY
+24	31	chem	140	147	chem	51	56	geneN	60	62	geneN
+
+
+39	79	geneN	81	85	geneN
+49	53	geneN	7	47	geneN
+38	42	geneN	44	52	geneN	88	92	geneN
+
+
+
+48	56	chem
+30	34	chem	45	53	chem	144	152	chem	72	80	geneN	132	136	geneN
+90	94	geneN
+0	39	geneN
+57	73	geneY	75	77	geneY	164	170	chem	177	181	chem	184	190	chem	197	201	chem
+163	165	geneY
+43	45	geneY	15	21	chem	28	32	chem	162	166	chem
+140	142	geneY	28	38	chem
+19	29	chem
+
+
+
+42	48	chem
+17	23	chem	62	68	chem
+34	40	chem	95	101	chem	144	150	chem
+167	173	chem	207	213	chem	267	273	chem	17	23	chem	90	96	chem
+22	28	chem	50	60	chem
+127	131	geneY
+19	25	chem	227	233	chem	54	58	geneY	122	125	geneY	129	134	geneY
+103	110	chem	114	124	chem	62	68	chem	16	37	geneN
+79	86	chem	123	129	geneY	65	75	chem
+
+101	107	chem
+69	79	chem	83	90	chem
+59	65	chem	15	21	chem
+75	85	chem	89	96	chem
+0	3	geneN	91	93	geneN	97	99	geneN	52	62	chem	66	73	chem
+13	16	geneN	81	84	geneN
+96	99	geneN	118	123	geneN	155	159	geneY
+24	27	geneN	120	124	geneY	126	128	geneN
+
+135	159	geneN	161	164	geneN	135	143	chem
+133	143	geneN
+77	84	geneN
+52	72	geneN	29	37	chem
+10	37	geneN
+90	92	geneN	65	73	chem
+52	62	chem
+103	105	geneN	138	148	geneY	47	49	chem	75	77	chem	27	32	geneN
+40	52	geneY	73	75	geneN	13	19	chem	24	32	chem
+
+83	95	chem	20	39	geneY
+
+84	96	chem	114	139	geneY	200	223	geneY	24	42	geneN
+66	78	chem
+
+0	6	chem	37	62	geneY
+7	17	chem	21	32	chem	57	86	geneN
+0	8	chem	47	66	geneY
+0	16	chem	38	57	geneY
+
+53	78	geneN
+
+0	7	chem	9	17	chem	21	37	chem	73	85	chem
+29	35	chem
+
+49	61	chem	136	156	geneY
+
+0	12	chem	81	99	chem	101	103	chem
+44	56	chem
+0	2	chem	69	81	chem
+32	44	chem	130	149	geneY
+11	15	chem	49	50	geneY
+70	74	chem	78	82	chem	54	55	geneY
+65	70	chem	146	150	chem	154	158	chem
+34	35	geneY	41	42	geneY	77	82	chem	109	122	chem
+157	165	chem	297	299	chem	145	146	geneY	180	181	geneN	229	233	geneN	74	87	chem	102	106	chem	108	112	chem	151	155	chem
+88	94	chem	33	43	chem
+
+54	64	chem	72	78	chem
+14	24	chem	63	69	chem	73	83	chem	148	161	chem
+18	28	chem	98	108	chem	110	111	chem	114	119	chem	139	148	chem	238	244	chem	114	132	geneN	134	136	geneN	139	157	geneN	159	161	geneN	167	174	geneY	176	178	geneY	304	327	geneN	332	373	geneN	375	377	geneN	379	381	geneN
+165	171	chem	30	40	chem	113	131	geneN	133	137	geneN
+42	52	chem	54	58	chem	123	133	chem	248	258	chem
+25	35	chem
+15	32	geneN
+3	25	geneN	42	50	chem
+
+15	18	geneN
+56	59	geneN	92	95	geneN
+13	16	geneN	36	45	chem	49	57	chem
+5	8	geneN	153	161	geneY	104	118	chem
+98	101	geneN	18	26	geneN	74	82	geneN
+24	32	geneN
+99	102	geneN	46	57	chem	59	66	chem
+0	8	chem	10	17	chem
+57	60	geneN
+29	41	chem	0	6	geneY	15	19	geneY	8	13	geneY
+0	12	chem	14	19	chem
+46	48	geneN	50	60	chem	76	88	chem
+10	34	geneN	42	48	geneY	50	54	geneY	64	69	geneY	110	122	chem
+52	64	chem
+
+55	67	chem	39	44	geneY
+31	43	chem	108	124	chem	126	131	chem	136	152	chem	154	159	chem	74	92	geneY	108	169	geneN
+28	33	geneY	138	143	geneY	20	26	geneY	169	181	chem
+26	32	geneY	41	53	chem	104	109	chem	113	118	chem
+19	33	chem
+0	14	chem
+45	48	chem
+0	3	chem
+
+33	40	geneN
+50	53	chem
+111	114	chem	17	20	geneY
+
+19	24	geneY	28	38	geneY	141	145	geneY
+5	8	chem	51	55	geneY	59	69	geneY
+0	5	geneY
+47	50	chem
+8	20	geneN
+51	55	chem	22	34	geneN
+41	45	chem	136	157	geneY
+
+84	95	chem
+272	284	chem	286	287	chem	292	306	chem
+
+6	7	chem
+
+
+37	48	chem	134	138	chem
+80	84	chem	19	22	geneN
+0	7	chem	20	25	geneY
+70	102	geneN
+12	18	chem	23	30	chem	46	52	geneN	54	62	geneN
+
+
+
+123	128	geneY
+28	53	chem	67	70	geneY	72	76	geneN
+8	11	geneY	12	17	geneN	3	7	geneN	54	57	geneN
+77	102	chem	122	125	geneY	127	131	geneN
+104	107	geneY	109	113	geneN
+17	26	chem	34	44	chem	34	52	geneN
+10	20	chem
+56	66	chem	0	9	chem	50	55	geneY	56	74	geneN
+62	71	chem
+
+78	92	chem
+
+
+3	12	chem
+0	9	chem
+118	127	chem
+71	80	chem
+
+11	20	chem	28	38	chem
+14	22	geneY	69	81	geneY
+87	96	geneY	141	150	geneY	77	85	geneY
+84	97	chem	33	42	geneY	28	31	chem	64	83	chem
+76	76	chem	62	71	geneY	76	88	geneY	90	107	geneY	112	126	geneY
+83	86	chem	88	97	geneY
+49	58	geneY	74	91	geneY	94	113	geneY
+29	38	geneY	41	53	geneY
+43	52	geneY	69	81	geneY	137	149	geneY	137	137	chem
+62	71	geneY	98	110	geneY	152	169	geneY	173	187	geneY	57	60	chem	98	98	chem
+54	66	geneY	76	84	geneY	155	167	geneY	54	54	chem	71	74	chem	155	155	chem
+52	64	geneY	84	93	geneY	52	52	chem
+0	15	chem	33	40	chem	27	46	geneY
+31	46	chem	67	69	geneY
+
+31	51	chem
+124	134	chem	143	145	chem	150	161	chem	163	166	chem	44	65	chem	74	80	chem	84	86	chem
+17	18	chem	64	66	chem
+3	5	chem	38	41	chem	46	48	chem
+63	65	chem	81	84	chem	88	89	chem
+
+
+47	50	chem	54	58	chem
+129	131	chem
+
+52	54	chem
+
+139	141	chem
+
+81	83	chem	118	121	chem	126	129	chem
+
+99	101	chem
+88	90	chem
+46	48	chem	113	115	chem	123	125	chem
+0	20	chem
+0	20	chem
+
+28	48	chem	198	218	chem	109	130	geneY
+18	26	chem	98	102	geneY
+
+83	89	chem
+114	122	chem
+36	41	chem	118	122	geneY
+110	118	chem	146	153	chem	164	168	geneY
+10	19	chem	23	32	chem	88	96	chem
+44	49	chem	38	56	geneN
+14	21	chem	54	62	chem	71	76	chem
+39	46	chem	59	67	chem	76	81	chem
+103	107	geneY	27	35	chem
+108	112	geneY
+50	58	chem	35	39	geneY
+130	138	chem	142	151	chem	3	23	chem	3	55	geneN	56	60	geneY	62	65	geneY	67	71	geneY
+178	186	chem	13	17	geneY	59	63	geneY
+61	65	geneY
+72	76	geneY
+56	64	chem	68	77	chem
+187	191	geneY
+15	18	geneN	22	26	geneN
+
+48	75	geneY	77	81	geneY
+42	60	geneN	62	65	geneN	70	93	geneN	95	99	geneN	103	107	geneY
+98	101	geneN	105	109	geneN
+
+51	61	chem	69	74	chem
+116	126	chem
+
+
+
+0	10	chem
+
+
+0	10	chem	67	79	chem	95	114	geneY
+18	28	chem
+132	142	chem
+
+
+67	77	chem
+
+
+
+15	25	chem
+3	30	geneY
+168	171	chem	90	97	geneY	124	126	geneN	61	88	geneY
+103	105	geneY
+6	9	chem	0	2	geneN	51	53	geneY
+65	67	geneY
+0	25	geneN	27	30	geneN	77	84	geneY
+46	49	geneN
+101	111	chem	15	22	geneY	42	44	geneN
+18	28	chem	32	43	chem	120	127	geneY
+0	8	geneN	16	31	geneY	33	45	geneN	50	62	geneY	88	90	geneN	109	111	geneY	177	185	geneN	203	210	geneY
+0	9	chem
+51	58	chem	60	60	chem	51	78	geneY	80	83	geneY	11	20	chem
+188	195	chem	58	89	geneY	100	103	geneY	44	51	chem	58	76	chem
+13	22	chem
+80	89	chem	110	117	chem	119	122	geneY
+98	107	chem
+0	9	chem	60	67	chem	69	72	geneY	105	108	geneY	96	103	chem	121	130	chem
+79	88	chem	145	152	chem
+
+
+75	78	geneY	66	73	chem
+33	40	chem	114	121	chem
+0	10	chem	54	69	chem
+0	15	chem	17	22	chem	36	58	chem
+17	27	chem	29	31	chem	121	126	chem
+39	48	chem	52	60	chem	62	67	chem
+25	30	chem	47	56	chem	75	85	chem	87	89	chem	93	108	chem	110	112	chem	121	132	chem	134	136	chem
+0	5	chem	22	24	chem	32	34	chem	45	53	chem	124	134	chem	136	136	chem	124	148	geneN	150	152	geneN
+0	8	chem	54	59	chem
+82	87	chem	96	118	chem	33	35	chem
+63	72	chem	76	86	chem
+0	10	chem	14	23	chem
+20	29	chem	33	43	chem
+25	35	chem	75	87	chem	119	126	chem	171	181	chem	195	207	chem	227	251	chem	75	93	geneY	95	97	geneY	100	114	geneY	119	135	geneY	171	189	geneY	191	192	geneY	195	216	geneY	218	221	geneY	227	268	geneY	270	274	geneY
+11	21	chem	37	39	geneN
+42	51	chem	203	212	chem	85	101	geneN	148	150	geneY	198	237	geneY	239	243	geneY
+50	60	chem	123	132	chem	34	36	geneY	92	93	geneY	95	98	geneY	103	107	geneY
+27	37	chem	41	50	chem	236	245	chem	114	116	geneN	254	256	geneY	260	264	geneY
+51	60	chem	64	73	chem	24	41	geneY
+0	19	geneY	147	166	geneY
+20	29	chem	33	42	chem	145	164	geneY
+28	37	chem	41	50	chem
+0	9	chem	13	22	chem
+
+
+122	131	chem	163	172	chem	224	233	chem	0	9	chem	27	36	chem
+84	93	chem
+30	39	chem	82	91	chem	113	129	geneN
+54	63	chem	197	206	chem	210	219	chem
+56	69	geneY	7	32	geneY	7	20	chem
+
+76	89	geneY	168	181	chem	247	265	chem	276	291	chem
+0	19	geneN	21	23	geneN	0	13	chem	49	62	chem	65	80	chem
+
+
+
+
+
+36	49	geneY	104	106	geneN
+65	73	geneY	77	85	geneY
+70	78	geneY	44	61	chem
+
+
+
+38	41	geneY	50	58	geneY
+
+
+
+
+
+44	57	geneY
+20	23	geneY	69	86	chem
+27	35	geneY	56	69	geneY
+27	35	geneY	60	73	geneY
+60	73	geneY	99	107	geneY
+81	89	geneY	123	131	geneY
+14	33	chem	82	95	chem
+
+83	102	geneY	104	107	geneY
+0	13	chem	15	22	chem	62	65	geneY
+61	79	geneY	167	183	geneY
+59	66	chem
+25	32	chem	54	57	geneY
+16	35	chem	37	40	chem	80	88	chem	0	7	chem
+39	42	chem
+28	35	chem	52	59	chem	61	74	chem	83	87	chem
+45	58	chem	167	174	chem
+11	24	chem	86	93	chem
+34	47	chem	74	81	chem
+76	102	chem	40	71	geneY
+101	126	chem	140	151	chem	88	91	geneY	213	216	geneY
+7	38	chem
+3	11	chem	86	90	chem
+108	117	chem
+42	46	chem	178	188	chem	314	317	geneY
+39	47	chem
+0	8	chem
+55	63	chem	98	111	geneY
+0	8	chem	34	56	geneN
+8	11	chem	43	51	chem	8	20	geneN
+0	8	chem	43	46	chem	43	54	geneN
+9	12	chem	33	41	chem	9	20	geneN
+48	56	chem
+11	19	chem
+10	13	chem	25	33	chem	108	111	chem	10	22	geneN	108	119	geneN
+40	48	chem	58	69	geneY	71	75	geneY	104	108	geneY
+91	99	chem	109	112	chem	231	243	chem	245	252	chem	254	259	chem	109	120	geneN
+
+20	28	chem	77	85	chem
+0	9	chem
+
+
+
+12	18	chem	20	27	chem	29	40	chem	44	52	chem	67	76	chem
+0	9	chem
+13	22	chem	159	168	chem	127	135	geneY	219	225	geneN
+23	32	chem
+55	65	chem	89	97	chem	111	133	geneY
+3	33	geneY	60	70	chem
+30	33	geneY	12	18	chem	68	78	chem	102	110	chem
+33	43	chem
+121	131	chem	139	142	geneY
+72	82	chem	114	124	chem	132	135	geneY
+6	16	chem	124	134	chem
+70	83	geneN	32	42	chem	70	77	chem
+
+39	42	geneY
+66	75	chem
+0	9	chem
+
+
+
+
+
+69	75	geneN	205	213	geneY	263	283	geneY	287	318	geneY	93	99	chem	241	247	chem	249	251	chem	253	256	chem	263	269	chem	287	305	chem
+61	64	geneY
+166	172	geneN	74	80	chem	190	196	chem
+69	79	chem	0	3	geneN
+23	31	chem	36	44	chem	0	10	chem	12	14	chem
+0	2	chem	129	131	chem	72	75	geneN	77	79	geneN	134	137	geneN
+39	41	chem	69	72	geneN	73	79	geneN
+20	22	chem	106	108	chem
+0	2	chem	36	41	geneN	75	77	geneN	81	83	geneN	84	90	geneN
+12	16	chem	60	62	chem	20	25	geneN	74	76	geneY	78	82	geneY	101	111	geneY	154	162	geneY
+15	17	geneN	41	43	geneN	5	12	chem	31	38	chem	108	110	chem
+75	80	geneN	28	30	chem	67	69	chem
+22	24	geneN	28	32	geneN	0	2	chem	64	66	chem
+43	45	chem	153	155	chem	93	98	geneN	118	120	geneN	124	126	geneN	127	133	geneN	175	178	geneN
+60	62	chem	65	68	geneN
+0	25	chem
+54	60	chem	7	52	chem
+59	84	chem	86	92	chem
+72	78	chem	108	114	chem
+40	46	chem	97	108	chem
+57	62	chem	69	80	chem	110	114	chem
+59	65	chem
+15	21	chem	81	94	chem	96	100	chem	44	48	geneN
+17	23	chem	48	52	geneN
+0	6	chem	23	27	chem	60	77	geneY
+12	19	chem	72	78	chem	47	49	geneY	53	55	geneY
+12	19	chem
+34	40	chem
+8	20	chem
+23	35	chem	37	39	chem
+69	71	chem	232	247	chem	232	257	geneN	259	262	geneN	265	267	geneY	269	279	geneY	288	295	geneY	297	299	geneY	327	329	geneN	331	335	geneY
+55	68	chem	118	120	chem
+6	8	chem	27	29	geneN	57	61	geneY	80	84	geneY	86	88	geneY	108	112	geneY
+80	82	geneY	103	105	geneY	61	64	geneN	66	76	geneY
+107	109	chem	39	41	geneY	79	83	geneY	87	89	geneY
+
+41	43	chem	107	109	chem
+31	33	chem
+
+21	28	chem	0	13	geneY
+85	91	chem	30	37	chem	53	59	chem
+70	77	chem	170	176	chem
+
+
+38	53	chem	74	102	chem
+
+84	90	chem
+
+37	44	chem
+13	20	chem
+38	45	chem	66	72	chem
+27	34	chem	128	134	chem
+102	108	chem	27	30	geneY	3	24	geneN	45	54	geneY	74	93	geneN
+0	3	geneY	7	37	geneN	7	23	chem
+0	3	geneY	123	142	geneN	144	146	geneN	62	78	chem
+34	59	geneN	62	65	geneY	79	81	geneY	141	170	geneN	93	99	chem
+28	31	geneY	53	59	chem
+43	46	geneY	59	68	geneY	76	79	geneY	103	105	geneN	83	89	chem
+28	35	geneN	38	41	geneY
+153	162	geneY	176	179	geneY	16	19	geneY	40	43	geneY	49	50	geneN	59	62	geneY	91	97	chem
+26	46	geneY	94	105	geneN	108	114	chem
+21	24	geneY	28	37	geneY	71	73	geneN	82	88	chem
+37	48	geneN	126	129	geneY	61	67	chem
+21	28	chem	68	73	chem
+37	44	chem	83	98	chem
+138	145	chem	56	82	geneN	84	87	geneN
+15	18	geneY
+17	29	chem	153	160	chem	133	135	geneN	242	244	geneN
+124	136	chem	83	98	chem	28	31	geneY
+45	52	chem	118	125	chem
+132	139	chem	23	26	geneN
+28	33	chem	98	101	geneY
+0	27	chem	29	33	chem
+0	4	chem
+9	13	chem	20	21	chem	41	73	chem	75	80	chem	85	117	chem	119	124	chem
+28	33	chem	124	129	chem
+21	26	chem
+0	5	chem
+73	78	chem	107	111	chem
+49	52	geneY	76	79	geneN	81	83	geneN
+0	3	chem
+22	43	geneY	22	28	chem
+159	180	geneY	182	186	geneY	159	165	chem	197	208	chem
+19	23	geneY	65	95	chem	97	100	chem
+5	16	chem
+10	14	geneY
+0	4	geneY
+0	11	chem
+0	4	geneY	21	32	chem
+68	72	geneY	89	100	chem
+0	4	geneY	34	38	geneY
+136	143	chem	0	34	geneY	136	159	geneN	170	184	geneY	186	187	geneY	192	225	geneY	227	232	geneY	36	40	geneY	45	67	geneN
+85	89	geneY
+78	84	geneY
+27	31	geneY	47	53	geneY
+66	70	geneY
+119	123	geneY
+66	70	geneY
+49	53	geneY	81	87	geneY
+
+
+
+
+63	70	chem	74	77	chem
+28	31	geneY
+8	15	chem	23	26	chem	30	33	chem	39	46	chem	87	94	chem	126	133	chem	151	158	chem	170	173	chem	177	180	chem	187	199	chem	201	204	chem	207	215	chem	219	223	chem	39	61	geneY	63	65	geneY	68	71	geneY
+103	106	chem	122	125	chem
+6	9	chem	14	18	chem
+42	49	chem	27	30	geneY
+74	81	chem
+
+34	37	chem	55	64	chem	96	105	chem	109	120	geneN
+19	26	chem	28	40	chem	45	53	chem	0	3	geneY
+
+0	10	chem	31	35	chem	37	40	chem	78	97	chem	19	22	geneN	31	47	geneN	62	76	geneY	78	109	geneY
+0	10	chem	147	151	chem	153	156	chem	20	24	chem	125	137	geneN	139	142	geneN	147	163	geneN
+0	10	chem	47	61	geneY	63	66	geneY
+114	133	chem	0	2	geneY	114	145	geneY	147	154	geneY
+13	17	geneY	152	155	geneY
+25	31	chem	75	79	chem	81	84	chem	2	5	geneY	75	96	geneN
+35	45	chem	97	107	chem	0	3	geneY	7	14	geneY	73	76	geneY	80	87	geneY
+61	65	chem	67	70	chem	51	54	geneN	61	77	geneN	108	111	geneY	113	120	geneY
+92	95	geneY	16	29	geneY
+
+39	52	geneY	54	56	geneY
+9	11	geneY	62	64	geneY
+
+78	85	geneN
+109	118	chem
+
+20	22	geneY	52	59	geneN
+22	24	geneY
+15	18	geneY	44	50	geneN
+13	15	geneY	135	138	geneY
+
+
+
+
+
+
+57	70	chem	72	75	chem	92	105	chem	107	108	chem
+112	115	chem	60	63	chem
+15	16	chem
+
+7	10	chem	12	13	chem
+54	57	chem	68	69	chem
+46	47	chem	56	80	geneY	82	88	geneY	113	119	geneY
+70	76	geneY
+
+11	19	chem	22	29	chem	41	48	chem	41	59	geneY	61	63	geneY	77	79	geneY
+17	18	chem
+69	70	chem	143	153	chem	183	190	chem	183	201	geneY	203	205	geneY
+37	38	chem	104	105	chem	71	73	geneY	173	175	geneY
+
+4	5	chem	83	84	chem	104	105	chem	130	132	geneY
+37	38	chem
+0	1	chem	35	45	chem	64	66	geneY
+42	43	chem	78	80	geneY
+0	1	chem	27	29	geneY
+44	51	chem
+0	7	chem	120	127	chem
+14	21	chem
+206	213	chem
+114	119	chem
+
+
+149	156	chem
+
+
+
+25	48	geneY	50	58	geneY
+60	62	geneN	125	138	geneY
+3	5	chem	17	19	geneN	126	134	geneY
+136	144	geneY	22	30	geneY
+99	115	geneY	141	148	geneN
+
+
+
+0	5	chem
+0	5	chem	7	8	chem
+13	14	chem
+
+63	64	chem
+34	35	chem
+
+54	56	geneY	58	66	geneY	68	76	geneY	80	102	geneY	104	106	geneY
+82	83	chem
+61	62	chem
+47	55	geneY	65	67	geneY	113	121	geneY	138	144	geneN	165	167	geneY
+17	18	chem
+0	4	chem	9	16	chem	28	34	chem
+0	6	chem	8	9	chem
+52	56	chem	58	60	chem	73	80	chem	82	83	chem	120	121	chem
+28	29	chem	95	106	chem	108	114	chem	198	214	chem	297	299	chem	303	304	chem	108	127	geneN	129	143	geneN	145	163	geneN	167	196	geneN	198	227	geneN	229	231	geneN	234	240	geneN
+21	22	chem	100	109	chem	139	149	chem	161	163	chem	169	179	chem	194	204	chem	206	208	chem	214	224	chem	226	226	chem	240	242	geneN	100	118	geneN	120	122	geneN	125	132	geneY	134	136	geneY	139	159	geneN	161	166	geneN	169	188	geneY	190	191	geneY	214	238	geneN
+13	15	chem	19	20	chem	29	30	chem	101	102	chem	156	157	chem
+110	111	chem	129	131	chem	147	158	chem	0	2	chem	6	7	chem	73	74	chem
+27	29	chem	33	34	chem	66	67	chem
+47	85	geneY
+0	38	geneY	90	92	geneN	40	48	geneY	51	59	geneY	67	88	geneN
+0	8	geneY
+55	64	chem	19	27	geneY
+18	27	chem	77	82	chem	36	44	geneY	77	91	geneN
+77	85	geneY
+14	23	chem	60	68	chem	89	97	geneY
+91	99	geneY
+58	70	geneN	71	75	geneY
+39	41	chem	90	92	geneN	66	68	geneN	75	88	geneN
+12	19	chem	40	42	chem	97	101	geneY
+18	31	geneN	43	45	geneN	75	77	geneN	83	85	geneN
+17	21	geneY
+67	73	geneY
+3	20	geneN	21	25	geneY
+43	47	geneY
+164	170	geneY
+93	99	chem	104	110	chem	71	75	geneY	93	130	geneN
+12	16	geneY	18	22	geneN	25	31	geneY	85	93	geneN	98	107	geneN	73	83	chem
+33	37	geneY
+57	68	chem
+
+
+
+
+46	52	chem	46	68	geneN
+34	38	chem	34	61	geneN	100	106	geneN
+
+13	15	chem	13	42	geneN
+40	44	geneY	48	51	geneY	53	57	geneY	76	77	geneY
+61	81	geneN
+181	185	geneY	187	191	geneY	193	197	geneY	199	203	geneY	207	211	geneY
+14	18	geneY
+16	20	geneY
+10	14	geneY
+17	21	geneY	22	28	geneN	59	63	geneY
+12	16	geneY	17	23	geneN
+
+45	49	geneY	66	81	geneN	107	108	geneY
+
+100	108	chem
+71	79	chem
+59	74	chem	85	87	chem	100	103	chem	109	114	chem	116	121	chem
+
+51	54	chem	99	102	chem
+24	32	chem	140	143	chem
+
+26	29	chem
+
+
+
+0	4	chem	6	23	chem	107	109	geneN	111	114	geneY
+
+37	41	chem	43	60	chem
+11	15	chem
+5	9	chem	66	71	geneY	75	78	geneY
+51	55	chem	175	178	chem
+45	49	chem	74	76	geneN	78	81	geneY
+38	42	chem	54	56	geneN	58	61	geneY
+10	14	chem
+9	20	chem	38	49	chem	38	57	geneY
+127	138	chem	193	204	chem	36	47	chem	36	55	geneY	57	58	geneY	67	75	geneY
+170	181	chem	20	25	geneN	29	37	geneY
+8	13	geneN	26	34	geneY
+20	31	chem
+114	125	chem	186	190	chem	0	5	geneN
+0	8	geneY
+35	40	geneN	44	52	geneY
+19	30	chem	105	110	geneY
+39	44	geneY	76	81	geneY
+43	56	geneN
+136	149	geneN	151	153	geneN
+87	92	geneY	94	99	geneY	101	106	geneY	110	115	geneY	199	206	chem	208	220	chem	222	232	chem	234	243	chem	247	255	chem	80	85	geneY
+
+
+
+
+
+
+47	57	geneN
+3	14	chem
+101	112	chem	3	12	chem	87	98	chem
+
+115	122	chem	133	149	chem	151	152	chem
+32	41	chem
+0	8	chem	24	35	chem	24	43	geneY	45	46	geneY
+10	19	chem
+12	20	chem	22	24	chem	27	38	chem	40	43	chem	46	54	chem	56	58	chem	61	78	chem	80	84	chem	89	100	chem	102	104	chem
+8	17	chem
+0	3	chem	25	34	chem	52	63	chem
+38	44	chem
+37	46	chem
+0	2	chem	6	8	chem	25	34	chem	76	85	chem	87	102	chem	104	111	chem	116	129	chem	131	133	chem
+15	17	chem	19	22	chem	26	28	chem
+55	64	chem	86	87	chem	151	159	chem
+3	20	chem	48	51	chem	55	57	chem
+56	65	chem
+
+12	24	chem
+116	118	geneN
+
+21	33	chem	35	37	chem
+
+5	7	geneN
+
+19	21	geneN
+64	66	geneN
+33	35	chem
+
+38	40	chem
+
+149	151	chem
+0	9	chem
+0	9	chem
+20	29	chem	124	134	chem	145	173	chem	145	182	geneY	195	201	geneY	203	209	geneY	213	227	geneN
+0	9	chem	56	66	chem
+55	64	chem
+15	25	chem	3	37	geneN
+0	10	chem	96	105	chem	21	32	geneN
+0	9	chem	23	25	geneN	27	34	geneN	38	40	geneN
+41	50	chem
+
+24	32	chem
+74	97	chem
+72	93	geneY	0	23	chem	25	28	chem	72	80	chem	55	68	geneY
+66	69	chem
+82	85	chem
+
+16	19	chem
+22	25	chem
+23	32	chem	69	85	chem	87	89	chem	47	51	geneY
+50	62	chem	21	23	geneN	5	19	geneN
+86	94	chem	70	72	geneN	105	109	geneY	48	55	chem
+73	82	chem	119	135	chem	137	139	chem	97	101	geneY
+17	19	chem
+0	9	chem	67	69	chem
+49	51	chem
+
+21	23	chem
+31	33	chem	100	114	geneY	76	90	chem	92	98	chem	141	151	chem
+20	29	chem	169	171	chem
+49	53	geneY	25	34	chem	92	94	chem
+0	9	chem
+0	9	chem	109	139	geneN	141	144	geneN	11	16	chem	109	131	chem
+
+59	63	geneN	45	50	chem
+26	31	chem	53	60	chem	65	87	chem	89	91	chem
+72	91	chem	93	96	chem
+0	5	chem	7	14	chem	19	21	chem	71	74	chem
+71	80	geneY	82	86	geneY	124	153	geneN	155	158	geneN	166	194	geneN	196	205	geneN	99	102	chem	30	43	geneN	166	185	chem
+4	9	chem	13	20	chem
+45	50	chem
+37	40	chem	88	90	geneN	69	72	geneN	76	80	geneY
+
+45	55	chem
+31	34	chem	36	81	chem
+15	18	chem
+24	27	chem
+0	2	chem	56	59	chem
+0	3	chem
+27	30	chem	62	66	geneY
+31	34	chem	71	74	geneN	76	84	geneY	86	91	geneY	96	100	geneN
+25	28	chem	82	85	geneN	89	93	geneY	123	125	geneN
+0	3	chem
+9	18	chem	45	54	chem	58	73	chem
+42	51	chem	53	55	chem	79	88	chem	90	92	chem	97	112	chem	114	116	chem
+
+100	102	chem	107	109	chem	124	126	chem	163	165	chem	47	49	chem	61	63	chem
+
+
+120	122	chem	191	193	chem	204	206	chem
+76	78	chem
+23	25	chem	56	63	chem	101	103	chem	156	163	chem
+
+
+
+
+68	76	geneN	78	86	geneN
+140	147	chem
+74	106	geneY	81	88	chem	53	70	geneN
+47	54	chem
+0	7	chem	138	145	chem
+0	6	geneN	134	167	geneY	169	172	geneY	175	215	geneY	217	221	geneY	240	263	geneY	266	306	geneY	308	312	geneY	331	352	geneY	357	415	geneY	417	422	geneY	441	459	geneY	49	56	chem	389	395	chem	441	447	chem
+71	81	geneY	83	89	geneY	20	27	chem
+
+
+41	48	chem	59	179	chem
+
+41	47	chem
+66	76	chem	132	146	chem	54	61	geneN
+40	53	chem
+
+18	20	chem	24	31	geneN
+
+58	60	chem	64	71	geneN
+
+
+
+50	66	chem
+0	8	chem
+147	163	chem	165	169	chem
+
+82	92	chem
+48	65	geneN	67	69	geneN	74	93	geneY	95	98	geneY	0	4	chem
+83	92	chem
+54	58	chem	66	84	geneN	111	113	geneN	117	120	geneY	66	75	chem
+18	20	geneN	24	27	geneY
+11	15	chem	134	160	chem	164	178	chem
+
+
+0	22	chem	31	50	geneY
+53	69	chem	70	92	chem	11	30	geneY
+98	101	chem	105	109	chem
+50	53	geneY
+55	58	geneY
+35	57	chem
+
+
+
+
+
+
+211	217	chem	239	246	chem
+
+
+
+23	36	geneY
+0	13	geneY	15	18	geneY
+0	3	geneY
+49	76	chem	78	82	chem	108	111	geneY
+125	129	chem	159	162	chem	176	179	chem	41	44	geneY
+
+29	32	chem	108	111	chem	75	78	geneY	162	165	geneY
+
+97	104	geneY	117	122	geneY
+
+133	140	chem	146	153	chem
+
+9	15	chem
+
+125	131	chem
+143	146	geneY	196	222	geneY	260	265	geneY	297	304	geneY	334	338	geneN	342	349	geneN	51	60	chem	196	212	chem	107	141	geneY
+154	163	chem	170	177	chem
+16	21	chem	46	54	chem	16	36	geneY
+153	161	chem	18	23	chem	0	38	geneY	147	176	geneN	178	181	geneN	40	48	geneY
+
+38	46	geneY	129	134	geneY
+43	70	geneN	116	125	geneN
+145	153	chem	63	71	geneY	81	91	geneY
+46	54	chem	180	186	chem	190	199	chem
+
+
+36	65	geneY	74	77	geneY	0	9	chem
+55	58	geneY	69	98	geneY	11	20	chem	100	102	geneY
+26	28	geneY	43	46	geneY
+124	127	geneY	138	140	geneY	5	14	chem	29	32	geneY	74	76	geneY	99	102	geneY
+43	46	geneY	58	60	geneY
+51	54	geneY
+0	9	chem	92	102	chem	106	117	chem	19	24	geneY
+95	108	geneN	50	66	geneY	68	73	geneY	119	128	chem
+105	114	chem	203	213	chem	223	234	chem
+8	17	chem	43	53	chem
+
+29	50	chem
+13	22	chem	78	89	chem
+19	39	chem	172	183	chem
+8	28	chem
+19	28	chem	38	48	chem	106	117	chem
+54	64	chem	133	144	chem	91	96	geneY	163	168	geneY	40	49	chem
+90	108	geneN	50	67	geneN
+
+135	147	chem	82	124	geneN	20	37	geneN
+128	140	chem
+
+3	13	chem	26	33	chem	35	43	chem	47	55	chem	113	136	geneN
+0	8	chem	12	19	chem	40	69	geneN	83	96	geneY
+0	9	chem	11	16	chem	18	26	chem	28	48	chem	69	98	geneN	112	125	geneY
+0	6	chem	99	105	geneY	42	61	geneY	80	86	geneY
+
+0	13	chem	15	28	chem	30	38	chem	40	49	chem	51	58	chem	62	68	chem	108	120	chem	223	247	geneY
+33	40	chem	42	55	chem	57	65	chem	67	75	chem	77	90	chem	92	101	chem	103	109	chem	111	118	chem
+
+0	13	chem	55	67	chem
+
+76	82	geneY
+22	29	chem	123	129	chem	100	119	geneY	228	252	geneY
+
+55	63	chem	65	85	chem	95	107	chem
+
+0	9	chem	36	48	chem
+
+56	68	chem	29	46	geneN	145	163	geneY	204	240	geneN
+171	183	chem	102	120	geneN	141	154	geneY
+0	3	geneN	12	16	geneY	22	29	geneN	51	55	geneY
+30	45	geneN	47	49	geneN
+22	27	geneN	29	46	geneY	89	96	geneN
+15	18	geneN	20	24	geneY
+49	52	geneN	79	83	geneY	112	162	geneY
+199	209	chem	81	84	geneN	86	90	geneY	104	111	geneN	130	134	geneY	174	178	geneY	180	185	geneY	190	217	geneY	219	222	geneY
+21	24	geneN	42	46	geneY	55	59	geneY	72	85	geneN
+18	47	chem	123	125	geneN	135	139	geneY	148	152	geneY	178	183	geneY	54	59	geneN
+0	4	geneY	13	17	geneY	40	43	geneN
+47	52	geneN	106	110	geneY
+138	157	chem	14	26	chem	28	48	chem	53	96	chem
+99	118	chem	65	77	chem	65	88	geneY
+3	15	chem	28	48	chem	50	51	chem	56	99	chem	101	106	chem	164	183	chem
+18	19	chem	23	28	chem	107	126	chem
+0	1	chem	5	10	chem	115	134	chem
+
+
+
+
+
+
+
+48	57	chem	285	300	chem	302	312	chem	316	326	chem
+55	64	chem	55	73	geneN
+15	34	chem	53	72	geneY
+
+103	113	chem	145	187	chem	189	193	chem
+
+
+24	41	geneY	43	45	geneY	48	62	geneY	64	66	geneY	72	77	geneY
+
+
+20	26	geneN	39	43	geneY
+6	12	chem	77	83	chem	49	55	geneY
+154	161	chem	81	87	geneY	107	120	geneN	122	124	geneN	147	174	geneY	176	180	geneY	203	209	geneY
+40	52	chem	54	57	chem	60	71	chem	73	76	chem	82	90	chem	247	256	chem	103	109	geneN	152	156	geneY
+37	46	chem	61	80	chem	61	89	geneN	97	99	geneN
+166	173	chem	24	27	chem	29	32	chem	143	148	chem	150	152	chem	157	159	chem	36	40	geneY	81	87	geneN	115	117	geneN	121	125	geneY
+9	31	chem	41	49	chem	103	105	chem	63	67	geneY	75	77	geneN	81	85	geneY
+59	61	geneN	67	71	geneY
+32	41	chem
+21	29	chem	76	78	chem	48	50	geneN	54	58	geneY
+0	4	geneY	65	71	geneN	114	118	geneY
+53	55	chem	25	29	geneY	80	86	geneN
+
+
+
+
+
+99	106	geneN	108	114	geneY
+
+112	118	chem	144	153	geneN
+
+
+
+
+116	123	geneN
+28	30	chem
+
+
+
+
+
+
+102	120	chem	122	143	chem	145	155	chem	159	169	chem
+
+
+45	57	chem	152	163	chem	0	13	geneY	45	63	geneY
+41	53	chem	76	86	chem	41	59	geneY
+65	75	chem	138	159	chem	0	22	geneN	92	120	geneY
+4	13	chem	37	58	chem
+25	28	geneY
+113	127	geneY
+
+51	65	chem
+24	50	chem
+70	76	chem	80	88	chem
+35	41	chem
+19	32	chem	43	54	chem	70	84	chem
+140	147	geneY	132	136	geneY
+95	119	geneY	62	66	geneY
+96	104	chem
+209	211	chem	217	219	chem	31	59	geneY	61	65	geneY	178	182	geneY
+86	92	geneY
+124	128	geneY
+51	110	geneN
+11	17	geneY	42	46	geneY	62	66	geneY
+
+0	5	chem	38	53	chem	103	117	geneY	82	85	geneY
+
+0	5	chem	13	22	chem
+8	13	chem
+16	21	chem	54	69	chem	71	74	chem
+0	3	chem
+0	3	chem	68	73	chem
+0	5	chem	19	22	chem	19	33	geneY	35	38	geneY	60	61	geneY
+11	16	chem	70	73	chem	27	30	geneY
+12	17	chem	124	150	geneN	152	155	geneN	54	84	geneY	86	89	geneY
+29	31	chem	72	77	chem	104	109	chem	24	46	geneN	48	50	geneN	86	89	geneY	133	135	geneN
+24	29	chem
+
+98	117	chem	98	145	geneY	206	209	geneY
+
+
+
+
+191	192	geneY
+0	20	chem
+
+
+15	41	chem	15	48	geneY	50	53	geneY
+18	38	chem	40	42	chem
+
+
+19	21	chem	153	156	geneY
+0	3	chem
+0	3	chem
+132	135	chem	14	17	chem
+0	3	chem	80	86	geneY
+0	3	chem	103	106	chem
+127	136	geneN
+25	38	geneN
+
+
+
+32	44	chem
+
+46	56	chem
+9	19	geneY	45	58	geneN
+101	112	geneY	130	154	geneY	158	170	geneY
+
+
+
+
+
+41	46	chem	48	49	chem
+59	60	chem
+10	11	chem	90	96	chem	132	137	chem	148	160	geneY	90	109	geneN
+
+
+99	105	chem
+
+71	129	chem	131	133	chem
+184	190	chem	194	202	chem	88	97	chem	125	139	chem	150	156	chem	158	165	chem	167	175	chem	177	182	chem
+
+55	59	geneY
+
+
+70	74	geneY	130	134	geneY
+132	135	geneY	182	185	geneY	236	239	geneY
+72	80	chem	84	96	chem
+
+
+35	45	chem
+207	225	chem
+24	34	chem
+
+91	111	chem
+
+88	95	chem
+23	35	chem	51	60	chem	23	43	geneN
+0	12	chem	97	107	chem	37	49	chem	0	20	geneN	97	107	geneY	37	68	geneY
+57	67	chem	57	84	geneY	86	88	geneY
+8	10	geneY	32	34	geneY	105	114	geneY
+16	28	chem	16	28	geneY
+0	9	chem	120	132	chem	31	33	geneY	63	65	geneY
+0	9	chem	28	41	geneN
+16	25	chem	62	64	geneY
+0	9	chem	133	151	chem
+
+
+
+
+
+11	19	chem	32	38	geneY
+
+
+
+
+
+
+31	34	geneY	36	39	geneY
+0	30	geneY	32	35	geneY	49	52	geneY
+8	11	geneY
+53	56	geneY	69	72	geneY	105	109	geneN
+
+29	32	geneY	98	101	geneY	153	156	geneY	208	211	geneY	213	216	geneY
+16	23	chem	134	137	geneY	12	15	geneY	16	29	geneN	67	70	geneY	80	83	geneY
+132	135	geneY	151	154	geneY	166	169	geneY
+29	32	geneY	128	131	geneY	139	142	geneY
+55	58	geneY	60	63	geneY
+8	16	chem
+52	60	chem
+41	49	chem	96	98	geneN
+35	37	geneN
+35	37	geneN
+113	121	chem
+
+45	53	chem
+16	24	chem
+9	17	chem
+89	93	geneY
+0	15	geneY	17	21	geneY
+91	95	geneY	258	262	geneY	106	113	chem
+68	75	chem
+72	79	chem	194	197	chem	199	204	chem
+37	44	chem
+23	27	geneY
+25	34	chem	37	45	chem	53	65	chem
+26	35	chem	39	47	chem	141	145	geneY	52	68	geneY	70	74	geneY
+112	121	chem	140	148	chem
+41	52	chem
+55	58	chem	0	4	geneY
+
+
+173	181	chem	8	11	chem	93	102	chem	106	117	chem
+
+60	69	chem	73	81	chem	138	149	chem
+41	50	chem	59	69	chem	116	120	geneY
+12	21	chem	25	33	chem	92	103	chem
+55	63	chem	65	78	chem	82	91	chem
+76	84	chem	90	103	chem	111	120	chem	122	124	chem
+237	239	chem
+12	14	chem	0	8	chem
+0	13	chem
+61	71	chem	72	72	chem	100	100	chem	104	111	chem	112	112	chem	210	226	chem	278	280	chem	297	303	chem	324	331	chem	61	84	geneN	86	100	geneY	104	132	geneY	134	137	geneY	147	171	geneY	210	239	geneY	243	261	geneN	297	312	geneN	324	338	geneY
+247	261	chem	277	279	chem
+82	85	geneY	46	48	chem	166	168	chem
+79	94	geneY
+32	33	geneY	15	30	geneY
+139	140	geneY	24	34	chem	57	67	chem
+43	44	geneY	14	24	chem
+46	47	geneY
+3	4	geneY	39	47	geneN	75	76	geneY	87	97	chem
+147	148	geneY
+23	33	chem	40	41	geneY	44	45	geneY	78	79	geneY
+0	10	chem	14	31	chem
+72	77	chem	96	114	geneY	116	137	geneY	142	183	geneY	0	17	chem	96	106	chem	116	128	chem	142	166	chem	19	24	chem
+0	17	chem
+0	10	chem	27	46	chem
+84	93	chem	70	80	chem
+
+
+0	9	chem	97	105	chem	18	26	chem	18	37	geneY
+13	22	chem	44	52	chem	44	63	geneY
+
+0	9	chem	167	176	chem
+
+
+
+26	35	chem	70	78	chem
+66	74	chem
+0	9	chem
+21	30	chem	49	57	chem	49	59	geneY
+0	9	chem	11	82	chem	137	145	chem
+35	43	chem	170	178	chem
+
+73	82	chem	99	108	chem	123	131	chem	185	199	chem	201	216	chem	218	227	chem	229	238	chem	240	252	chem	254	264	chem	266	280	chem	285	294	chem
+0	9	chem	154	172	geneY	154	162	chem
+142	151	chem
+28	37	chem	71	79	chem
+30	33	geneN	35	37	geneN	0	8	chem	16	27	chem
+32	35	geneN	53	61	chem	70	81	chem
+28	36	chem	44	57	chem	72	81	geneN
+28	34	geneN	92	94	geneN
+18	21	geneN	101	103	geneN	195	198	geneN	248	262	geneN	43	51	chem	59	72	chem
+47	55	chem	19	22	geneY
+82	91	chem	93	101	chem	106	111	chem	113	145	chem	149	159	chem	71	80	chem
+
+25	48	geneN	50	52	geneN	54	62	geneY	25	37	chem	66	71	chem	119	131	chem	134	152	chem
+0	2	geneN
+36	39	geneY	56	59	geneY
+86	88	geneN
+43	45	geneN
+54	58	geneN	78	89	geneN	122	126	geneN	129	132	geneY
+19	23	geneN
+79	83	geneN
+22	26	geneN
+9	12	geneY	19	23	geneN	84	90	geneY
+36	49	geneN	10	14	chem	16	27	chem	36	43	chem
+92	97	geneY	103	105	geneY	47	49	geneY	51	90	geneY	14	25	chem	8	12	chem
+50	61	chem
+52	63	chem
+
+100	102	geneY
+
+
+83	85	geneN	87	89	geneN	94	99	geneN
+
+
+
+11	22	chem
+105	107	geneY	109	114	geneY	119	121	geneY	0	11	chem
+
+28	36	chem	64	72	chem	28	44	geneN
+187	195	chem	66	82	chem	187	204	geneN	66	113	geneN
+
+83	91	chem	93	111	chem	113	116	chem	83	127	geneN	129	133	geneY	135	140	geneY	142	147	geneY	149	154	geneY	156	161	geneY	163	168	geneY
+
+89	128	chem	130	138	chem
+34	37	chem	57	65	chem
+15	23	chem	155	163	chem	155	171	geneN
+55	63	chem	109	117	chem	119	127	chem	132	144	chem
+48	56	chem	84	91	chem	84	98	geneN
+116	124	chem	116	132	geneN
+21	29	chem
+8	19	chem	49	59	chem
+0	10	chem	145	150	geneY	15	54	geneY
+15	26	chem	99	109	chem	136	161	chem	58	63	geneY
+33	43	chem	68	79	chem
+30	41	chem	54	64	chem
+6	31	chem
+27	37	chem	41	52	chem
+92	102	chem	125	135	chem	10	21	chem	204	209	geneY
+26	62	chem	65	72	geneN
+11	47	chem	49	51	chem
+50	52	chem	113	115	chem
+31	33	chem	38	40	chem
+115	122	geneN	23	25	chem
+33	35	chem
+64	66	chem	22	26	geneY	28	32	geneY	37	40	geneY	44	48	geneY
+28	32	geneY	55	59	geneY	8	10	chem
+82	89	geneN	19	21	chem
+
+0	27	chem	120	129	chem	28	71	chem	73	79	chem	83	97	chem
+0	4	chem
+
+45	49	chem	72	81	chem	83	154	chem	156	162	chem
+153	157	geneY
+14	20	chem	166	175	chem	149	153	geneY
+71	74	chem	76	76	chem	78	80	chem	0	6	chem	43	55	chem	58	60	chem	58	89	geneN
+26	32	chem
+18	24	chem
+108	114	chem	124	133	chem	7	22	geneY	26	42	geneY	56	60	geneY
+0	6	chem	14	23	chem	55	59	chem
+34	40	chem	121	121	chem	123	125	chem	121	133	geneN
+29	33	chem
+0	14	chem	104	106	geneY	23	43	geneY	69	100	geneN
+
+43	50	chem
+0	7	chem	20	40	geneY
+0	7	chem
+25	61	geneN	95	100	geneN	142	144	geneY
+17	19	chem	25	30	geneN	42	44	geneY
+0	7	chem	79	84	geneN
+21	41	geneY	43	45	geneY	79	84	geneN	88	90	geneY
+67	71	chem	83	105	geneN	0	2	geneY	31	33	geneN	37	39	geneY
+26	40	chem	59	61	geneY	70	75	geneN	79	81	geneY	124	126	geneY	133	138	geneN
+12	19	chem	27	32	geneN	47	57	geneY
+
+0	3	geneY
+74	76	chem	35	38	geneN	125	128	geneN
+30	63	geneN	44	52	chem
+32	40	chem
+44	52	chem	3	14	geneY	35	69	geneY	71	74	geneY
+78	95	geneN	96	105	geneY	107	110	geneY	78	84	chem	0	6	geneY	55	61	geneY
+23	29	geneY
+0	11	geneY
+15	26	geneY
+0	6	geneY
+97	101	geneY	10	16	geneY	27	35	geneY	48	58	geneY	69	95	geneY
+32	58	geneY	60	64	geneY	92	102	geneY
+103	113	geneY	175	185	geneY	44	49	chem	58	81	chem	83	86	chem	138	143	chem
+19	29	geneY	39	43	geneY	78	84	geneY	87	95	geneY
+16	26	geneY	29	35	geneY	61	71	geneY	89	93	geneY
+50	58	geneY	91	95	geneY
+14	20	geneY	35	39	geneY
+12	18	geneY	21	25	geneY	80	84	geneY	112	118	geneY
+73	90	geneY	12	16	geneY	18	24	geneY
+12	18	geneY	21	25	geneY	104	108	geneY
+25	35	geneY	39	45	geneY	48	52	geneY	110	116	geneY	119	123	geneY	152	162	geneY	55	65	chem	165	169	geneY	85	88	chem
+36	46	geneY	49	53	geneY	99	105	geneY	186	192	geneY
+0	7	chem	50	84	chem	0	15	geneY	16	24	geneN
+63	97	chem	99	102	chem
+18	40	geneY	42	44	geneY	68	83	geneY	85	86	geneY	0	3	chem	18	32	chem	68	75	chem
+3	4	geneY	29	37	geneN
+125	127	geneY	138	147	geneN	28	31	chem	93	114	chem
+3	5	geneY	16	21	geneY	75	76	geneY	77	79	geneN	48	51	chem
+17	18	geneY	57	58	geneY	0	3	chem	78	81	chem
+42	45	chem	117	120	chem	16	18	geneN	48	49	geneY	123	124	geneY
+12	20	chem	30	38	chem	12	27	geneN
+108	116	chem	200	208	chem	210	231	chem	42	47	chem	51	61	chem	108	123	geneN	125	127	geneN	166	168	geneN
+0	8	chem	32	37	chem	41	51	chem	100	108	chem	168	175	geneN
+83	92	geneN
+30	39	chem	47	51	geneY
+14	34	chem	76	81	chem	113	117	chem	119	119	chem	121	122	chem	124	125	chem	127	127	chem	129	133	chem	135	135	chem
+53	62	chem	96	98	geneN
+17	17	chem	31	40	chem
+17	37	geneY	65	80	geneN	65	71	chem
+0	6	chem
+0	6	chem
+
+99	119	geneY	121	124	geneY	173	183	chem
+27	30	geneY
+33	36	geneY	94	104	chem
+52	67	geneN	78	81	geneN	52	58	chem
+17	23	chem	45	48	geneN	230	233	geneN
+32	41	chem	45	53	chem	12	22	geneY	24	28	geneY
+94	104	chem	132	140	chem	71	80	chem	82	86	chem	94	121	geneY	144	160	geneN	38	60	geneN
+11	15	chem	19	27	chem
+16	24	chem	84	94	geneY
+4	8	chem	56	70	geneN
+35	39	chem	48	56	chem
+
+39	43	chem	47	55	chem
+46	65	geneN
+135	139	chem	143	151	chem	67	84	geneN
+
+0	13	geneY
+147	155	chem	157	167	chem	171	182	chem	346	358	chem	41	54	geneY	427	446	geneY
+
+
+
+31	39	chem	41	51	chem	55	66	chem
+108	116	chem	120	124	chem	128	134	chem	137	147	chem	149	158	chem	160	166	chem	168	179	chem	181	186	chem	189	194	chem	199	205	chem
+
+
+
+130	138	chem	140	150	chem	153	164	chem
+
+
+
+
+
+
+106	114	chem	127	137	chem	147	155	chem	168	179	chem
+
+
+66	74	chem	78	88	chem
+57	65	chem	69	80	chem
+34	42	chem	47	58	chem
+28	41	geneY
+
+
+53	66	geneY
+48	56	chem	69	80	chem
+11	21	chem	25	36	chem	42	50	chem
+13	21	chem
+75	81	chem	21	49	geneN
+0	22	geneN	24	27	geneN
+38	45	chem	64	70	chem	0	3	geneN	17	52	geneN	111	113	geneN
+71	74	geneN
+101	108	chem	17	21	geneY	25	29	geneY	31	33	geneY	87	90	geneN
+4	6	geneN
+32	38	chem
+51	57	chem	137	143	chem	8	12	geneY	96	100	geneY
+105	109	geneY
+48	55	chem	68	71	geneN
+7	13	chem
+0	11	chem	27	35	chem
+0	8	chem
+61	72	chem	84	92	chem
+111	119	chem
+0	11	chem	13	37	chem	39	43	chem	174	182	chem	56	100	geneY	102	107	geneY
+
+28	39	chem	88	102	chem	104	106	chem	184	192	chem	109	132	geneY	134	138	geneY	141	159	geneN	161	165	geneN
+27	37	chem	39	41	chem	53	58	geneY
+50	54	chem
+0	11	chem	47	55	chem	114	118	chem
+38	49	chem	66	74	chem	122	127	geneY
+12	23	chem	80	88	chem
+64	74	chem	0	3	geneY	29	34	geneY	36	45	geneY	47	50	geneY	55	82	geneY
+66	74	geneN
+99	112	geneY	116	121	geneY	129	136	geneN
+23	28	geneY
+104	114	chem	0	5	geneY	36	41	geneY	43	52	geneY	54	84	geneY	86	89	geneY	95	122	geneY	124	127	geneY	183	207	geneY	209	217	geneY	221	226	geneY
+63	68	geneY
+82	101	chem	103	107	chem	0	12	chem	14	16	chem	42	47	geneY	49	52	geneY	57	60	geneY	70	75	geneY	131	134	geneY	160	169	geneY	171	174	geneY	179	182	geneY
+0	2	chem	6	10	chem	40	49	geneY	53	56	geneY	84	89	geneY	91	101	geneY
+7	35	geneN	65	70	geneY	72	81	geneY	85	88	geneY
+32	40	geneN	139	148	geneN	152	168	geneN
+0	2	chem	9	12	geneY
+31	71	chem
+286	289	geneY	140	165	chem	254	262	chem	44	84	chem
+85	91	chem
+0	12	chem	34	40	chem	98	112	chem
+
+
+102	110	chem
+27	35	geneY	65	68	geneY
+121	125	geneY	43	50	geneY	52	56	geneY
+0	4	geneY
+32	36	geneY	93	97	geneY
+51	63	chem	67	78	chem	92	99	chem	139	142	chem	115	118	geneY
+60	73	chem	98	102	geneY	154	170	geneN
+78	82	geneY
+31	34	geneY	89	96	geneN	111	115	geneY
+75	87	chem	98	110	chem	0	4	geneY	29	50	geneY
+21	24	geneY	83	86	geneY
+125	138	chem	36	40	geneY	192	195	geneY
+27	42	geneY
+102	108	chem	102	115	chem	33	36	chem	38	43	chem	0	10	geneY	12	15	geneY	17	27	geneY
+44	47	geneY
+28	31	geneN	48	68	geneY	70	73	geneY	78	99	geneY
+20	23	geneY	38	49	geneN
+98	105	chem	49	52	geneY	85	88	geneN	125	128	geneY	145	147	geneN
+25	36	chem	11	14	geneY
+68	71	chem	99	105	chem	35	38	geneY	55	58	geneN
+23	31	chem	23	42	geneY
+0	8	chem	63	79	chem	81	84	chem	0	19	geneY	21	24	geneY
+0	3	chem	36	44	chem	69	72	chem	80	83	geneY
+16	19	chem	26	34	chem	52	61	chem	63	65	chem
+
+39	42	chem
+0	3	chem	152	155	chem
+122	125	chem	127	129	chem	75	78	geneY
+
+48	51	geneY
+65	68	chem	69	72	geneY
+62	65	chem	38	41	geneY	99	102	geneY
+38	41	geneY
+
+
+
+
+
+
+
+
+102	107	chem	102	114	geneN	55	59	geneY
+
+0	8	chem
+32	35	geneY	3	30	geneY	58	83	geneY	85	89	geneY
+0	27	geneY	29	32	geneY	48	55	geneN
+15	18	geneY	102	126	geneN	128	131	geneN
+0	4	geneY	51	77	geneY	108	129	geneN	131	133	geneN
+28	31	geneY	69	73	geneY
+42	45	geneY	73	77	geneY	100	103	geneY
+213	217	geneY	226	228	chem	235	237	chem	33	41	geneY	54	57	geneY	72	85	geneN	105	109	geneY	143	172	geneN	181	185	geneY	0	0	chem	111	113	chem	120	122	chem	143	143	chem
+16	20	geneY	63	63	chem	80	82	chem	89	91	chem
+0	6	geneY	59	62	geneY
+0	7	geneY	9	18	geneY	20	27	geneY	32	48	geneY
+68	87	geneN	90	94	geneY	119	122	geneY	131	132	geneN
+34	42	geneY	52	56	geneY	59	62	geneY	171	174	geneY
+108	127	geneY
+91	94	geneY	70	89	geneY
+85	88	geneY
+0	11	chem
+44	47	geneY
+12	23	chem
+8	19	chem
+11	22	chem	26	34	chem	60	79	geneY	83	103	geneY
+0	20	geneY
+12	23	chem
+0	11	chem
+
+21	32	chem
+
+0	11	chem
+29	40	chem
+33	44	chem
+11	22	chem
+27	29	chem	75	77	chem	27	52	geneY
+159	163	chem	21	23	chem	93	95	chem	66	74	chem	76	85	chem	21	46	geneY	48	51	geneY	104	157	chem
+87	103	chem	133	141	chem	155	163	chem	169	175	chem	200	206	chem	72	75	geneY
+
+2	10	chem	15	21	chem
+49	57	chem	0	3	geneY
+0	16	chem	62	68	chem
+11	20	chem	22	26	chem	30	38	chem	82	90	chem	48	59	geneY
+45	53	chem	57	61	chem	68	77	chem	3	6	geneY
+0	9	chem	13	17	chem	29	35	chem
+46	52	chem	58	67	chem	77	81	chem	15	23	chem
+0	8	chem	12	21	chem	42	44	chem	46	48	chem	61	70	chem	74	78	chem	96	98	chem
+84	92	chem	103	107	chem	171	179	chem	39	49	geneY	84	115	geneN	117	120	geneN
+40	44	chem	48	57	chem	62	68	chem	108	110	chem	245	246	chem	248	248	chem	123	126	geneN	223	226	geneY	245	255	geneN
+74	85	chem	56	65	geneY
+
+81	93	chem	95	97	chem	53	70	geneN
+43	45	chem
+
+
+
+
+117	119	chem	69	78	geneY
+0	2	chem	21	30	geneY
+65	74	geneY
+3	5	chem	81	83	chem	14	23	geneY
+65	67	chem	35	44	geneY
+10	12	chem	42	51	geneY	83	92	geneY
+106	111	chem	60	65	chem	102	104	geneN	20	26	geneY	44	72	geneN	76	100	geneN
+30	35	chem	0	24	geneN	101	107	geneY	174	180	geneY	26	28	geneN
+107	112	chem	0	6	geneN	17	23	geneY	25	27	geneN	29	31	geneN	33	36	geneY	41	43	geneN	69	75	geneY	104	106	geneN
+49	55	geneN	174	180	geneN
+9	15	geneY	17	25	geneN	29	32	geneY
+5	11	geneN	46	52	geneN	83	89	geneY	91	99	geneN	105	107	geneN
+0	24	geneN
+
+
+64	72	chem	78	86	chem	150	173	geneN	175	189	geneY
+0	9	chem	65	80	chem	114	122	chem	145	153	chem
+23	38	chem	68	76	chem	87	95	chem	47	55	geneY
+52	60	chem
+87	95	chem
+18	23	chem	39	62	chem	74	82	chem	18	31	geneN	7	17	geneY
+13	18	chem	20	21	chem	0	30	geneN
+10	26	chem	28	30	chem	47	52	chem	0	8	chem	47	59	geneN
+34	57	chem	69	85	chem	131	136	chem	118	130	geneY	131	144	geneN
+0	5	chem	44	54	chem	56	66	chem	68	78	chem	80	91	chem	95	105	chem
+15	20	chem
+14	30	chem	40	45	chem	58	81	chem	159	166	geneY
+14	19	chem
+3	28	chem
+
+17	33	chem	44	67	chem	129	134	chem
+54	59	chem	54	66	geneN
+16	25	geneY
+11	14	geneY	48	52	geneN	0	9	geneY
+36	39	geneY
+22	25	geneY	94	97	geneY	143	156	geneN
+0	5	geneY	7	10	geneY
+
+56	61	geneY	63	66	geneY
+35	40	geneY	42	45	geneY	134	139	geneY	141	144	geneY
+
+0	7	chem	0	32	geneY	34	37	geneY	102	107	geneY	109	112	geneY	165	170	geneY	172	175	geneY
+17	19	geneY	47	52	geneY	54	57	geneY	10	14	geneY
+35	38	geneY
+0	2	chem	0	25	geneN
+85	87	chem	85	110	geneN	112	115	geneN
+106	123	chem	88	94	geneN
+130	134	geneN	168	170	geneN
+103	111	chem	19	22	geneN	103	122	geneN
+14	22	chem	26	30	chem	0	3	geneN
+40	48	geneY
+32	35	geneN
+8	21	geneY
+
+46	59	geneY
+48	52	geneY	60	65	geneY
+14	20	geneN	59	62	chem	74	94	chem
+13	38	chem	74	77	chem
+16	19	chem
+
+77	90	geneY
+37	40	chem	99	111	geneY
+41	70	geneN	53	61	chem
+18	37	geneN
+94	106	chem	29	32	geneY	8	27	geneY
+0	3	geneY	98	120	geneY	122	124	geneY
+88	94	chem	5	8	geneY	24	42	geneN	88	112	geneY	114	118	geneY
+48	51	geneY	78	98	geneY	100	103	geneY
+47	50	geneY	54	57	geneY
+42	45	geneY	187	201	geneN	242	255	geneN	137	140	chem	145	154	chem	169	174	chem	242	246	chem
+176	183	chem	17	20	geneY	58	88	geneN	90	94	geneN	161	165	geneN	68	80	chem	104	112	chem	115	123	chem	140	148	chem
+0	3	geneY	123	136	geneY
+36	39	geneY	43	46	geneY
+0	3	geneY
+33	35	chem	37	38	chem	33	46	geneN	48	50	geneN
+47	49	chem
+0	25	chem	36	38	chem	81	83	geneN	92	95	geneY	99	102	geneY	110	113	geneY
+16	18	chem	52	55	geneY	57	60	geneY	65	68	geneY
+9	13	chem	17	21	chem	71	73	chem	139	141	chem	47	50	geneY
+24	35	chem	52	64	chem	77	81	chem
+174	178	chem	39	80	chem	98	142	geneY	144	147	geneY
+65	77	chem	88	90	chem	92	95	chem	136	139	chem	152	159	chem	31	34	geneY	88	109	geneY	152	168	geneN
+7	10	geneY	50	61	geneN	91	94	geneY	134	137	geneY	141	171	geneN	188	191	geneY	225	239	geneN
+95	104	chem	0	17	geneN
+
+
+21	38	geneN	40	43	geneN
+56	59	geneN	61	64	geneN	68	71	geneY	118	135	geneY	146	153	geneN
+61	74	chem	23	26	geneN
+
+17	24	chem	47	56	chem	12	15	geneN	42	45	geneN
+48	57	chem	15	18	geneN	21	24	geneN
+14	21	chem
+16	23	chem	37	46	chem
+11	14	chem	29	37	chem	11	27	geneY
+11	20	chem	63	66	geneN
+46	49	chem	46	65	geneN	67	70	geneN	74	77	geneN
+12	29	geneY	71	74	geneN	78	81	geneN
+
+
+
+
+34	58	chem	60	68	chem	70	189	chem	192	197	chem	199	254	chem	260	265	chem	267	320	chem	13	15	geneY
+106	115	chem	127	206	chem	208	214	chem
+0	13	chem	76	81	chem	83	144	chem	150	159	chem	178	182	chem	202	211	chem	66	68	geneY
+50	55	chem	187	196	chem	209	217	chem	241	251	chem	272	280	chem	310	314	chem	316	400	chem	40	42	geneY	209	230	geneY	297	299	geneY
+82	84	geneY
+24	30	chem
+86	89	chem	24	30	chem	48	54	chem	70	74	chem	76	79	chem	83	84	chem
+36	42	chem
+83	86	chem	38	46	geneN
+3	10	geneN	34	54	geneN
+50	58	geneN	73	76	chem
+161	164	chem	3	11	geneN	14	32	geneY	34	41	geneY	46	74	geneY	76	85	geneY
+0	3	chem	24	39	geneN	65	82	geneN
+78	81	chem
+58	61	chem	84	101	chem	103	104	chem	109	145	chem	147	150	chem	185	199	geneN	14	29	geneN
+39	57	chem	6	23	geneN	59	60	chem	147	150	chem
+103	106	chem
+12	19	geneN	103	106	chem
+3	11	geneN	61	68	geneN	69	72	chem	117	120	chem
+187	190	chem	11	18	geneN	106	109	chem
+
+9	17	chem
+73	81	chem
+40	44	chem	46	57	chem	84	92	chem	212	239	chem	154	177	geneY
+8	16	chem
+
+36	44	chem	117	144	chem	158	181	geneY
+32	40	chem
+57	81	geneY
+9	17	chem	45	53	chem	57	72	chem	9	24	geneN
+204	214	chem	247	255	chem	25	27	chem	294	304	chem	30	54	chem	56	60	chem	65	85	chem	8	23	chem	87	90	chem	144	164	geneY	166	170	geneY	197	201	geneY	232	236	geneY	240	244	geneY	289	291	geneN	144	152	chem	174	183	chem
+8	10	chem	56	64	chem	67	76	chem	108	116	chem	146	156	chem	190	200	chem
+19	28	chem	30	38	chem	41	51	chem	90	94	chem	98	101	chem	118	128	chem	149	152	chem	155	157	chem
+9	11	geneN
+67	68	chem	30	32	chem	71	75	geneY	100	104	chem	166	169	chem	226	239	chem	288	290	chem	309	319	chem
+11	42	geneY	56	85	geneN
+33	64	geneY	66	71	geneY
+
+71	71	chem	81	89	chem
+0	5	geneY
+116	121	geneY
+41	50	geneN	54	60	geneN	120	133	geneN
+0	5	geneY	60	77	geneN
+14	25	chem
+73	84	chem
+50	54	geneN	97	100	geneN
+52	59	chem	25	29	geneY	33	37	geneY	63	67	geneY	76	80	geneY
+60	68	chem	147	151	geneY	155	159	geneY	41	83	geneN
+0	7	chem	22	39	geneN	93	97	geneY	108	112	geneY
+42	49	chem
+150	157	chem	160	164	geneY	268	272	geneY
+
+25	32	chem	115	122	chem	35	39	geneY	102	106	geneY
+70	77	chem	31	35	geneY	46	50	geneY
+
+24	31	chem	98	110	chem	114	124	chem
+33	37	geneY
+53	61	chem	41	70	geneN
+16	16	chem	109	122	geneY	127	140	geneN	79	107	geneN
+126	129	geneN	0	25	geneN	34	64	geneY	92	124	geneN	66	67	geneY	71	88	geneY
+0	43	geneY	47	48	geneY	50	54	geneY	63	89	geneN	93	94	geneY	96	100	geneY	102	112	geneY	116	117	geneY	119	123	geneY	125	135	geneY
+0	19	geneN	23	26	geneN	50	67	geneY	69	72	geneY	74	77	geneY	82	85	geneY
+3	7	geneN	14	37	geneN
+37	41	geneY	45	49	geneY
+11	20	geneN	60	64	geneY	68	72	geneY	90	94	geneY
+28	32	geneY	36	40	geneY	48	52	geneY	77	78	geneY	80	84	geneY	88	89	geneY	91	95	geneY	96	106	geneN
+52	56	geneY	69	73	geneY
+17	21	geneN	54	55	geneY	85	102	geneY	104	108	geneY
+
+50	51	geneY	81	85	geneY	113	121	geneY	131	143	geneY	12	16	geneY	20	24	geneY
+6	9	geneN	11	23	geneY
+18	22	geneY	23	27	geneN	31	34	geneN	57	60	geneY
+26	27	geneY
+60	64	geneY	66	70	geneY	90	91	geneY
+52	52	chem
+0	0	chem	130	164	geneY	166	168	geneY	170	180	geneY	185	211	geneY	213	215	geneY	217	225	geneY
+140	142	geneY
+37	128	chem	20	22	geneY
+
+121	135	chem	32	78	chem
+53	99	chem	36	38	geneY
+11	52	chem	95	103	chem	156	164	chem	182	189	chem	176	178	geneY	182	206	geneY
+0	6	chem
+32	38	chem
+116	122	geneY	159	177	geneN	181	190	geneN	80	90	chem
+24	34	chem	37	48	chem
+42	71	geneY	73	87	geneY	91	109	geneY	42	58	chem	91	101	chem
+108	115	chem
+11	21	chem	55	89	geneY	91	94	geneY
+0	3	geneY
+38	56	geneY	58	61	geneY	67	94	geneN	96	101	geneY	104	126	geneY	128	131	geneY	133	137	geneY	143	175	geneY	177	182	geneY
+52	62	chem	75	81	geneY	101	111	chem
+43	46	geneY	152	162	chem
+0	4	geneY
+
+11	18	chem	0	10	geneN	11	25	geneN
+18	29	geneN	131	135	geneY
+69	73	geneY
+64	71	chem	64	82	geneY	84	85	geneY	113	117	geneY	130	134	geneY	151	152	geneY
+235	242	chem	29	33	geneY	144	145	geneY
+8	12	geneY	38	42	geneY	96	97	geneY
+22	26	geneY
+23	27	geneY
+21	34	chem	84	94	chem
+58	79	geneN	58	71	chem
+50	63	chem	33	71	geneY
+166	181	geneY	46	56	chem	134	145	chem	166	172	chem
+46	59	geneN	31	42	chem
+
+
+0	8	chem	12	26	chem	33	41	chem	45	51	chem
+29	37	chem	41	55	chem	62	70	chem	74	80	chem
+46	53	chem	46	61	geneY
+
+18	26	chem	30	44	chem	105	113	chem	117	123	chem
+14	22	chem	26	40	chem
+49	57	chem	61	75	chem	78	86	chem	90	96	chem	160	168	chem	172	186	chem	196	204	chem	208	214	chem
+34	56	chem
+121	143	chem	145	149	chem	152	175	chem	177	181	chem	184	219	chem	221	225	chem	231	289	chem	291	297	chem
+30	44	chem	46	55	chem	57	71	chem	76	90	chem	92	94	chem	97	99	chem	183	186	chem
+28	30	chem	128	131	chem	177	181	chem	190	194	chem	263	269	chem	314	316	chem
+115	118	chem
+
+
+15	24	chem
+31	40	chem	42	44	chem
+138	140	chem
+
+
+33	35	chem	91	94	chem	117	130	chem
+138	140	chem	27	29	chem	108	111	geneY	115	119	geneY	173	182	geneY
+66	68	chem	190	192	chem
+53	56	chem	89	103	geneN
+3	8	chem	36	44	geneN	46	49	geneN	54	62	geneN	64	67	geneN
+109	114	chem
+3	8	chem	21	32	chem
+93	100	chem	125	136	chem	138	184	chem	186	191	chem	196	239	chem	241	244	chem
+15	18	chem	22	27	chem	118	123	chem	154	157	chem	52	55	geneN
+0	5	chem	32	35	geneN	39	42	geneN
+86	97	chem	0	5	chem	18	23	chem
+52	57	chem	82	87	chem	42	45	geneN	47	50	geneN	126	129	geneN	133	136	geneN	189	192	geneN
+35	40	chem	14	17	geneN	82	85	geneN
+43	54	chem	62	67	chem	116	119	geneN	144	147	geneN	149	152	geneN
+0	14	chem	87	93	chem	59	64	geneY	87	102	geneY
+0	10	chem
+49	63	chem
+23	37	chem
+151	165	chem	15	58	geneY	60	63	geneY	86	95	geneY	97	128	geneY	133	137	geneY
+145	159	chem	55	59	geneY	61	74	geneY	76	78	geneY	84	118	geneY	120	122	geneY
+12	15	chem	72	86	chem	29	42	geneN	44	46	geneN
+151	161	chem	197	220	chem	222	227	chem	59	73	chem	102	116	chem	197	237	geneY	288	324	geneY
+69	83	chem	119	124	chem	186	200	chem	119	133	geneY	156	161	geneY
+41	50	chem	80	100	chem
+0	10	chem	0	18	geneY	22	36	geneY	90	109	chem	22	30	chem
+0	18	geneY	0	10	chem	32	64	chem	114	119	chem
+80	89	chem	92	112	chem	26	51	chem	56	61	chem	63	65	chem
+27	29	chem	43	52	chem	137	147	chem	182	190	chem	137	155	geneY	182	196	geneY
+40	42	chem	47	56	chem
+11	18	chem	48	55	chem	57	62	chem
+55	62	chem	76	80	chem
+47	53	chem	55	59	chem
+0	4	chem	42	49	chem	117	131	chem
+14	20	chem	43	50	chem	130	143	geneN	147	160	geneN	166	179	geneN
+15	27	chem	50	57	chem	91	100	chem	107	114	chem
+3	12	chem	46	52	chem	53	56	chem	79	82	chem	46	72	geneY	79	94	geneY
+0	8	chem	107	111	chem	49	53	chem	107	119	geneN	11	30	geneY	140	156	geneN
+0	8	chem	11	30	geneY
+29	37	chem	145	150	chem	159	163	chem	46	62	geneN	128	157	geneN	159	170	geneN
+0	8	chem	26	66	chem	68	79	chem	90	104	geneN
+75	85	chem	87	95	chem	109	121	chem	123	133	chem	147	155	chem	159	165	chem	167	174	chem	18	34	geneN
+44	59	chem	69	91	geneN
+31	39	chem	58	69	chem
+24	35	chem	52	60	chem
+71	82	chem	92	100	chem
+0	8	chem	18	28	chem	40	44	chem
+
+0	8	chem	10	20	chem	22	28	chem	32	39	chem	74	82	chem	93	103	chem	111	115	chem
+12	20	chem	55	59	chem	77	81	chem	55	66	geneN
+48	56	geneY	58	76	geneY	0	27	chem	58	68	chem
+177	187	chem	207	214	chem
+16	24	geneY	26	30	geneY	35	53	geneY	55	61	geneY	35	45	chem
+39	45	geneY	49	53	geneY	93	169	chem
+34	42	chem
+168	172	geneY	176	182	geneY	222	226	geneY	230	236	geneY	91	95	geneY	99	105	geneY
+
+1	7	chem	28	36	chem	18	47	geneY
+176	185	chem	191	193	chem	197	199	chem	1	7	chem	42	50	chem	52	70	chem	72	74	chem	99	104	geneY	143	148	geneY	32	86	geneY
+115	117	chem	119	132	chem	137	144	chem	97	102	geneY	106	156	geneN
+121	133	chem	161	163	chem	44	49	geneY	112	145	geneN	152	175	geneN
+46	48	chem
+81	83	chem	28	33	geneY	81	95	geneY
+82	107	geneY
+87	110	geneN
+
+15	39	geneN
+
+60	85	geneY	87	90	geneY	171	174	geneY
+35	43	chem
+56	63	chem	112	120	chem	19	31	geneY	33	37	geneY	75	78	geneY
+58	62	geneN	95	99	geneY	115	118	geneY
+57	61	geneN	107	110	geneY
+11	15	geneY	69	73	geneN	112	116	geneY
+37	39	chem	44	46	chem	51	53	chem	58	62	geneY	93	97	geneN	126	130	geneY
+
+12	19	chem	42	47	geneY	49	56	geneN	61	66	geneY
+56	65	chem	11	16	geneY
+91	98	chem	21	26	geneY	43	50	geneN
+72	79	chem
+67	72	geneY	76	81	geneY
+6	15	chem	33	40	chem	96	101	geneY	102	109	geneN
+64	71	chem	23	28	geneY	83	88	geneY
+4	11	chem	78	83	geneY
+34	43	chem	134	139	geneY	71	76	geneY
+91	98	chem	15	20	geneY	24	29	geneY
+15	20	geneY	87	92	geneY
+12	21	chem	60	67	chem	131	136	geneY
+79	86	chem	0	5	geneY	9	14	geneY
+0	12	chem	23	31	geneY
+72	88	geneY
+
+47	59	chem	63	68	chem	161	173	geneY	175	178	geneY
+0	12	chem	67	72	chem	76	83	chem	93	96	geneY
+22	34	chem	178	192	chem	194	197	chem	103	124	geneY	126	130	geneY	133	146	geneY	148	152	geneY	155	167	geneY	169	172	geneY
+73	83	chem	93	96	geneY	99	114	geneY	116	120	geneY	123	127	geneY	129	133	geneY	137	140	geneY	64	91	geneY
+99	111	chem
+41	53	chem	82	111	geneN	113	116	geneN	126	128	geneN	130	162	geneY	164	168	geneY	195	210	geneN	212	216	geneN	218	220	geneY	224	226	geneY
+94	106	chem
+54	66	chem
+26	28	chem	31	33	chem	35	38	chem	16	52	geneN
+9	12	chem	0	26	geneN	28	31	geneN
+32	35	geneN
+77	80	chem	77	86	geneN
+66	68	geneN	154	157	geneN
+
+25	28	geneN
+
+130	133	chem	130	139	geneN	155	158	geneN
+68	71	chem	68	86	geneN
+14	39	geneN
+21	33	chem	101	109	geneN	21	58	geneN	60	73	geneN	81	98	geneN
+53	64	chem
+0	12	geneY
+0	12	geneY	133	141	geneN
+0	12	geneY	14	19	geneY
+39	51	geneY	53	58	geneY
+26	31	geneY	35	40	geneY
+73	78	geneY	0	11	chem	13	21	chem	26	40	chem
+0	8	chem
+74	79	geneY	0	29	chem	52	58	chem
+201	207	chem	27	32	geneY	127	132	geneY	0	6	chem	109	115	chem	155	199	chem
+23	28	geneY	32	37	geneY
+60	63	geneN
+0	5	geneY	57	65	geneN
+26	31	geneY
+5	14	chem	58	80	geneY
+33	42	chem	102	104	geneY	78	100	geneY
+
+12	21	chem
+5	14	chem
+140	149	chem	78	80	geneY
+84	93	chem	188	197	chem
+25	27	geneY
+39	48	chem	104	113	chem	147	149	geneY
+20	29	chem
+43	52	chem
+35	55	geneY
+0	9	geneY
+36	51	geneN	60	66	geneN
+0	9	geneY	56	73	geneY
+0	9	geneY
+26	35	geneY	77	90	geneN	132	146	geneN
+25	43	geneY	52	73	geneY
+63	81	geneN
+101	129	geneY	131	133	geneY	136	143	geneY	147	158	geneY	30	39	geneY
+0	2	geneY	23	28	geneN
+10	23	geneN	30	39	geneY
+17	25	chem	47	60	geneN	94	103	geneY
+25	38	geneN	52	74	geneN	84	91	geneN	130	147	geneN	154	161	geneN
+13	17	chem	32	37	chem	26	52	geneN	58	65	geneN
+0	7	geneY	11	22	geneY
+73	77	chem	3	10	geneY	14	25	geneY	41	50	geneY	137	153	geneN	194	203	geneY
+22	31	geneY	61	63	geneY	65	72	geneY	76	87	geneY
+26	28	geneY	57	66	geneY	95	102	geneY	109	120	geneY
+43	54	chem	68	75	geneY	77	88	geneY	136	145	geneY
+33	43	chem	21	55	geneN
+24	34	chem	3	46	geneN
+19	22	geneN
+14	18	geneY
+0	4	geneY
+121	127	geneY
+32	43	geneY	85	91	geneN
+110	120	chem	1	8	chem	37	44	chem	47	52	chem	97	105	chem	73	76	geneN
+101	118	chem	148	154	chem	0	13	geneN	18	42	geneN	46	61	geneN
+52	60	chem	21	32	geneY	52	69	geneN	88	95	geneN
+11	15	geneY
+61	70	geneY	74	78	geneY
+36	47	geneY	51	57	geneY
+
+21	35	chem	61	73	geneY
+11	25	chem	34	46	geneY	48	51	geneY
+12	19	chem	21	44	chem	131	134	geneY
+42	52	chem	71	74	geneY
+0	23	chem	46	59	chem	66	76	chem	95	98	geneY
+46	60	chem	175	188	chem	196	206	chem	115	118	geneY	225	228	geneY
+0	14	chem
+34	49	geneY
+195	197	chem	202	204	chem	51	69	chem	71	73	chem	8	23	geneY	25	27	geneY	85	103	chem	105	107	chem
+35	43	chem	106	108	chem
+17	19	chem	21	40	chem	51	70	chem	160	162	chem
+56	58	chem	118	120	chem	25	27	geneY
+208	210	chem	40	42	chem	81	83	chem	134	136	chem	215	217	chem	250	252	chem	257	259	chem
+179	181	chem	137	139	geneY	44	46	chem	85	87	chem	131	133	chem
+
+50	59	geneN	111	141	chem	156	160	chem
+23	27	chem
+92	94	geneY	98	100	geneY
+40	60	chem	117	120	chem	24	36	geneY	40	66	geneY	147	149	geneY	24	27	chem
+60	63	chem	90	93	chem	227	233	geneN	237	243	geneN	10	12	geneY
+11	13	geneY	131	137	geneN	36	39	chem	72	75	chem
+49	58	chem
+162	164	geneY	71	74	chem	226	229	chem
+
+
+86	95	chem
+21	29	chem	86	93	chem
+4	12	chem	16	25	chem
+63	73	chem	75	89	chem	94	98	chem	13	21	chem	23	32	chem	34	48	chem	50	61	chem
+
+72	75	chem
+60	68	chem
+5	13	chem	17	26	chem
+
+26	34	chem	55	75	chem	26	52	geneN
+0	20	chem	93	101	chem	105	119	chem	22	24	chem
+0	2	chem	52	54	chem
+54	62	chem	170	172	chem	209	212	chem	54	74	geneN
+21	23	chem	55	68	chem	98	106	chem	109	116	chem	55	79	geneY	81	83	geneY	98	128	geneN
+59	61	geneY
+
+96	98	chem	43	77	chem	91	123	geneN
+11	13	chem	11	38	geneN	40	43	geneN
+94	128	chem	130	132	chem	144	147	geneN
+56	58	chem	44	52	geneN
+21	23	chem
+49	51	chem	80	86	geneY	97	102	geneY	104	109	geneY	111	116	geneY	133	138	geneY	191	194	geneN
+82	84	chem	15	39	geneN	55	60	geneY	64	70	geneY
+60	62	chem	66	68	chem	70	83	chem	96	99	geneN	0	5	geneY
+56	58	chem
+90	92	chem	65	86	geneN
+12	19	chem	68	76	chem
+68	75	chem
+
+0	8	chem	25	30	chem	104	108	geneY
+0	8	chem
+0	8	chem	21	32	chem
+56	64	chem	92	101	chem
+10	17	chem	23	28	chem	40	58	geneN	69	105	geneY
+98	103	chem	108	110	chem	138	140	chem	145	151	chem	154	159	chem	161	163	chem	61	63	chem	68	74	chem	77	82	chem	0	30	geneY	108	112	geneN	161	165	geneN	32	42	geneY
+44	46	chem	11	27	geneY	29	30	geneY	44	48	geneN
+34	40	chem	45	51	chem	83	92	chem	104	106	chem	110	112	chem	127	134	chem	155	165	chem	58	68	geneY
+19	37	chem	74	84	chem	126	128	chem	126	130	geneN
+71	76	chem	84	86	chem	114	116	chem	170	172	chem	78	82	geneN	84	89	geneN	114	118	geneN	170	174	geneN
+68	73	chem	89	91	chem	185	187	chem	89	93	geneN	185	189	geneN
+27	29	chem	49	55	chem	60	65	chem	21	25	geneN	27	32	geneN
+55	64	chem	75	77	chem	86	92	chem	126	132	chem	157	159	chem	157	161	geneN
+0	15	chem	19	28	chem	54	62	chem	46	53	geneN	54	69	geneN
+26	34	chem
+3	10	geneN
+15	19	geneY	23	47	geneY
+21	29	chem	13	20	geneN
+15	30	chem	32	44	chem	49	58	chem	128	135	geneN
+26	38	chem	59	68	chem	112	119	geneN
+20	27	geneN
+34	38	geneY	45	69	geneY
+28	32	geneY
+20	27	geneN
+26	38	chem	42	51	chem	132	141	chem
+
+0	14	geneN
+40	50	chem
+
+26	36	chem
+28	38	chem
+158	168	chem	182	192	chem	200	208	chem
+13	23	chem
+
+64	74	chem	78	86	chem	30	44	geneN	46	49	geneN
+53	56	geneN
+159	162	geneN
+48	79	geneY	48	60	chem
+0	12	chem	0	27	geneY	29	34	geneY
+188	215	geneY	243	264	geneN	93	100	chem	146	154	chem	188	200	chem	243	250	chem	93	114	geneN
+
+
+
+
+
+
+
+
+0	7	chem	40	60	geneY
+
+
+
+
+
+94	98	geneY	103	122	geneY	69	92	geneY
+32	44	chem	56	59	chem
+85	117	chem	26	40	geneY	47	61	geneY
+34	38	geneY	42	46	geneY
+53	67	chem	93	101	chem	103	117	chem	175	198	chem	200	203	chem	70	74	geneY	78	82	geneY	161	163	geneN	207	218	geneN
+33	51	chem	116	125	chem	129	137	chem
+
+
+0	9	chem	56	70	chem	72	75	chem	80	98	chem	142	150	chem	154	162	chem
+50	64	chem	66	74	chem	79	82	chem	87	96	chem	98	106	chem	111	129	chem
+37	55	chem
+48	56	chem	60	71	chem	75	78	chem	95	103	chem	107	116	chem	120	128	chem
+8	25	chem	28	63	geneY
+0	17	chem	216	222	chem	96	140	geneY	142	152	geneY	183	189	geneY	64	70	geneY
+
+
+38	72	geneN	74	76	geneN
+39	56	chem	58	69	chem	71	82	chem	86	96	chem	100	103	geneY
+34	51	chem	90	101	chem	118	130	chem	140	148	chem	65	68	geneY
+84	95	chem	11	22	chem	32	42	geneY	122	125	geneY	25	28	geneY
+11	22	chem	26	36	chem	56	68	chem
+0	11	chem	23	34	chem	38	48	chem	77	84	chem
+26	37	chem	86	93	chem	107	119	chem	75	78	geneY
+92	103	chem	8	28	geneN	66	69	geneY	73	76	geneY	113	116	geneY	133	136	geneY
+34	45	chem	79	87	chem	100	103	geneY
+18	29	chem	49	52	geneY
+84	107	geneN
+
+83	98	geneN	104	106	geneN	133	146	geneN	148	152	geneN
+157	159	geneN	162	166	geneN
+
+23	25	geneN
+0	4	geneN
+22	26	geneN
+22	28	chem	38	44	chem	88	111	chem	136	138	geneN
+
+167	177	chem
+
+10	19	geneY
+
+64	71	chem	45	53	geneN	64	79	geneN	80	89	geneY	91	94	geneY
+36	39	geneY	88	98	geneN
+83	86	geneY
+72	75	geneY	80	84	geneY	53	56	geneY
+36	39	geneY
+0	8	geneN
+0	9	geneN
+35	43	geneN
+32	45	chem
+34	42	geneN
+0	3	geneY	68	70	geneN	142	144	geneN
+
+51	60	geneN	76	79	geneY	81	84	geneY	86	89	geneY	91	95	geneY	97	101	geneY	103	107	geneY	109	113	geneY	115	119	geneY	123	140	geneN	141	144	geneY	148	152	geneY
+101	103	geneN	48	51	geneY
+0	4	geneY	46	55	geneN	87	91	geneY
+0	3	geneY	52	56	geneY	84	88	geneY
+39	43	geneY	75	83	geneN
+30	34	geneY
+123	130	chem	24	67	chem
+
+98	105	chem
+34	41	chem	160	167	chem	160	182	geneN	184	186	geneN
+58	65	chem	83	90	chem	204	247	chem	249	252	chem	83	101	geneY	103	104	geneY
+64	66	geneN
+7	10	chem	44	51	chem	109	129	chem
+78	81	chem	30	31	geneY
+13	16	chem	44	48	geneY	125	127	geneY	139	149	geneY	187	195	geneY
+58	65	chem	119	126	chem	151	154	chem
+
+
+
+
+
+36	43	chem	45	55	chem	57	72	geneN
+130	137	chem	153	168	chem	12	17	geneY	19	24	geneY	101	106	geneY	108	113	geneY	130	143	geneN
+21	40	geneY
+57	71	chem	87	91	geneY	94	103	geneY	114	127	geneN	43	55	geneY	57	85	geneY	137	140	chem	185	206	chem	213	226	chem	24	32	chem
+216	228	chem	234	234	chem	103	120	geneY	35	35	chem	40	40	chem	50	58	chem	202	211	chem
+13	29	geneY
+3	11	chem	34	43	chem	105	122	geneY
+33	37	geneY
+15	23	chem	62	87	geneN	62	65	chem	34	45	geneY
+17	21	geneY	34	47	geneN
+39	47	chem	39	58	geneY
+0	8	chem	77	85	chem	0	20	geneY	22	25	geneY
+0	3	geneY
+61	64	geneY
+45	53	chem
+34	43	chem
+51	57	chem	51	68	geneN	110	113	geneY
+195	198	geneY
+94	102	chem	142	150	chem	209	217	chem	185	188	geneY
+26	63	chem	65	68	chem	107	110	geneY
+149	152	geneY
+109	112	geneY
+
+207	208	geneY
+58	64	chem	66	75	chem	77	88	chem	90	100	chem	102	110	chem	112	118	chem	122	128	chem	133	144	chem	146	160	chem	162	167	chem	172	188	chem	190	198	chem
+
+33	41	chem	43	53	chem	57	62	chem
+
+17	25	chem	27	32	chem	36	44	chem
+
+
+10	23	geneN	27	34	geneY
+88	101	geneN	103	105	geneN	113	124	geneN	125	132	geneY
+
+
+252	258	chem	150	160	geneN	180	182	geneN	185	215	geneN	217	221	geneN	282	289	geneY	10	33	geneY	35	42	geneY	45	58	geneY	60	64	geneY	67	90	geneY	92	96	geneY	99	103	geneY	105	112	geneN	113	133	geneN	135	137	geneN
+131	138	geneY	142	146	geneY
+0	4	geneN
+36	48	geneN	95	111	geneY	154	161	geneY	165	169	geneY
+125	129	geneY
+6	10	geneY	16	20	geneY	98	102	geneY	134	137	geneY	148	155	geneY	159	163	geneY
+20	22	geneN	93	100	geneY	103	105	geneN
+49	56	geneY	60	64	geneY	78	85	geneN	109	119	geneN	139	146	geneN	173	180	geneY	184	188	geneY
+14	16	geneN
+
+
+
+
+14	25	chem	27	34	geneY
+66	73	chem	66	73	geneY
+
+18	28	chem	32	45	chem	85	95	chem
+140	157	chem	34	44	chem	48	61	chem	175	180	geneY	68	73	geneY	77	81	geneN
+0	10	chem
+0	10	chem	14	27	chem	53	63	chem
+65	75	chem	130	143	chem
+10	20	chem	47	52	geneY	112	117	geneY
+55	65	chem	146	151	geneY	155	159	geneN
+3	13	chem	0	2	geneN
+46	56	chem	24	45	geneN	58	60	geneN
+8	14	chem	8	23	geneY	74	76	geneN
+
+93	101	chem	103	110	chem	125	132	chem	26	28	geneN	70	72	geneN
+26	28	geneN
+43	45	geneN
+94	109	chem	9	18	chem	113	123	chem	21	35	geneY
+17	47	chem	0	15	chem	49	50	chem
+32	33	chem	100	119	chem	121	124	chem	138	139	chem	162	163	chem
+0	1	chem	11	11	chem	32	44	chem	46	48	chem	63	73	chem	75	76	chem	120	122	chem
+0	9	chem	11	40	chem	42	43	chem	56	57	chem	135	136	chem
+43	44	chem	67	70	chem	78	80	chem	140	141	chem	171	172	chem	176	177	chem	50	63	geneN
+11	12	chem	14	15	chem	20	21	chem	138	153	geneN	56	71	geneY
+4	5	chem	34	36	chem	64	65	chem	82	83	chem
+3	4	chem	8	9	chem
+101	102	chem	41	42	chem	46	47	chem
+31	32	chem	36	37	chem	39	40	chem	53	55	chem	110	112	chem
+122	123	chem	126	128	chem	159	161	chem	231	232	chem	85	100	geneY
+52	53	chem
+
+
+
+
+
+96	102	geneN
+53	61	chem	96	98	geneN	100	102	geneN	130	132	geneN	134	136	geneN	70	88	geneN
+
+13	34	geneY	39	48	chem
+35	56	geneY	61	70	chem
+45	48	chem	75	84	chem	112	132	chem	0	20	geneY
+8	29	geneY	45	54	chem
+28	49	geneY	11	20	chem
+59	75	geneY	90	96	chem
+20	27	chem
+44	46	chem	49	56	chem	58	60	chem	63	74	chem	76	78	chem	81	98	chem	277	312	geneN	314	319	geneN	100	102	chem	107	130	chem	132	135	chem	35	42	chem
+
+55	62	chem
+0	7	chem	39	46	chem
+
+20	27	chem	35	42	chem
+66	73	chem	0	7	chem	41	46	geneN
+57	64	chem	154	161	chem	166	173	chem	175	182	chem
+9	17	chem	95	111	chem	0	33	geneY
+120	128	chem	151	169	chem	182	190	chem	19	27	chem	263	278	chem	345	361	chem	363	365	chem	367	379	chem	10	43	geneY	222	227	geneY	312	316	geneN	45	50	geneY
+21	29	chem	32	39	chem
+12	17	geneY	88	132	geneY	134	142	geneY	145	167	geneY
+74	76	chem	13	21	geneY	50	55	geneY	183	191	geneY
+49	54	chem	55	68	chem	9	11	chem	122	129	geneY	3	8	geneY
+71	83	chem	142	154	chem	0	7	geneY	37	42	geneY
+66	68	chem	20	27	geneY	31	36	geneY
+81	83	chem	15	20	geneY	99	106	geneY	119	127	geneY
+
+
+38	41	geneY	14	28	chem	14	36	geneY
+
+
+
+106	118	chem	144	151	chem	106	129	geneY	131	142	geneY	144	157	geneN	162	181	geneY
+52	64	geneY
+13	18	geneY	36	40	geneY	4	9	geneY
+51	61	chem
+37	42	geneY	44	49	geneY	52	57	geneY
+70	80	chem	124	131	chem	215	222	chem	257	265	chem	102	107	geneY	135	139	geneY	188	192	geneY
+0	10	chem	14	21	chem	42	50	chem	59	63	geneY
+11	21	chem	31	38	chem	83	91	chem	121	129	geneY
+0	7	chem	76	86	chem	55	60	geneY	94	99	geneY
+23	28	geneY
+0	11	chem	20	28	chem	64	78	geneY
+0	8	chem	10	14	chem	19	34	geneY	36	41	geneY
+34	38	chem
+45	56	chem	58	60	chem	65	69	chem	138	140	chem	160	164	chem	80	85	geneY
+69	71	chem	138	141	chem	143	156	chem	168	175	geneY	188	191	geneY	195	198	geneY
+0	2	chem	5	9	chem	34	39	geneY	170	175	geneY
+95	97	chem	0	4	chem
+17	20	chem	85	87	chem	91	95	chem	106	110	chem	32	39	geneY
+0	4	chem	42	44	chem	24	27	geneY	93	96	geneY
+91	93	chem	95	99	chem	64	69	geneY
+22	24	chem	26	30	chem
+28	62	chem	76	84	chem	0	16	geneN
+96	133	chem	9	41	chem	141	153	chem	165	190	chem	194	215	chem	55	63	chem
+52	68	chem	73	91	chem	95	117	chem
+177	189	chem	193	205	chem	59	65	geneN	116	118	geneY	123	126	geneY
+25	26	geneN
+
+40	41	geneN
+
+
+94	104	chem	122	128	chem	0	6	geneY	94	112	geneY	8	11	geneY
+0	6	chem	42	52	chem	8	13	chem	42	60	geneY
+124	134	chem	145	151	chem	124	142	geneY
+51	57	chem	115	117	geneY	121	123	geneY	125	128	geneY
+12	17	geneN	21	23	geneN	49	54	geneN
+0	6	chem	39	47	geneY	75	81	geneY	85	88	geneY	109	114	geneN
+8	14	geneY	53	59	geneY	60	65	geneN
+0	7	geneY	9	15	geneY	17	20	geneY	25	28	geneY	49	54	geneN
+18	29	geneN	31	34	geneY
+9	15	geneY	17	20	geneY	97	101	geneY
+23	29	geneY	31	34	geneY	35	40	geneN
+83	89	chem	177	187	chem	29	35	geneY	37	40	geneY	111	117	geneY	119	122	geneY	177	195	geneY
+42	48	chem
+0	6	chem
+87	93	geneY	95	98	geneY
+87	97	chem	108	114	chem	87	105	geneY	172	180	geneY	207	213	geneY	217	220	geneY	221	226	geneN
+12	18	geneY	22	25	geneY	26	32	geneN
+83	89	chem	96	98	geneY
+11	29	chem	46	65	chem
+0	18	chem	113	132	chem	134	142	chem	20	26	chem	65	71	chem
+8	18	chem	19	19	chem	48	54	chem	104	110	chem	132	138	chem	8	37	geneY	39	43	geneY	48	71	geneY
+24	30	chem	33	41	chem
+8	14	chem	112	126	chem	128	131	chem	149	157	chem	171	177	chem
+36	42	chem	45	53	chem	109	115	chem	134	142	chem
+22	32	chem	34	36	chem	48	54	chem	57	59	chem	84	90	chem	120	123	chem	169	177	chem	187	195	chem	143	159	geneN
+12	18	chem	76	82	chem	110	112	chem	130	134	chem	144	147	chem	151	166	chem
+44	58	chem	62	68	chem	88	94	chem	126	130	chem	176	182	chem	8	27	geneN	29	31	geneN	116	121	geneN
+111	115	chem
+77	81	geneY
+21	27	chem	44	52	chem	80	82	chem
+
+35	42	geneY
+72	85	geneN
+175	180	geneN
+153	158	chem	2	31	geneN
+
+
+
+0	5	chem
+
+
+6	16	chem	18	30	chem	34	40	geneN
+77	82	chem
+
+
+35	42	chem	43	46	chem	48	59	chem
+
+
+44	47	geneY
+50	57	chem	58	61	chem	63	74	chem
+0	3	chem	20	32	chem	79	99	chem	20	51	geneN
+0	3	chem	109	112	geneY
+0	3	chem
+0	3	chem	42	53	geneN	13	16	geneY
+123	126	chem	11	14	geneY
+35	38	chem
+7	16	chem
+34	46	geneY	48	56	geneY	61	86	geneN
+57	66	chem
+
+9	18	chem	34	43	chem
+59	68	chem
+26	35	chem	120	132	chem	184	190	chem	191	191	chem	21	54	geneN	56	58	geneN	120	140	geneN	154	166	geneY	184	209	geneY	211	214	geneY
+71	90	chem	119	140	chem	25	27	geneN	31	34	geneY
+88	97	chem
+7	16	chem
+32	41	chem
+0	13	chem	0	22	geneN	24	26	geneN
+0	13	chem	15	30	chem
+61	76	geneN	78	79	geneN	107	110	geneY	114	117	geneY
+7	13	geneY	17	22	geneY
+75	88	chem
+25	26	geneN	56	70	geneY	92	97	geneY	150	155	geneN
+0	5	geneN
+130	132	geneN
+177	180	geneY	184	187	geneY
+56	57	geneN	61	63	geneY	65	66	geneY	68	74	geneN	138	141	geneY	145	148	geneY
+19	28	chem	59	70	chem	6	37	geneN
+320	328	chem	30	38	chem	39	95	chem	422	433	chem	98	118	geneY	178	197	geneY	320	338	geneY	130	135	chem	136	175	chem	178	187	chem	212	220	chem	221	317	chem
+15	26	chem
+115	126	chem
+48	59	chem	157	165	chem	210	215	chem	234	242	chem
+94	104	geneY	42	53	chem
+12	30	geneN	12	21	chem
+10	31	geneY	94	112	chem	10	22	chem
+100	111	chem	113	115	chem	61	71	chem	194	206	geneN
+83	91	geneY
+60	72	geneN
+37	40	geneY
+
+72	75	geneY	138	141	geneY
+
+0	18	chem	58	66	chem
+
+
+
+0	8	chem	30	48	chem	50	53	chem
+
+118	130	chem	12	22	chem	134	144	chem	24	31	chem	58	80	geneN	84	90	geneY
+0	10	chem	92	94	chem	105	106	chem	108	108	chem	110	112	chem	12	19	chem	92	122	geneN	64	70	geneY
+35	35	chem	37	39	chem	35	48	geneN
+34	44	chem	60	60	chem	62	64	chem	166	176	chem	194	204	chem	60	73	geneN	75	80	geneY	82	85	geneY	87	92	geneY	94	98	geneY	103	108	geneY	110	114	geneY
+66	76	chem	88	93	geneY	95	98	geneY	190	195	geneY	197	201	geneY	204	209	geneY	211	215	geneY
+0	10	chem	19	24	geneY	26	29	geneY	33	38	geneY	40	44	geneY	72	77	geneY	79	83	geneY
+120	136	chem	155	165	chem	173	183	chem	193	203	chem	243	255	chem	20	30	chem	32	42	chem	47	57	chem	139	142	geneY	60	63	geneY
+21	27	chem	29	39	chem	41	51	chem	56	68	chem	92	102	chem	104	114	chem	118	128	chem	171	181	chem	185	197	chem	3	9	geneN
+37	49	chem	51	61	chem	129	129	chem	131	133	chem	157	167	chem	83	88	geneY	90	93	geneY	129	141	geneN
+34	41	chem	55	74	geneY
+9	16	chem	36	44	chem	69	76	chem	125	144	geneY	146	150	geneY
+82	113	chem	135	157	chem
+26	30	geneY	75	79	geneY	83	87	geneY
+120	124	geneN	0	14	chem
+0	4	geneN
+47	61	chem	63	65	chem
+138	140	chem
+36	38	chem
+51	55	geneY	63	67	geneN	0	2	chem	45	47	geneN
+112	116	geneN	20	22	chem
+63	78	geneN	63	72	chem
+225	228	geneN	243	254	geneN	118	127	chem	153	162	chem	165	184	chem	98	101	geneN	118	133	geneN
+0	15	geneN	0	9	chem
+24	39	geneN	102	125	geneN	156	167	geneN	24	33	chem
+59	78	chem
+88	97	chem
+44	53	chem	55	81	chem
+55	61	chem	90	116	chem
+
+83	92	chem	118	132	geneY	134	137	geneY
+
+70	80	chem	141	150	chem	188	198	chem
+45	54	chem
+38	48	chem
+9	18	chem	22	32	chem
+0	10	chem	12	19	chem	34	43	chem	45	50	chem	67	86	geneY
+0	10	chem
+20	29	chem
+19	28	chem	32	42	chem	131	140	chem	188	198	chem
+25	34	chem	38	48	chem	146	157	chem
+29	38	chem	85	96	chem
+3	13	chem
+4	13	chem	17	27	chem
+0	10	chem
+
+70	70	chem	90	92	geneY	97	114	geneY	116	118	geneY	121	177	geneY	179	181	geneY	45	67	geneN	70	88	geneY
+52	59	chem	12	35	geneN	52	65	geneN
+16	25	geneN
+66	80	chem	95	104	chem
+48	48	chem	37	45	geneN	48	66	geneY	68	70	geneY	110	127	geneY	129	131	geneY
+114	128	chem	146	148	geneY
+126	128	geneY	130	132	geneY
+123	131	geneN	56	58	geneY	69	71	geneY
+111	121	chem	75	81	geneN	85	108	geneY
+12	22	chem	24	26	chem	111	117	geneN
+45	47	chem
+17	45	chem	47	50	chem	60	68	chem	80	94	chem	141	143	chem
+31	33	chem	50	52	chem	56	58	geneN
+58	66	geneY
+25	27	geneY	29	32	geneY	35	41	geneN	45	68	geneY	70	72	geneY
+0	2	chem	12	18	geneN	32	40	geneY
+25	27	geneY
+103	105	chem	84	87	chem	17	23	geneN	25	28	geneY	32	40	geneY
+48	51	chem	63	71	chem	13	15	geneY
+
+25	39	chem	81	83	chem	98	100	chem	119	125	geneN	129	131	geneY
+0	3	geneN
+0	8	chem	98	101	chem	126	135	chem	148	153	chem	67	96	chem	0	18	geneN	20	23	geneN
+10	13	chem	53	56	geneN
+0	7	geneN	78	81	geneN
+28	31	chem	110	113	chem	22	25	geneN	116	119	geneN
+66	73	geneY	77	84	geneY	101	106	geneY	110	115	geneY	117	122	geneY
+119	126	chem	75	80	geneY	82	87	geneY	92	97	geneY
+8	15	geneY	19	26	geneY	49	54	geneY	58	63	geneY	65	70	geneY
+38	41	chem	122	125	chem	23	26	geneN
+24	30	chem	53	63	geneN
+12	18	chem	78	84	chem
+0	7	chem	0	24	geneY	26	28	geneY	56	75	geneN	77	79	geneN	99	109	geneN	137	139	geneN
+58	64	chem
+57	63	chem	79	81	geneY
+22	28	chem
+76	82	chem	110	112	geneN
+81	83	geneN
+129	135	chem	41	47	chem	50	52	geneN	89	113	geneN	177	188	geneN
+48	54	chem	124	130	chem	24	34	geneN
+69	75	chem	34	44	geneN

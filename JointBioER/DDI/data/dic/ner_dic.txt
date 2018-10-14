@@ -1,0 +1,12 @@
+I-DNA	7
+B-RNA	10
+B-protein	2
+B-DNA	3
+B-cell_type	5
+O	1
+PADDING	0
+I-cell_type	6
+I-protein	4
+B-cell_line	8
+I-cell_line	9
+I-RNA	11

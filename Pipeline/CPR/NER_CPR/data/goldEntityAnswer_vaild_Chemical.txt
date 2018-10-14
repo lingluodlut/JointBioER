@@ -1,0 +1,3247 @@
+
+12	19	chem
+
+
+186	193	chem
+0	7	chem
+
+16	23	chem
+54	61	chem
+148	155	chem
+145	152	chem
+119	126	chem
+16	23	chem
+30	37	chem
+65	72	chem
+5	12	chem
+
+41	48	chem
+78	85	chem
+45	52	chem
+166	173	chem
+147	154	chem
+
+0	3	chem	113	120	chem	59	72	chem	7	10	chem
+
+37	44	chem	47	55	chem	96	109	chem
+58	66	chem	107	115	chem
+54	101	chem	105	124	chem
+9	19	chem
+32	40	chem	41	49	chem	80	88	chem
+
+0	7	chem
+35	42	chem	56	64	chem
+0	6	chem
+0	6	chem
+26	32	chem
+
+83	89	chem	92	99	chem
+0	2	chem	58	64	chem
+34	45	chem	93	99	chem
+18	24	chem
+49	55	chem	79	90	chem
+
+20	26	chem	70	77	chem	208	226	chem	228	230	chem
+39	45	chem
+33	39	chem	73	80	chem
+12	38	chem
+170	173	chem	40	43	chem	12	38	chem
+
+125	128	chem	169	172	chem
+9	12	chem	124	127	chem
+71	74	chem
+10	13	chem
+43	46	chem	217	228	chem	255	264	chem
+22	32	chem
+102	114	chem	132	140	chem	144	154	chem	181	184	chem	263	272	chem	62	70	chem	74	85	chem	95	98	chem
+
+
+
+
+
+
+0	7	chem	11	19	chem
+12	23	chem	49	59	chem	115	123	chem	127	131	chem
+37	50	chem	52	64	chem	68	78	chem	269	281	chem
+
+63	70	chem	74	82	chem
+
+54	71	chem
+88	105	chem	47	53	chem
+55	60	chem	76	81	chem	130	134	chem
+0	3	chem	7	11	chem	101	108	chem
+
+
+21	23	chem
+0	2	chem
+81	83	chem
+21	23	chem
+0	12	chem	14	16	chem
+
+0	2	chem
+244	246	chem	71	73	chem	150	152	chem
+36	38	chem
+
+112	114	chem
+24	26	chem	151	158	chem
+
+
+
+
+64	68	chem	95	98	chem
+25	32	chem	67	74	chem	76	90	chem	95	148	chem	150	153	chem
+
+0	4	chem	66	79	chem
+
+30	44	chem	46	49	chem
+40	43	chem
+3	16	chem	57	60	chem
+
+
+80	83	chem	97	105	chem
+11	15	chem	46	52	chem	141	149	chem	167	170	chem
+
+91	99	chem	117	120	chem
+
+50	53	chem
+
+
+36	51	chem	55	63	chem
+0	15	chem	87	91	chem	93	97	chem	99	103	chem
+30	31	chem
+14	15	chem
+40	52	chem
+26	41	chem	118	119	chem
+38	39	chem
+119	123	chem	158	159	chem
+49	64	chem	105	106	chem
+128	138	chem	140	148	chem	152	155	chem	160	167	chem	192	193	chem	50	57	chem	99	114	chem	116	126	chem
+69	70	chem
+26	36	chem	44	46	chem
+92	102	chem	165	178	chem	203	207	chem
+79	85	chem
+12	18	chem	60	76	chem	183	189	chem
+
+
+36	46	chem
+
+46	49	chem
+
+
+
+
+
+0	18	chem
+0	18	chem	20	22	chem	59	65	chem	67	99	chem
+12	14	chem
+
+26	28	chem
+43	45	chem	47	49	chem
+0	2	chem	144	146	chem
+140	142	chem
+130	132	chem
+5	7	chem
+72	80	chem
+20	29	chem	31	33	chem
+36	38	chem
+160	162	chem	170	181	chem	185	195	chem
+56	65	chem	95	105	chem	128	138	chem	174	191	chem	193	195	chem
+
+
+91	93	chem
+
+42	47	chem	107	109	chem
+
+11	13	chem
+29	39	chem
+0	10	chem	14	23	chem	34	42	chem	44	51	chem	55	61	chem
+238	249	chem	0	10	chem
+0	10	chem	30	43	chem
+
+0	10	chem
+0	21	chem
+0	13	chem
+
+
+
+
+69	82	chem	108	118	chem	132	153	chem
+35	45	chem
+
+23	33	chem	113	118	chem
+32	45	chem
+21	33	chem
+9	16	chem	100	100	chem	135	142	chem	151	158	chem	68	80	chem
+
+
+39	39	chem
+68	68	chem
+9	24	chem	39	77	chem
+32	47	chem
+48	63	chem
+61	76	chem	90	95	chem
+52	67	chem
+
+0	14	chem
+
+
+0	13	chem
+
+29	35	chem
+
+11	20	chem
+0	15	chem	97	102	chem
+0	5	chem	52	60	chem	68	74	chem
+0	15	chem	17	19	chem
+23	25	chem	130	137	chem
+11	13	chem
+
+47	49	chem
+31	33	chem
+46	47	chem	49	49	chem	75	120	chem
+5	61	chem
+48	49	chem	51	54	chem	123	190	chem	195	208	chem
+
+33	39	chem	46	73	chem	155	156	chem	169	176	chem	202	202	chem	229	237	chem
+23	31	chem	48	56	chem
+0	8	chem
+27	35	chem
+
+83	91	chem
+75	83	chem
+119	127	chem
+12	17	chem	62	68	chem
+29	35	chem
+43	45	chem
+26	34	chem	72	74	chem	76	81	chem
+104	110	chem
+70	76	chem
+44	49	chem	90	96	chem
+
+39	45	chem
+92	97	chem
+8	29	chem	61	73	chem	81	86	chem	201	207	chem
+
+32	37	chem	95	100	chem
+0	19	chem
+53	63	chem	65	75	chem
+14	24	chem	102	112	chem
+6	16	chem
+142	161	chem
+31	41	chem	86	98	chem
+88	94	chem	34	44	chem
+13	23	chem
+51	61	chem
+61	71	chem
+22	32	chem
+
+0	103	chem	105	112	chem
+0	0	chem	17	28	chem
+11	47	chem	62	62	chem
+4	22	chem	73	94	chem	113	128	chem
+76	84	chem
+
+
+
+
+
+
+
+
+51	57	chem
+
+
+0	7	chem	43	49	chem	66	73	chem
+9	16	chem	119	122	chem	134	138	chem	155	161	chem	166	170	chem	189	196	chem	23	34	chem	248	255	chem
+69	70	chem	72	75	chem	80	81	chem	101	114	chem
+0	8	chem	45	47	chem	51	54	chem	58	65	chem
+3	18	chem	33	40	chem
+
+
+
+113	121	chem	142	147	chem
+
+102	107	chem	248	253	chem	268	276	chem
+
+
+33	39	chem
+18	26	chem
+
+103	103	chem
+125	131	chem	149	150	chem	166	167	chem	186	187	chem
+
+61	61	chem	206	207	chem
+53	61	chem
+
+
+
+
+
+104	106	chem	114	114	chem
+
+
+
+
+
+
+
+
+119	130	chem
+267	270	chem	208	218	chem	220	265	chem
+
+0	3	chem
+31	34	chem
+138	149	chem
+
+
+
+22	31	chem	33	39	chem
+98	107	chem	172	182	chem	184	199	chem	276	291	chem	293	299	chem	301	308	chem	310	320	chem	332	346	chem
+
+118	127	chem	138	148	chem
+4	14	chem	73	88	chem	90	100	chem	120	134	chem
+60	75	chem	77	87	chem
+
+
+58	60	chem
+
+
+
+
+
+40	42	chem	54	54	chem	83	92	chem	145	147	chem
+
+126	128	chem
+
+
+
+
+113	124	chem
+
+
+
+
+
+54	65	chem
+94	115	chem	117	120	chem	18	29	chem	83	91	chem
+
+42	51	chem	79	88	chem
+
+72	78	chem	83	94	chem	137	154	chem	156	158	chem
+
+149	151	chem
+
+
+0	12	chem
+
+115	127	chem	129	132	chem
+50	53	chem
+0	3	chem	27	46	chem
+16	25	chem	94	97	chem
+0	9	chem	30	33	chem
+9	12	chem	82	91	chem
+23	26	chem
+
+57	64	chem	65	73	chem	75	83	chem
+79	87	chem	0	7	chem	8	16	chem	95	104	chem	105	111	chem	115	121	chem	18	26	chem
+
+
+
+
+13	25	chem	28	41	chem
+
+
+35	44	chem
+
+88	93	chem	34	39	chem
+20	25	chem
+
+
+
+
+
+
+16	26	chem
+
+36	44	chem
+87	95	chem	66	73	chem
+97	105	chem
+29	36	chem	56	74	chem	108	117	chem
+68	76	chem	166	173	chem
+94	102	chem
+
+
+
+
+
+264	275	chem
+
+
+
+
+
+
+
+
+78	85	chem
+
+54	64	chem	74	79	chem	112	122	chem
+0	10	chem
+46	56	chem	9	19	chem
+48	58	chem
+0	10	chem	61	66	chem
+
+
+12	19	chem	122	127	chem
+
+
+25	30	chem	34	44	chem
+47	57	chem
+102	112	chem	11	21	chem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+94	121	chem	8	17	chem
+98	101	chem	69	96	chem
+64	71	chem	106	108	chem	114	121	chem	131	133	chem	164	166	chem	174	176	chem	197	199	chem	205	207	chem	216	218	chem
+
+
+
+
+
+
+27	30	chem	32	41	chem	43	52	chem	54	62	chem	66	92	chem	94	97	chem
+72	75	chem	136	145	chem	157	166	chem	170	178	chem	210	212	chem	218	220	chem	229	231	chem	29	38	chem
+18	21	chem	23	32	chem	34	43	chem	45	53	chem	57	60	chem
+19	22	chem	24	33	chem	35	44	chem	48	51	chem	115	123	chem
+56	59	chem	86	88	chem	94	96	chem	105	107	chem	131	134	chem
+54	61	chem
+0	7	chem	25	33	chem
+
+
+77	84	chem
+
+15	22	chem
+19	26	chem
+78	85	chem
+21	28	chem
+46	53	chem
+0	2	chem	51	66	chem
+0	7	chem	9	24	chem	176	183	chem	237	252	chem	283	298	chem	84	99	chem
+38	53	chem
+47	62	chem	143	158	chem
+27	55	chem	90	105	chem
+62	64	chem	126	141	chem
+7	14	chem	87	102	chem
+33	48	chem
+37	44	chem	69	84	chem
+68	83	chem
+31	39	chem	43	52	chem	60	70	chem
+71	79	chem
+12	20	chem	44	53	chem
+47	59	chem	61	64	chem	137	145	chem	153	162	chem	184	192	chem	206	215	chem
+50	53	chem
+271	279	chem	29	32	chem	44	53	chem	93	101	chem	115	124	chem	217	225	chem	231	240	chem
+29	37	chem	104	113	chem
+124	132	chem	136	145	chem
+54	63	chem	95	103	chem
+28	36	chem	45	48	chem	109	118	chem
+42	50	chem
+
+11	20	chem	96	106	chem
+50	60	chem
+
+71	80	chem
+102	111	chem
+130	140	chem
+130	142	chem	57	67	chem
+19	29	chem
+238	248	chem
+107	113	chem
+17	23	chem
+
+95	97	chem
+
+94	100	chem	124	130	chem
+
+54	57	chem	96	99	chem	151	154	chem
+35	52	chem	54	56	chem	69	78	chem	82	92	chem	113	115	chem	123	135	chem
+
+22	33	chem	58	72	chem	114	121	chem	144	153	chem
+48	50	chem	60	92	chem
+27	27	chem
+57	67	chem	69	69	chem
+
+
+
+
+254	274	chem
+
+
+
+
+
+
+16	24	chem
+
+
+0	9	chem
+
+57	71	chem	134	143	chem
+83	92	chem
+0	9	chem	71	80	chem	129	138	chem
+11	20	chem	93	110	chem	117	128	chem	187	197	chem
+0	9	chem
+9	18	chem
+0	9	chem	60	71	chem
+62	71	chem
+102	110	chem
+
+
+26	34	chem
+58	67	chem	98	108	chem	112	129	chem
+19	27	chem	134	139	chem
+173	197	chem	222	230	chem	29	37	chem
+
+
+140	149	chem	17	26	chem	56	65	chem
+
+
+
+
+
+0	9	chem	117	126	chem
+
+15	22	chem	77	89	chem
+
+72	84	chem	110	117	chem
+132	144	chem
+
+
+
+108	118	chem
+18	26	chem
+47	55	chem
+45	53	chem
+
+
+
+8	16	chem
+56	64	chem
+29	37	chem
+34	42	chem
+
+11	19	chem
+
+
+16	25	chem	56	70	chem
+0	11	chem
+100	105	chem	108	113	chem	0	14	chem
+0	5	chem
+60	70	chem
+3	12	chem	61	66	chem
+0	9	chem
+
+
+
+
+
+
+
+100	111	chem	115	118	chem	136	144	chem	147	155	chem	176	206	chem
+17	20	chem	36	45	chem	49	57	chem
+
+25	36	chem
+22	25	chem	27	35	chem	38	46	chem
+
+
+32	43	chem
+102	111	chem	115	124	chem	79	90	chem
+45	56	chem
+
+69	78	chem	82	91	chem
+
+24	35	chem
+17	25	chem	57	65	chem
+110	120	chem	144	153	chem	60	72	chem	5	13	chem	77	94	chem
+130	138	chem
+27	36	chem	63	71	chem	73	75	chem	82	90	chem
+63	72	chem
+
+31	40	chem	172	180	chem
+
+
+
+
+
+52	59	chem
+0	7	chem	114	121	chem
+35	42	chem	214	227	chem
+193	210	chem	229	236	chem	347	354	chem
+0	7	chem
+50	57	chem
+26	33	chem
+41	48	chem	78	87	chem	91	129	chem	131	139	chem	170	180	chem	215	222	chem
+
+164	175	chem	27	36	chem	52	60	chem
+38	48	chem
+72	80	chem	127	137	chem
+0	9	chem	13	21	chem	142	152	chem
+83	90	chem	65	71	chem	73	80	chem
+20	27	chem
+0	25	chem	92	102	chem	32	43	chem	74	89	chem
+96	105	chem	84	92	chem
+60	69	chem	107	118	chem	154	160	chem	239	249	chem	293	308	chem	310	335	chem	340	351	chem	357	367	chem
+81	91	chem	192	207	chem
+19	34	chem	132	133	chem	217	242	chem
+11	22	chem	51	66	chem	86	96	chem
+63	70	chem	72	83	chem	100	107	chem
+5	14	chem	22	33	chem	68	93	chem	104	114	chem
+63	81	chem
+94	110	chem
+10	25	chem	50	59	chem	135	138	chem	141	149	chem	151	169	chem
+148	156	chem
+60	68	chem
+89	97	chem
+
+71	108	chem	110	112	chem	141	149	chem	171	176	chem
+56	66	chem	99	122	chem
+83	92	chem	0	14	chem	68	79	chem
+56	64	chem	84	92	chem
+
+19	22	chem
+31	37	chem
+20	26	chem
+126	132	chem
+58	64	chem
+
+51	57	chem
+63	69	chem
+82	88	chem
+0	6	chem	63	69	chem
+91	109	chem
+
+
+
+47	53	chem	171	179	chem
+45	51	chem
+46	52	chem	91	99	chem
+143	147	chem	155	161	chem
+
+120	126	chem	395	401	chem	449	455	chem	108	112	chem
+
+236	246	chem	281	291	chem	293	294	chem
+103	104	chem	175	186	chem
+22	28	chem
+155	159	chem	170	176	chem
+
+0	62	chem	64	71	chem	84	91	chem
+0	63	chem	65	72	chem	96	103	chem
+0	13	chem	48	55	chem	114	121	chem	176	184	chem
+0	7	chem	45	52	chem	104	111	chem
+26	34	chem	38	45	chem	47	54	chem
+0	7	chem	63	65	chem	96	103	chem	112	115	chem	127	134	chem	176	183	chem
+12	19	chem	21	28	chem
+7	14	chem
+0	7	chem	61	68	chem
+74	81	chem	5	12	chem
+
+104	111	chem
+
+
+54	61	chem
+
+
+
+149	160	chem	164	171	chem	175	188	chem	192	209	chem	73	86	chem	90	94	chem	98	104	chem
+
+
+
+0	11	chem
+
+212	224	chem
+0	6	chem
+39	50	chem
+0	11	chem
+52	63	chem
+191	202	chem	205	210	chem	213	215	chem	219	227	chem
+
+83	94	chem
+
+
+5	16	chem
+9	20	chem
+
+163	174	chem
+85	96	chem
+47	58	chem
+
+
+
+20	31	chem
+
+
+
+
+70	77	chem	89	96	chem
+14	21	chem	33	40	chem	74	121	chem
+48	51	chem	53	56	chem	62	65	chem	67	71	chem	79	82	chem	84	88	chem
+114	123	chem
+
+
+3	6	chem	10	17	chem	19	20	chem
+0	7	chem	93	102	chem	30	47	chem	78	87	chem
+89	118	chem	120	128	chem	136	145	chem	51	58	chem
+
+125	132	chem
+40	48	chem	96	105	chem
+31	40	chem	61	68	chem
+94	105	chem
+94	96	chem	98	100	chem	105	107	chem	110	112	chem	89	91	chem	44	46	chem	48	50	chem	52	54	chem	57	59	chem	63	65	chem	67	69	chem	84	86	chem
+248	250	chem	252	254	chem	258	260	chem	263	265	chem	310	312	chem	314	316	chem
+
+108	110	chem	112	114	chem	116	118	chem	121	123	chem	32	34	chem	36	38	chem	40	42	chem	45	47	chem	52	54	chem	57	59	chem	61	63	chem	65	67	chem
+94	96	chem	98	100	chem	104	106	chem	109	111	chem	130	132	chem	134	136	chem
+20	22	chem	25	27	chem	30	32	chem	34	36	chem	39	41	chem	43	45	chem	49	51	chem	54	56	chem	70	70	chem	142	144	chem	146	148	chem	159	161	chem	163	165	chem	180	181	chem	182	182	chem	184	185	chem	186	186	chem	197	199	chem	202	204	chem
+30	37	chem
+205	209	chem	135	142	chem	144	152	chem	198	201	chem
+28	32	chem	36	56	chem
+10	17	chem	49	56	chem	82	85	chem
+26	33	chem
+0	7	chem
+57	65	chem	104	111	chem
+59	66	chem	26	33	chem	162	177	chem
+54	57	chem	59	63	chem	67	75	chem
+46	53	chem
+
+0	12	chem
+
+49	59	chem	0	12	chem	14	16	chem
+5	7	chem	121	123	chem
+
+44	46	chem	158	160	chem
+0	2	chem
+13	15	chem	192	197	chem
+12	14	chem	67	69	chem
+0	2	chem
+0	2	chem	51	55	chem
+14	16	chem
+79	81	chem
+
+
+
+
+
+
+
+
+
+44	59	chem
+0	15	chem	17	19	chem
+
+
+77	83	chem	97	99	chem	110	113	chem	129	131	chem	137	139	chem
+3	15	chem	52	54	chem	84	94	chem	115	120	chem
+46	53	chem	65	72	chem	81	83	chem
+3	10	chem	42	49	chem	64	66	chem
+
+0	27	chem	91	98	chem	82	87	chem
+0	27	chem	93	99	chem
+72	77	chem	81	88	chem
+
+0	28	chem	52	63	chem
+30	33	chem	0	28	chem
+
+8	11	chem
+8	11	chem	96	99	chem
+38	41	chem	93	96	chem
+24	30	chem	41	48	chem	75	82	chem
+21	24	chem
+0	3	chem	124	127	chem
+0	3	chem
+12	23	chem	25	28	chem
+22	25	chem
+83	86	chem	139	142	chem	180	191	chem	13	16	chem
+16	27	chem	36	39	chem	70	73	chem
+0	9	chem	36	43	chem
+27	34	chem	43	52	chem
+
+
+
+
+53	58	chem
+77	82	chem
+63	70	chem	72	77	chem
+55	65	chem
+
+
+61	71	chem	73	85	chem	90	102	chem
+194	204	chem
+56	63	chem	86	91	chem	130	137	chem
+145	155	chem	161	173	chem	182	194	chem
+13	25	chem
+27	34	chem	36	41	chem	46	53	chem	145	155	chem
+130	137	chem	144	149	chem	161	168	chem	38	48	chem
+
+44	54	chem	56	68	chem	73	85	chem
+
+0	12	chem
+5	15	chem	17	19	chem
+15	19	chem
+49	56	chem	64	72	chem	80	89	chem
+19	29	chem	155	159	chem	168	172	chem	213	217	chem
+32	36	chem	75	83	chem	92	101	chem
+
+64	73	chem
+30	34	chem	116	120	chem
+81	90	chem	122	126	chem	153	161	chem	165	172	chem
+
+
+
+91	110	chem	112	115	chem
+25	28	chem	31	36	chem	75	87	chem
+0	3	chem
+47	50	chem
+0	5	chem
+19	24	chem	65	77	chem	12	15	chem
+
+
+
+64	64	chem
+106	112	chem	154	160	chem
+
+
+0	12	chem	21	32	chem
+123	131	chem	17	25	chem
+53	64	chem	66	68	chem	133	135	chem
+
+79	81	chem	132	144	chem
+0	18	chem	34	46	chem	81	83	chem	94	106	chem	167	169	chem	214	226	chem
+146	148	chem	160	169	chem	12	14	chem	42	54	chem	71	80	chem	84	93	chem	99	106	chem
+44	46	chem	77	92	chem	158	165	chem	209	212	chem
+124	131	chem	160	162	chem	205	217	chem	228	235	chem	253	262	chem	266	267	chem
+99	106	chem
+37	39	chem	51	54	chem
+46	54	chem
+83	91	chem
+42	50	chem
+
+28	36	chem	74	87	chem	106	115	chem	134	142	chem	169	177	chem	215	218	chem	234	242	chem	246	249	chem	268	277	chem
+125	133	chem
+0	8	chem
+53	61	chem
+46	53	chem
+0	7	chem
+
+
+40	47	chem
+64	71	chem
+49	56	chem
+110	117	chem
+53	60	chem
+86	93	chem
+
+142	149	chem
+
+86	93	chem
+0	6	chem
+0	6	chem	10	39	chem
+
+
+52	65	chem
+44	53	chem
+
+
+
+
+
+0	6	chem
+
+0	8	chem	10	11	chem
+
+0	6	chem	8	9	chem
+37	38	chem
+0	1	chem
+
+0	1	chem
+0	1	chem
+
+0	1	chem
+32	33	chem	78	79	chem
+35	36	chem
+
+
+31	44	chem
+20	47	chem	79	91	chem
+0	6	chem	47	52	chem
+77	80	chem	82	85	chem	87	110	chem
+97	110	chem
+61	68	chem	81	94	chem	97	108	chem
+52	64	chem
+0	7	chem	71	79	chem
+
+
+55	62	chem	117	124	chem
+0	7	chem	52	60	chem	84	92	chem	138	140	chem
+91	98	chem
+32	35	chem
+22	26	chem
+15	19	chem	23	26	chem	111	118	chem
+24	31	chem	140	147	chem
+
+
+
+
+
+
+
+
+48	56	chem
+30	34	chem	45	53	chem	144	152	chem
+
+
+164	170	chem	177	181	chem	184	190	chem	197	201	chem
+
+15	21	chem	28	32	chem	162	166	chem
+28	38	chem
+19	29	chem
+
+
+
+42	48	chem
+17	23	chem	62	68	chem
+34	40	chem	95	101	chem	144	150	chem
+167	173	chem	207	213	chem	267	273	chem	17	23	chem	90	96	chem
+22	28	chem	50	60	chem
+
+19	25	chem	227	233	chem
+103	110	chem	114	124	chem	62	68	chem
+79	86	chem	65	75	chem
+
+101	107	chem
+69	79	chem	83	90	chem
+59	65	chem	15	21	chem
+75	85	chem	89	96	chem
+52	62	chem	66	73	chem
+
+
+
+
+135	143	chem
+
+
+29	37	chem
+
+65	73	chem
+52	62	chem
+47	49	chem	75	77	chem
+13	19	chem	24	32	chem
+
+83	95	chem
+
+84	96	chem
+66	78	chem
+
+0	6	chem
+7	17	chem	21	32	chem
+0	8	chem
+0	16	chem
+
+
+
+0	7	chem	9	17	chem	21	37	chem	73	85	chem
+29	35	chem
+
+49	61	chem
+
+0	12	chem	81	99	chem	101	103	chem
+44	56	chem
+0	2	chem	69	81	chem
+32	44	chem
+11	15	chem
+70	74	chem	78	82	chem
+65	70	chem	146	150	chem	154	158	chem
+77	82	chem	109	122	chem
+157	165	chem	297	299	chem	74	87	chem	102	106	chem	108	112	chem	151	155	chem
+88	94	chem	33	43	chem
+
+54	64	chem	72	78	chem
+14	24	chem	63	69	chem	73	83	chem	148	161	chem
+18	28	chem	98	108	chem	110	111	chem	114	119	chem	139	148	chem	238	244	chem
+165	171	chem	30	40	chem
+42	52	chem	54	58	chem	123	133	chem	248	258	chem
+25	35	chem
+
+42	50	chem
+
+
+
+36	45	chem	49	57	chem
+104	118	chem
+
+
+46	57	chem	59	66	chem
+0	8	chem	10	17	chem
+
+29	41	chem
+0	12	chem	14	19	chem
+50	60	chem	76	88	chem
+110	122	chem
+52	64	chem
+
+55	67	chem
+31	43	chem	108	124	chem	126	131	chem	136	152	chem	154	159	chem
+169	181	chem
+41	53	chem	104	109	chem	113	118	chem
+19	33	chem
+0	14	chem
+45	48	chem
+0	3	chem
+
+
+50	53	chem
+111	114	chem
+
+
+5	8	chem
+
+47	50	chem
+
+51	55	chem
+41	45	chem
+
+84	95	chem
+272	284	chem	286	287	chem	292	306	chem
+
+6	7	chem
+
+
+37	48	chem	134	138	chem
+80	84	chem
+0	7	chem
+
+12	18	chem	23	30	chem
+
+
+
+
+28	53	chem
+
+77	102	chem
+
+17	26	chem	34	44	chem
+10	20	chem
+56	66	chem	0	9	chem
+62	71	chem
+
+78	92	chem
+
+
+3	12	chem
+0	9	chem
+118	127	chem
+71	80	chem
+
+11	20	chem	28	38	chem
+
+
+84	97	chem	28	31	chem	64	83	chem
+76	76	chem
+83	86	chem
+
+
+137	137	chem
+57	60	chem	98	98	chem
+54	54	chem	71	74	chem	155	155	chem
+52	52	chem
+0	15	chem	33	40	chem
+31	46	chem
+
+31	51	chem
+124	134	chem	143	145	chem	150	161	chem	163	166	chem	44	65	chem	74	80	chem	84	86	chem
+17	18	chem	64	66	chem
+3	5	chem	38	41	chem	46	48	chem
+63	65	chem	81	84	chem	88	89	chem
+
+
+47	50	chem	54	58	chem
+129	131	chem
+
+52	54	chem
+
+139	141	chem
+
+81	83	chem	118	121	chem	126	129	chem
+
+99	101	chem
+88	90	chem
+46	48	chem	113	115	chem	123	125	chem
+0	20	chem
+0	20	chem
+
+28	48	chem	198	218	chem
+18	26	chem
+
+83	89	chem
+114	122	chem
+36	41	chem
+110	118	chem	146	153	chem
+10	19	chem	23	32	chem	88	96	chem
+44	49	chem
+14	21	chem	54	62	chem	71	76	chem
+39	46	chem	59	67	chem	76	81	chem
+27	35	chem
+
+50	58	chem
+130	138	chem	142	151	chem	3	23	chem
+178	186	chem
+
+
+56	64	chem	68	77	chem
+
+
+
+
+
+
+
+51	61	chem	69	74	chem
+116	126	chem
+
+
+
+0	10	chem
+
+
+0	10	chem	67	79	chem
+18	28	chem
+132	142	chem
+
+
+67	77	chem
+
+
+
+15	25	chem
+
+168	171	chem
+
+6	9	chem
+
+
+
+101	111	chem
+18	28	chem	32	43	chem
+
+0	9	chem
+51	58	chem	60	60	chem	11	20	chem
+188	195	chem	44	51	chem	58	76	chem
+13	22	chem
+80	89	chem	110	117	chem
+98	107	chem
+0	9	chem	60	67	chem	96	103	chem	121	130	chem
+79	88	chem	145	152	chem
+
+
+66	73	chem
+33	40	chem	114	121	chem
+0	10	chem	54	69	chem
+0	15	chem	17	22	chem	36	58	chem
+17	27	chem	29	31	chem	121	126	chem
+39	48	chem	52	60	chem	62	67	chem
+25	30	chem	47	56	chem	75	85	chem	87	89	chem	93	108	chem	110	112	chem	121	132	chem	134	136	chem
+0	5	chem	22	24	chem	32	34	chem	45	53	chem	124	134	chem	136	136	chem
+0	8	chem	54	59	chem
+82	87	chem	96	118	chem	33	35	chem
+63	72	chem	76	86	chem
+0	10	chem	14	23	chem
+20	29	chem	33	43	chem
+25	35	chem	75	87	chem	119	126	chem	171	181	chem	195	207	chem	227	251	chem
+11	21	chem
+42	51	chem	203	212	chem
+50	60	chem	123	132	chem
+27	37	chem	41	50	chem	236	245	chem
+51	60	chem	64	73	chem
+
+20	29	chem	33	42	chem
+28	37	chem	41	50	chem
+0	9	chem	13	22	chem
+
+
+122	131	chem	163	172	chem	224	233	chem	0	9	chem	27	36	chem
+84	93	chem
+30	39	chem	82	91	chem
+54	63	chem	197	206	chem	210	219	chem
+7	20	chem
+
+168	181	chem	247	265	chem	276	291	chem
+0	13	chem	49	62	chem	65	80	chem
+
+
+
+
+
+
+
+44	61	chem
+
+
+
+
+
+
+
+
+
+
+69	86	chem
+
+
+
+
+14	33	chem	82	95	chem
+
+
+0	13	chem	15	22	chem
+
+59	66	chem
+25	32	chem
+16	35	chem	37	40	chem	80	88	chem	0	7	chem
+39	42	chem
+28	35	chem	52	59	chem	61	74	chem	83	87	chem
+45	58	chem	167	174	chem
+11	24	chem	86	93	chem
+34	47	chem	74	81	chem
+76	102	chem
+101	126	chem	140	151	chem
+7	38	chem
+3	11	chem	86	90	chem
+108	117	chem
+42	46	chem	178	188	chem
+39	47	chem
+0	8	chem
+55	63	chem
+0	8	chem
+8	11	chem	43	51	chem
+0	8	chem	43	46	chem
+9	12	chem	33	41	chem
+48	56	chem
+11	19	chem
+10	13	chem	25	33	chem	108	111	chem
+40	48	chem
+91	99	chem	109	112	chem	231	243	chem	245	252	chem	254	259	chem
+
+20	28	chem	77	85	chem
+0	9	chem
+
+
+
+12	18	chem	20	27	chem	29	40	chem	44	52	chem	67	76	chem
+0	9	chem
+13	22	chem	159	168	chem
+23	32	chem
+55	65	chem	89	97	chem
+60	70	chem
+12	18	chem	68	78	chem	102	110	chem
+33	43	chem
+121	131	chem
+72	82	chem	114	124	chem
+6	16	chem	124	134	chem
+32	42	chem	70	77	chem
+
+
+66	75	chem
+0	9	chem
+
+
+
+
+
+93	99	chem	241	247	chem	249	251	chem	253	256	chem	263	269	chem	287	305	chem
+
+74	80	chem	190	196	chem
+69	79	chem
+23	31	chem	36	44	chem	0	10	chem	12	14	chem
+0	2	chem	129	131	chem
+39	41	chem
+20	22	chem	106	108	chem
+0	2	chem
+12	16	chem	60	62	chem
+5	12	chem	31	38	chem	108	110	chem
+28	30	chem	67	69	chem
+0	2	chem	64	66	chem
+43	45	chem	153	155	chem
+60	62	chem
+0	25	chem
+54	60	chem	7	52	chem
+59	84	chem	86	92	chem
+72	78	chem	108	114	chem
+40	46	chem	97	108	chem
+57	62	chem	69	80	chem	110	114	chem
+59	65	chem
+15	21	chem	81	94	chem	96	100	chem
+17	23	chem
+0	6	chem	23	27	chem
+12	19	chem	72	78	chem
+12	19	chem
+34	40	chem
+8	20	chem
+23	35	chem	37	39	chem
+69	71	chem	232	247	chem
+55	68	chem	118	120	chem
+6	8	chem
+
+107	109	chem
+
+41	43	chem	107	109	chem
+31	33	chem
+
+21	28	chem
+85	91	chem	30	37	chem	53	59	chem
+70	77	chem	170	176	chem
+
+
+38	53	chem	74	102	chem
+
+84	90	chem
+
+37	44	chem
+13	20	chem
+38	45	chem	66	72	chem
+27	34	chem	128	134	chem
+102	108	chem
+7	23	chem
+62	78	chem
+93	99	chem
+53	59	chem
+83	89	chem
+
+91	97	chem
+108	114	chem
+82	88	chem
+61	67	chem
+21	28	chem	68	73	chem
+37	44	chem	83	98	chem
+138	145	chem
+
+17	29	chem	153	160	chem
+124	136	chem	83	98	chem
+45	52	chem	118	125	chem
+132	139	chem
+28	33	chem
+0	27	chem	29	33	chem
+0	4	chem
+9	13	chem	20	21	chem	41	73	chem	75	80	chem	85	117	chem	119	124	chem
+28	33	chem	124	129	chem
+21	26	chem
+0	5	chem
+73	78	chem	107	111	chem
+
+0	3	chem
+22	28	chem
+159	165	chem	197	208	chem
+65	95	chem	97	100	chem
+5	16	chem
+
+
+0	11	chem
+21	32	chem
+89	100	chem
+
+136	143	chem
+
+
+
+
+
+
+
+
+
+
+
+63	70	chem	74	77	chem
+
+8	15	chem	23	26	chem	30	33	chem	39	46	chem	87	94	chem	126	133	chem	151	158	chem	170	173	chem	177	180	chem	187	199	chem	201	204	chem	207	215	chem	219	223	chem
+103	106	chem	122	125	chem
+6	9	chem	14	18	chem
+42	49	chem
+74	81	chem
+
+34	37	chem	55	64	chem	96	105	chem
+19	26	chem	28	40	chem	45	53	chem
+
+0	10	chem	31	35	chem	37	40	chem	78	97	chem
+0	10	chem	147	151	chem	153	156	chem	20	24	chem
+0	10	chem
+114	133	chem
+
+25	31	chem	75	79	chem	81	84	chem
+35	45	chem	97	107	chem
+61	65	chem	67	70	chem
+
+
+
+
+
+
+109	118	chem
+
+
+
+
+
+
+
+
+
+
+
+57	70	chem	72	75	chem	92	105	chem	107	108	chem
+112	115	chem	60	63	chem
+15	16	chem
+
+7	10	chem	12	13	chem
+54	57	chem	68	69	chem
+46	47	chem
+
+
+11	19	chem	22	29	chem	41	48	chem
+17	18	chem
+69	70	chem	143	153	chem	183	190	chem
+37	38	chem	104	105	chem
+
+4	5	chem	83	84	chem	104	105	chem
+37	38	chem
+0	1	chem	35	45	chem
+42	43	chem
+0	1	chem
+44	51	chem
+0	7	chem	120	127	chem
+14	21	chem
+206	213	chem
+114	119	chem
+
+
+149	156	chem
+
+
+
+
+
+3	5	chem
+
+
+
+
+
+0	5	chem
+0	5	chem	7	8	chem
+13	14	chem
+
+63	64	chem
+34	35	chem
+
+
+82	83	chem
+61	62	chem
+
+17	18	chem
+0	4	chem	9	16	chem	28	34	chem
+0	6	chem	8	9	chem
+52	56	chem	58	60	chem	73	80	chem	82	83	chem	120	121	chem
+28	29	chem	95	106	chem	108	114	chem	198	214	chem	297	299	chem	303	304	chem
+21	22	chem	100	109	chem	139	149	chem	161	163	chem	169	179	chem	194	204	chem	206	208	chem	214	224	chem	226	226	chem
+13	15	chem	19	20	chem	29	30	chem	101	102	chem	156	157	chem
+110	111	chem	129	131	chem	147	158	chem	0	2	chem	6	7	chem	73	74	chem
+27	29	chem	33	34	chem	66	67	chem
+
+
+
+55	64	chem
+18	27	chem	77	82	chem
+
+14	23	chem	60	68	chem
+
+
+39	41	chem
+12	19	chem	40	42	chem
+
+
+
+
+
+
+93	99	chem	104	110	chem
+73	83	chem
+
+57	68	chem
+
+
+
+
+46	52	chem
+34	38	chem
+
+13	15	chem
+
+
+
+
+
+
+
+
+
+
+
+100	108	chem
+71	79	chem
+59	74	chem	85	87	chem	100	103	chem	109	114	chem	116	121	chem
+
+51	54	chem	99	102	chem
+24	32	chem	140	143	chem
+
+26	29	chem
+
+
+
+0	4	chem	6	23	chem
+
+37	41	chem	43	60	chem
+11	15	chem
+5	9	chem
+51	55	chem	175	178	chem
+45	49	chem
+38	42	chem
+10	14	chem
+9	20	chem	38	49	chem
+127	138	chem	193	204	chem	36	47	chem
+170	181	chem
+
+20	31	chem
+114	125	chem	186	190	chem
+
+
+19	30	chem
+
+
+
+199	206	chem	208	220	chem	222	232	chem	234	243	chem	247	255	chem
+
+
+
+
+
+
+
+3	14	chem
+101	112	chem	3	12	chem	87	98	chem
+
+115	122	chem	133	149	chem	151	152	chem
+32	41	chem
+0	8	chem	24	35	chem
+10	19	chem
+12	20	chem	22	24	chem	27	38	chem	40	43	chem	46	54	chem	56	58	chem	61	78	chem	80	84	chem	89	100	chem	102	104	chem
+8	17	chem
+0	3	chem	25	34	chem	52	63	chem
+38	44	chem
+37	46	chem
+0	2	chem	6	8	chem	25	34	chem	76	85	chem	87	102	chem	104	111	chem	116	129	chem	131	133	chem
+15	17	chem	19	22	chem	26	28	chem
+55	64	chem	86	87	chem	151	159	chem
+3	20	chem	48	51	chem	55	57	chem
+56	65	chem
+
+12	24	chem
+
+
+21	33	chem	35	37	chem
+
+
+
+
+
+33	35	chem
+
+38	40	chem
+
+149	151	chem
+0	9	chem
+0	9	chem
+20	29	chem	124	134	chem	145	173	chem
+0	9	chem	56	66	chem
+55	64	chem
+15	25	chem
+0	10	chem	96	105	chem
+0	9	chem
+41	50	chem
+
+24	32	chem
+74	97	chem
+0	23	chem	25	28	chem	72	80	chem
+66	69	chem
+82	85	chem
+
+16	19	chem
+22	25	chem
+23	32	chem	69	85	chem	87	89	chem
+50	62	chem
+86	94	chem	48	55	chem
+73	82	chem	119	135	chem	137	139	chem
+17	19	chem
+0	9	chem	67	69	chem
+49	51	chem
+
+21	23	chem
+31	33	chem	76	90	chem	92	98	chem	141	151	chem
+20	29	chem	169	171	chem
+25	34	chem	92	94	chem
+0	9	chem
+0	9	chem	11	16	chem	109	131	chem
+
+45	50	chem
+26	31	chem	53	60	chem	65	87	chem	89	91	chem
+72	91	chem	93	96	chem
+0	5	chem	7	14	chem	19	21	chem	71	74	chem
+99	102	chem	166	185	chem
+4	9	chem	13	20	chem
+45	50	chem
+37	40	chem
+
+45	55	chem
+31	34	chem	36	81	chem
+15	18	chem
+24	27	chem
+0	2	chem	56	59	chem
+0	3	chem
+27	30	chem
+31	34	chem
+25	28	chem
+0	3	chem
+9	18	chem	45	54	chem	58	73	chem
+42	51	chem	53	55	chem	79	88	chem	90	92	chem	97	112	chem	114	116	chem
+
+100	102	chem	107	109	chem	124	126	chem	163	165	chem	47	49	chem	61	63	chem
+
+
+120	122	chem	191	193	chem	204	206	chem
+76	78	chem
+23	25	chem	56	63	chem	101	103	chem	156	163	chem
+
+
+
+
+
+140	147	chem
+81	88	chem
+47	54	chem
+0	7	chem	138	145	chem
+49	56	chem	389	395	chem	441	447	chem
+20	27	chem
+
+
+41	48	chem	59	179	chem
+
+41	47	chem
+66	76	chem	132	146	chem
+40	53	chem
+
+18	20	chem
+
+58	60	chem
+
+
+
+50	66	chem
+0	8	chem
+147	163	chem	165	169	chem
+
+82	92	chem
+0	4	chem
+83	92	chem
+54	58	chem	66	75	chem
+
+11	15	chem	134	160	chem	164	178	chem
+
+
+0	22	chem
+53	69	chem	70	92	chem
+98	101	chem	105	109	chem
+
+
+35	57	chem
+
+
+
+
+
+
+211	217	chem	239	246	chem
+
+
+
+
+
+
+49	76	chem	78	82	chem
+125	129	chem	159	162	chem	176	179	chem
+
+29	32	chem	108	111	chem
+
+
+
+133	140	chem	146	153	chem
+
+9	15	chem
+
+125	131	chem
+51	60	chem	196	212	chem
+154	163	chem	170	177	chem
+16	21	chem	46	54	chem
+153	161	chem	18	23	chem
+
+
+
+145	153	chem
+46	54	chem	180	186	chem	190	199	chem
+
+
+0	9	chem
+11	20	chem
+
+5	14	chem
+
+
+0	9	chem	92	102	chem	106	117	chem
+119	128	chem
+105	114	chem	203	213	chem	223	234	chem
+8	17	chem	43	53	chem
+
+29	50	chem
+13	22	chem	78	89	chem
+19	39	chem	172	183	chem
+8	28	chem
+19	28	chem	38	48	chem	106	117	chem
+54	64	chem	133	144	chem	40	49	chem
+
+
+135	147	chem
+128	140	chem
+
+3	13	chem	26	33	chem	35	43	chem	47	55	chem
+0	8	chem	12	19	chem
+0	9	chem	11	16	chem	18	26	chem	28	48	chem
+0	6	chem
+
+0	13	chem	15	28	chem	30	38	chem	40	49	chem	51	58	chem	62	68	chem	108	120	chem
+33	40	chem	42	55	chem	57	65	chem	67	75	chem	77	90	chem	92	101	chem	103	109	chem	111	118	chem
+
+0	13	chem	55	67	chem
+
+
+22	29	chem	123	129	chem
+
+55	63	chem	65	85	chem	95	107	chem
+
+0	9	chem	36	48	chem
+
+56	68	chem
+171	183	chem
+
+
+
+
+
+199	209	chem
+
+18	47	chem
+
+
+138	157	chem	14	26	chem	28	48	chem	53	96	chem
+99	118	chem	65	77	chem
+3	15	chem	28	48	chem	50	51	chem	56	99	chem	101	106	chem	164	183	chem
+18	19	chem	23	28	chem	107	126	chem
+0	1	chem	5	10	chem	115	134	chem
+
+
+
+
+
+
+
+48	57	chem	285	300	chem	302	312	chem	316	326	chem
+55	64	chem
+15	34	chem
+
+103	113	chem	145	187	chem	189	193	chem
+
+
+
+
+
+
+6	12	chem	77	83	chem
+154	161	chem
+40	52	chem	54	57	chem	60	71	chem	73	76	chem	82	90	chem	247	256	chem
+37	46	chem	61	80	chem
+166	173	chem	24	27	chem	29	32	chem	143	148	chem	150	152	chem	157	159	chem
+9	31	chem	41	49	chem	103	105	chem
+
+32	41	chem
+21	29	chem	76	78	chem
+
+53	55	chem
+
+
+
+
+
+
+
+112	118	chem
+
+
+
+
+
+28	30	chem
+
+
+
+
+
+
+102	120	chem	122	143	chem	145	155	chem	159	169	chem
+
+
+45	57	chem	152	163	chem
+41	53	chem	76	86	chem
+65	75	chem	138	159	chem
+4	13	chem	37	58	chem
+
+
+
+51	65	chem
+24	50	chem
+70	76	chem	80	88	chem
+35	41	chem
+19	32	chem	43	54	chem	70	84	chem
+
+
+96	104	chem
+209	211	chem	217	219	chem
+
+
+
+
+
+0	5	chem	38	53	chem
+
+0	5	chem	13	22	chem
+8	13	chem
+16	21	chem	54	69	chem	71	74	chem
+0	3	chem
+0	3	chem	68	73	chem
+0	5	chem	19	22	chem
+11	16	chem	70	73	chem
+12	17	chem
+29	31	chem	72	77	chem	104	109	chem
+24	29	chem
+
+98	117	chem
+
+
+
+
+
+0	20	chem
+
+
+15	41	chem
+18	38	chem	40	42	chem
+
+
+19	21	chem
+0	3	chem
+0	3	chem
+132	135	chem	14	17	chem
+0	3	chem
+0	3	chem	103	106	chem
+
+
+
+
+
+32	44	chem
+
+46	56	chem
+
+
+
+
+
+
+
+41	46	chem	48	49	chem
+59	60	chem
+10	11	chem	90	96	chem	132	137	chem
+
+
+99	105	chem
+
+71	129	chem	131	133	chem
+184	190	chem	194	202	chem	88	97	chem	125	139	chem	150	156	chem	158	165	chem	167	175	chem	177	182	chem
+
+
+
+
+
+
+72	80	chem	84	96	chem
+
+
+35	45	chem
+207	225	chem
+24	34	chem
+
+91	111	chem
+
+88	95	chem
+23	35	chem	51	60	chem
+0	12	chem	97	107	chem	37	49	chem
+57	67	chem
+
+16	28	chem
+0	9	chem	120	132	chem
+0	9	chem
+16	25	chem
+0	9	chem	133	151	chem
+
+
+
+
+
+11	19	chem
+
+
+
+
+
+
+
+
+
+
+
+
+16	23	chem
+
+
+
+8	16	chem
+52	60	chem
+41	49	chem
+
+
+113	121	chem
+
+45	53	chem
+16	24	chem
+9	17	chem
+
+
+106	113	chem
+68	75	chem
+72	79	chem	194	197	chem	199	204	chem
+37	44	chem
+
+25	34	chem	37	45	chem	53	65	chem
+26	35	chem	39	47	chem
+112	121	chem	140	148	chem
+41	52	chem
+55	58	chem
+
+
+173	181	chem	8	11	chem	93	102	chem	106	117	chem
+
+60	69	chem	73	81	chem	138	149	chem
+41	50	chem	59	69	chem
+12	21	chem	25	33	chem	92	103	chem
+55	63	chem	65	78	chem	82	91	chem
+76	84	chem	90	103	chem	111	120	chem	122	124	chem
+237	239	chem
+12	14	chem	0	8	chem
+0	13	chem
+61	71	chem	72	72	chem	100	100	chem	104	111	chem	112	112	chem	210	226	chem	278	280	chem	297	303	chem	324	331	chem
+247	261	chem	277	279	chem
+46	48	chem	166	168	chem
+
+
+24	34	chem	57	67	chem
+14	24	chem
+
+87	97	chem
+
+23	33	chem
+0	10	chem	14	31	chem
+72	77	chem	0	17	chem	96	106	chem	116	128	chem	142	166	chem	19	24	chem
+0	17	chem
+0	10	chem	27	46	chem
+84	93	chem	70	80	chem
+
+
+0	9	chem	97	105	chem	18	26	chem
+13	22	chem	44	52	chem
+
+0	9	chem	167	176	chem
+
+
+
+26	35	chem	70	78	chem
+66	74	chem
+0	9	chem
+21	30	chem	49	57	chem
+0	9	chem	11	82	chem	137	145	chem
+35	43	chem	170	178	chem
+
+73	82	chem	99	108	chem	123	131	chem	185	199	chem	201	216	chem	218	227	chem	229	238	chem	240	252	chem	254	264	chem	266	280	chem	285	294	chem
+0	9	chem	154	162	chem
+142	151	chem
+28	37	chem	71	79	chem
+0	8	chem	16	27	chem
+53	61	chem	70	81	chem
+28	36	chem	44	57	chem
+
+43	51	chem	59	72	chem
+47	55	chem
+82	91	chem	93	101	chem	106	111	chem	113	145	chem	149	159	chem	71	80	chem
+
+25	37	chem	66	71	chem	119	131	chem	134	152	chem
+
+
+
+
+
+
+
+
+
+10	14	chem	16	27	chem	36	43	chem
+14	25	chem	8	12	chem
+50	61	chem
+52	63	chem
+
+
+
+
+
+
+
+
+11	22	chem
+0	11	chem
+
+28	36	chem	64	72	chem
+187	195	chem	66	82	chem
+
+83	91	chem	93	111	chem	113	116	chem
+
+89	128	chem	130	138	chem
+34	37	chem	57	65	chem
+15	23	chem	155	163	chem
+55	63	chem	109	117	chem	119	127	chem	132	144	chem
+48	56	chem	84	91	chem
+116	124	chem
+21	29	chem
+8	19	chem	49	59	chem
+0	10	chem
+15	26	chem	99	109	chem	136	161	chem
+33	43	chem	68	79	chem
+30	41	chem	54	64	chem
+6	31	chem
+27	37	chem	41	52	chem
+92	102	chem	125	135	chem	10	21	chem
+26	62	chem
+11	47	chem	49	51	chem
+50	52	chem	113	115	chem
+31	33	chem	38	40	chem
+23	25	chem
+33	35	chem
+64	66	chem
+8	10	chem
+19	21	chem
+
+0	27	chem	120	129	chem	28	71	chem	73	79	chem	83	97	chem
+0	4	chem
+
+45	49	chem	72	81	chem	83	154	chem	156	162	chem
+
+14	20	chem	166	175	chem
+71	74	chem	76	76	chem	78	80	chem	0	6	chem	43	55	chem	58	60	chem
+26	32	chem
+18	24	chem
+108	114	chem	124	133	chem
+0	6	chem	14	23	chem	55	59	chem
+34	40	chem	121	121	chem	123	125	chem
+29	33	chem
+0	14	chem
+
+43	50	chem
+0	7	chem
+0	7	chem
+
+17	19	chem
+0	7	chem
+
+67	71	chem
+26	40	chem
+12	19	chem
+
+
+74	76	chem
+44	52	chem
+32	40	chem
+44	52	chem
+78	84	chem
+
+
+
+
+
+
+44	49	chem	58	81	chem	83	86	chem	138	143	chem
+
+
+
+
+
+
+
+55	65	chem	85	88	chem
+
+0	7	chem	50	84	chem
+63	97	chem	99	102	chem
+0	3	chem	18	32	chem	68	75	chem
+
+28	31	chem	93	114	chem
+48	51	chem
+0	3	chem	78	81	chem
+42	45	chem	117	120	chem
+12	20	chem	30	38	chem
+108	116	chem	200	208	chem	210	231	chem	42	47	chem	51	61	chem
+0	8	chem	32	37	chem	41	51	chem	100	108	chem
+
+30	39	chem
+14	34	chem	76	81	chem	113	117	chem	119	119	chem	121	122	chem	124	125	chem	127	127	chem	129	133	chem	135	135	chem
+53	62	chem
+17	17	chem	31	40	chem
+65	71	chem
+0	6	chem
+0	6	chem
+
+173	183	chem
+
+94	104	chem
+52	58	chem
+17	23	chem
+32	41	chem	45	53	chem
+94	104	chem	132	140	chem	71	80	chem	82	86	chem
+11	15	chem	19	27	chem
+16	24	chem
+4	8	chem
+35	39	chem	48	56	chem
+
+39	43	chem	47	55	chem
+
+135	139	chem	143	151	chem
+
+
+147	155	chem	157	167	chem	171	182	chem	346	358	chem
+
+
+
+31	39	chem	41	51	chem	55	66	chem
+108	116	chem	120	124	chem	128	134	chem	137	147	chem	149	158	chem	160	166	chem	168	179	chem	181	186	chem	189	194	chem	199	205	chem
+
+
+
+130	138	chem	140	150	chem	153	164	chem
+
+
+
+
+
+
+106	114	chem	127	137	chem	147	155	chem	168	179	chem
+
+
+66	74	chem	78	88	chem
+57	65	chem	69	80	chem
+34	42	chem	47	58	chem
+
+
+
+
+48	56	chem	69	80	chem
+11	21	chem	25	36	chem	42	50	chem
+13	21	chem
+75	81	chem
+
+38	45	chem	64	70	chem
+
+101	108	chem
+
+32	38	chem
+51	57	chem	137	143	chem
+
+48	55	chem
+7	13	chem
+0	11	chem	27	35	chem
+0	8	chem
+61	72	chem	84	92	chem
+111	119	chem
+0	11	chem	13	37	chem	39	43	chem	174	182	chem
+
+28	39	chem	88	102	chem	104	106	chem	184	192	chem
+27	37	chem	39	41	chem
+50	54	chem
+0	11	chem	47	55	chem	114	118	chem
+38	49	chem	66	74	chem
+12	23	chem	80	88	chem
+64	74	chem
+
+
+
+104	114	chem
+
+82	101	chem	103	107	chem	0	12	chem	14	16	chem
+0	2	chem	6	10	chem
+
+
+0	2	chem
+31	71	chem
+140	165	chem	254	262	chem	44	84	chem
+85	91	chem
+0	12	chem	34	40	chem	98	112	chem
+
+
+102	110	chem
+
+
+
+
+51	63	chem	67	78	chem	92	99	chem	139	142	chem
+60	73	chem
+
+
+75	87	chem	98	110	chem
+
+125	138	chem
+
+102	108	chem	102	115	chem	33	36	chem	38	43	chem
+
+
+
+98	105	chem
+25	36	chem
+68	71	chem	99	105	chem
+23	31	chem
+0	8	chem	63	79	chem	81	84	chem
+0	3	chem	36	44	chem	69	72	chem
+16	19	chem	26	34	chem	52	61	chem	63	65	chem
+
+39	42	chem
+0	3	chem	152	155	chem
+122	125	chem	127	129	chem
+
+
+65	68	chem
+62	65	chem
+
+
+
+
+
+
+
+
+
+102	107	chem
+
+0	8	chem
+
+
+
+
+
+
+226	228	chem	235	237	chem	0	0	chem	111	113	chem	120	122	chem	143	143	chem
+63	63	chem	80	82	chem	89	91	chem
+
+
+
+
+
+
+
+0	11	chem
+
+12	23	chem
+8	19	chem
+11	22	chem	26	34	chem
+
+12	23	chem
+0	11	chem
+
+21	32	chem
+
+0	11	chem
+29	40	chem
+33	44	chem
+11	22	chem
+27	29	chem	75	77	chem
+159	163	chem	21	23	chem	93	95	chem	66	74	chem	76	85	chem	104	157	chem
+87	103	chem	133	141	chem	155	163	chem	169	175	chem	200	206	chem
+
+2	10	chem	15	21	chem
+49	57	chem
+0	16	chem	62	68	chem
+11	20	chem	22	26	chem	30	38	chem	82	90	chem
+45	53	chem	57	61	chem	68	77	chem
+0	9	chem	13	17	chem	29	35	chem
+46	52	chem	58	67	chem	77	81	chem	15	23	chem
+0	8	chem	12	21	chem	42	44	chem	46	48	chem	61	70	chem	74	78	chem	96	98	chem
+84	92	chem	103	107	chem	171	179	chem
+40	44	chem	48	57	chem	62	68	chem	108	110	chem	245	246	chem	248	248	chem
+74	85	chem
+
+81	93	chem	95	97	chem
+43	45	chem
+
+
+
+
+117	119	chem
+0	2	chem
+
+3	5	chem	81	83	chem
+65	67	chem
+10	12	chem
+106	111	chem	60	65	chem
+30	35	chem
+107	112	chem
+
+
+
+
+
+
+64	72	chem	78	86	chem
+0	9	chem	65	80	chem	114	122	chem	145	153	chem
+23	38	chem	68	76	chem	87	95	chem
+52	60	chem
+87	95	chem
+18	23	chem	39	62	chem	74	82	chem
+13	18	chem	20	21	chem
+10	26	chem	28	30	chem	47	52	chem	0	8	chem
+34	57	chem	69	85	chem	131	136	chem
+0	5	chem	44	54	chem	56	66	chem	68	78	chem	80	91	chem	95	105	chem
+15	20	chem
+14	30	chem	40	45	chem	58	81	chem
+14	19	chem
+3	28	chem
+
+17	33	chem	44	67	chem	129	134	chem
+54	59	chem
+
+
+
+
+
+
+
+
+
+0	7	chem
+
+
+0	2	chem
+85	87	chem
+106	123	chem
+
+103	111	chem
+14	22	chem	26	30	chem
+
+
+
+
+
+
+59	62	chem	74	94	chem
+13	38	chem	74	77	chem
+16	19	chem
+
+
+37	40	chem
+53	61	chem
+
+94	106	chem
+
+88	94	chem
+
+
+137	140	chem	145	154	chem	169	174	chem	242	246	chem
+176	183	chem	68	80	chem	104	112	chem	115	123	chem	140	148	chem
+
+
+
+33	35	chem	37	38	chem
+47	49	chem
+0	25	chem	36	38	chem
+16	18	chem
+9	13	chem	17	21	chem	71	73	chem	139	141	chem
+24	35	chem	52	64	chem	77	81	chem
+174	178	chem	39	80	chem
+65	77	chem	88	90	chem	92	95	chem	136	139	chem	152	159	chem
+
+95	104	chem
+
+
+
+
+61	74	chem
+
+17	24	chem	47	56	chem
+48	57	chem
+14	21	chem
+16	23	chem	37	46	chem
+11	14	chem	29	37	chem
+11	20	chem
+46	49	chem
+
+
+
+
+
+34	58	chem	60	68	chem	70	189	chem	192	197	chem	199	254	chem	260	265	chem	267	320	chem
+106	115	chem	127	206	chem	208	214	chem
+0	13	chem	76	81	chem	83	144	chem	150	159	chem	178	182	chem	202	211	chem
+50	55	chem	187	196	chem	209	217	chem	241	251	chem	272	280	chem	310	314	chem	316	400	chem
+
+24	30	chem
+86	89	chem	24	30	chem	48	54	chem	70	74	chem	76	79	chem	83	84	chem
+36	42	chem
+83	86	chem
+
+73	76	chem
+161	164	chem
+0	3	chem
+78	81	chem
+58	61	chem	84	101	chem	103	104	chem	109	145	chem	147	150	chem
+39	57	chem	59	60	chem	147	150	chem
+103	106	chem
+103	106	chem
+69	72	chem	117	120	chem
+187	190	chem	106	109	chem
+
+9	17	chem
+73	81	chem
+40	44	chem	46	57	chem	84	92	chem	212	239	chem
+8	16	chem
+
+36	44	chem	117	144	chem
+32	40	chem
+
+9	17	chem	45	53	chem	57	72	chem
+204	214	chem	247	255	chem	25	27	chem	294	304	chem	30	54	chem	56	60	chem	65	85	chem	8	23	chem	87	90	chem	144	152	chem	174	183	chem
+8	10	chem	56	64	chem	67	76	chem	108	116	chem	146	156	chem	190	200	chem
+19	28	chem	30	38	chem	41	51	chem	90	94	chem	98	101	chem	118	128	chem	149	152	chem	155	157	chem
+
+67	68	chem	30	32	chem	100	104	chem	166	169	chem	226	239	chem	288	290	chem	309	319	chem
+
+
+
+71	71	chem	81	89	chem
+
+
+
+
+14	25	chem
+73	84	chem
+
+52	59	chem
+60	68	chem
+0	7	chem
+42	49	chem
+150	157	chem
+
+25	32	chem	115	122	chem
+70	77	chem
+
+24	31	chem	98	110	chem	114	124	chem
+
+53	61	chem
+16	16	chem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52	52	chem
+0	0	chem
+
+37	128	chem
+
+121	135	chem	32	78	chem
+53	99	chem
+11	52	chem	95	103	chem	156	164	chem	182	189	chem
+0	6	chem
+32	38	chem
+80	90	chem
+24	34	chem	37	48	chem
+42	58	chem	91	101	chem
+108	115	chem
+11	21	chem
+
+
+52	62	chem	101	111	chem
+152	162	chem
+
+
+11	18	chem
+
+
+64	71	chem
+235	242	chem
+
+
+
+21	34	chem	84	94	chem
+58	71	chem
+50	63	chem
+46	56	chem	134	145	chem	166	172	chem
+31	42	chem
+
+
+0	8	chem	12	26	chem	33	41	chem	45	51	chem
+29	37	chem	41	55	chem	62	70	chem	74	80	chem
+46	53	chem
+
+18	26	chem	30	44	chem	105	113	chem	117	123	chem
+14	22	chem	26	40	chem
+49	57	chem	61	75	chem	78	86	chem	90	96	chem	160	168	chem	172	186	chem	196	204	chem	208	214	chem
+34	56	chem
+121	143	chem	145	149	chem	152	175	chem	177	181	chem	184	219	chem	221	225	chem	231	289	chem	291	297	chem
+30	44	chem	46	55	chem	57	71	chem	76	90	chem	92	94	chem	97	99	chem	183	186	chem
+28	30	chem	128	131	chem	177	181	chem	190	194	chem	263	269	chem	314	316	chem
+115	118	chem
+
+
+15	24	chem
+31	40	chem	42	44	chem
+138	140	chem
+
+
+33	35	chem	91	94	chem	117	130	chem
+138	140	chem	27	29	chem
+66	68	chem	190	192	chem
+53	56	chem
+3	8	chem
+109	114	chem
+3	8	chem	21	32	chem
+93	100	chem	125	136	chem	138	184	chem	186	191	chem	196	239	chem	241	244	chem
+15	18	chem	22	27	chem	118	123	chem	154	157	chem
+0	5	chem
+86	97	chem	0	5	chem	18	23	chem
+52	57	chem	82	87	chem
+35	40	chem
+43	54	chem	62	67	chem
+0	14	chem	87	93	chem
+0	10	chem
+49	63	chem
+23	37	chem
+151	165	chem
+145	159	chem
+12	15	chem	72	86	chem
+151	161	chem	197	220	chem	222	227	chem	59	73	chem	102	116	chem
+69	83	chem	119	124	chem	186	200	chem
+41	50	chem	80	100	chem
+0	10	chem	90	109	chem	22	30	chem
+0	10	chem	32	64	chem	114	119	chem
+80	89	chem	92	112	chem	26	51	chem	56	61	chem	63	65	chem
+27	29	chem	43	52	chem	137	147	chem	182	190	chem
+40	42	chem	47	56	chem
+11	18	chem	48	55	chem	57	62	chem
+55	62	chem	76	80	chem
+47	53	chem	55	59	chem
+0	4	chem	42	49	chem	117	131	chem
+14	20	chem	43	50	chem
+15	27	chem	50	57	chem	91	100	chem	107	114	chem
+3	12	chem	46	52	chem	53	56	chem	79	82	chem
+0	8	chem	107	111	chem	49	53	chem
+0	8	chem
+29	37	chem	145	150	chem	159	163	chem
+0	8	chem	26	66	chem	68	79	chem
+75	85	chem	87	95	chem	109	121	chem	123	133	chem	147	155	chem	159	165	chem	167	174	chem
+44	59	chem
+31	39	chem	58	69	chem
+24	35	chem	52	60	chem
+71	82	chem	92	100	chem
+0	8	chem	18	28	chem	40	44	chem
+
+0	8	chem	10	20	chem	22	28	chem	32	39	chem	74	82	chem	93	103	chem	111	115	chem
+12	20	chem	55	59	chem	77	81	chem
+0	27	chem	58	68	chem
+177	187	chem	207	214	chem
+35	45	chem
+93	169	chem
+34	42	chem
+
+
+1	7	chem	28	36	chem
+176	185	chem	191	193	chem	197	199	chem	1	7	chem	42	50	chem	52	70	chem	72	74	chem
+115	117	chem	119	132	chem	137	144	chem
+121	133	chem	161	163	chem
+46	48	chem
+81	83	chem
+
+
+
+
+
+
+35	43	chem
+56	63	chem	112	120	chem
+
+
+
+37	39	chem	44	46	chem	51	53	chem
+
+12	19	chem
+56	65	chem
+91	98	chem
+72	79	chem
+
+6	15	chem	33	40	chem
+64	71	chem
+4	11	chem
+34	43	chem
+91	98	chem
+
+12	21	chem	60	67	chem
+79	86	chem
+0	12	chem
+
+
+47	59	chem	63	68	chem
+0	12	chem	67	72	chem	76	83	chem
+22	34	chem	178	192	chem	194	197	chem
+73	83	chem
+99	111	chem
+41	53	chem
+94	106	chem
+54	66	chem
+26	28	chem	31	33	chem	35	38	chem
+9	12	chem
+
+77	80	chem
+
+
+
+
+130	133	chem
+68	71	chem
+
+21	33	chem
+53	64	chem
+
+
+
+
+
+0	11	chem	13	21	chem	26	40	chem
+0	8	chem
+0	29	chem	52	58	chem
+201	207	chem	0	6	chem	109	115	chem	155	199	chem
+
+
+
+
+5	14	chem
+33	42	chem
+
+12	21	chem
+5	14	chem
+140	149	chem
+84	93	chem	188	197	chem
+
+39	48	chem	104	113	chem
+20	29	chem
+43	52	chem
+
+
+
+
+
+
+
+
+
+
+
+17	25	chem
+
+13	17	chem	32	37	chem
+
+73	77	chem
+
+
+43	54	chem
+33	43	chem
+24	34	chem
+
+
+
+
+
+110	120	chem	1	8	chem	37	44	chem	47	52	chem	97	105	chem
+101	118	chem	148	154	chem
+52	60	chem
+
+
+
+
+21	35	chem
+11	25	chem
+12	19	chem	21	44	chem
+42	52	chem
+0	23	chem	46	59	chem	66	76	chem
+46	60	chem	175	188	chem	196	206	chem
+0	14	chem
+
+195	197	chem	202	204	chem	51	69	chem	71	73	chem	85	103	chem	105	107	chem
+35	43	chem	106	108	chem
+17	19	chem	21	40	chem	51	70	chem	160	162	chem
+56	58	chem	118	120	chem
+208	210	chem	40	42	chem	81	83	chem	134	136	chem	215	217	chem	250	252	chem	257	259	chem
+179	181	chem	44	46	chem	85	87	chem	131	133	chem
+
+111	141	chem	156	160	chem
+23	27	chem
+
+40	60	chem	117	120	chem	24	27	chem
+60	63	chem	90	93	chem
+36	39	chem	72	75	chem
+49	58	chem
+71	74	chem	226	229	chem
+
+
+86	95	chem
+21	29	chem	86	93	chem
+4	12	chem	16	25	chem
+63	73	chem	75	89	chem	94	98	chem	13	21	chem	23	32	chem	34	48	chem	50	61	chem
+
+72	75	chem
+60	68	chem
+5	13	chem	17	26	chem
+
+26	34	chem	55	75	chem
+0	20	chem	93	101	chem	105	119	chem	22	24	chem
+0	2	chem	52	54	chem
+54	62	chem	170	172	chem	209	212	chem
+21	23	chem	55	68	chem	98	106	chem	109	116	chem
+
+
+96	98	chem	43	77	chem
+11	13	chem
+94	128	chem	130	132	chem
+56	58	chem
+21	23	chem
+49	51	chem
+82	84	chem
+60	62	chem	66	68	chem	70	83	chem
+56	58	chem
+90	92	chem
+12	19	chem	68	76	chem
+68	75	chem
+
+0	8	chem	25	30	chem
+0	8	chem
+0	8	chem	21	32	chem
+56	64	chem	92	101	chem
+10	17	chem	23	28	chem
+98	103	chem	108	110	chem	138	140	chem	145	151	chem	154	159	chem	161	163	chem	61	63	chem	68	74	chem	77	82	chem
+44	46	chem
+34	40	chem	45	51	chem	83	92	chem	104	106	chem	110	112	chem	127	134	chem	155	165	chem
+19	37	chem	74	84	chem	126	128	chem
+71	76	chem	84	86	chem	114	116	chem	170	172	chem
+68	73	chem	89	91	chem	185	187	chem
+27	29	chem	49	55	chem	60	65	chem
+55	64	chem	75	77	chem	86	92	chem	126	132	chem	157	159	chem
+0	15	chem	19	28	chem	54	62	chem
+26	34	chem
+
+
+21	29	chem
+15	30	chem	32	44	chem	49	58	chem
+26	38	chem	59	68	chem
+
+
+
+
+26	38	chem	42	51	chem	132	141	chem
+
+
+40	50	chem
+
+26	36	chem
+28	38	chem
+158	168	chem	182	192	chem	200	208	chem
+13	23	chem
+
+64	74	chem	78	86	chem
+
+
+48	60	chem
+0	12	chem
+93	100	chem	146	154	chem	188	200	chem	243	250	chem
+
+
+
+
+
+
+
+
+0	7	chem
+
+
+
+
+
+
+32	44	chem	56	59	chem
+85	117	chem
+
+53	67	chem	93	101	chem	103	117	chem	175	198	chem	200	203	chem
+33	51	chem	116	125	chem	129	137	chem
+
+
+0	9	chem	56	70	chem	72	75	chem	80	98	chem	142	150	chem	154	162	chem
+50	64	chem	66	74	chem	79	82	chem	87	96	chem	98	106	chem	111	129	chem
+37	55	chem
+48	56	chem	60	71	chem	75	78	chem	95	103	chem	107	116	chem	120	128	chem
+8	25	chem
+0	17	chem	216	222	chem
+
+
+
+39	56	chem	58	69	chem	71	82	chem	86	96	chem
+34	51	chem	90	101	chem	118	130	chem	140	148	chem
+84	95	chem	11	22	chem
+11	22	chem	26	36	chem	56	68	chem
+0	11	chem	23	34	chem	38	48	chem	77	84	chem
+26	37	chem	86	93	chem	107	119	chem
+92	103	chem
+34	45	chem	79	87	chem
+18	29	chem
+
+
+
+
+
+
+
+
+22	28	chem	38	44	chem	88	111	chem
+
+167	177	chem
+
+
+
+64	71	chem
+
+
+
+
+
+
+
+32	45	chem
+
+
+
+
+
+
+
+
+
+123	130	chem	24	67	chem
+
+98	105	chem
+34	41	chem	160	167	chem
+58	65	chem	83	90	chem	204	247	chem	249	252	chem
+
+7	10	chem	44	51	chem	109	129	chem
+78	81	chem
+13	16	chem
+58	65	chem	119	126	chem	151	154	chem
+
+
+
+
+
+36	43	chem	45	55	chem
+130	137	chem	153	168	chem
+
+57	71	chem	137	140	chem	185	206	chem	213	226	chem	24	32	chem
+216	228	chem	234	234	chem	35	35	chem	40	40	chem	50	58	chem	202	211	chem
+
+3	11	chem	34	43	chem
+
+15	23	chem	62	65	chem
+
+39	47	chem
+0	8	chem	77	85	chem
+
+
+45	53	chem
+34	43	chem
+51	57	chem
+
+94	102	chem	142	150	chem	209	217	chem
+26	63	chem	65	68	chem
+
+
+
+
+58	64	chem	66	75	chem	77	88	chem	90	100	chem	102	110	chem	112	118	chem	122	128	chem	133	144	chem	146	160	chem	162	167	chem	172	188	chem	190	198	chem
+
+33	41	chem	43	53	chem	57	62	chem
+
+17	25	chem	27	32	chem	36	44	chem
+
+
+
+
+
+
+252	258	chem
+
+
+
+
+
+
+
+
+
+
+
+
+14	25	chem
+66	73	chem
+
+18	28	chem	32	45	chem	85	95	chem
+140	157	chem	34	44	chem	48	61	chem
+0	10	chem
+0	10	chem	14	27	chem	53	63	chem
+65	75	chem	130	143	chem
+10	20	chem
+55	65	chem
+3	13	chem
+46	56	chem
+8	14	chem
+
+93	101	chem	103	110	chem	125	132	chem
+
+
+94	109	chem	9	18	chem	113	123	chem
+17	47	chem	0	15	chem	49	50	chem
+32	33	chem	100	119	chem	121	124	chem	138	139	chem	162	163	chem
+0	1	chem	11	11	chem	32	44	chem	46	48	chem	63	73	chem	75	76	chem	120	122	chem
+0	9	chem	11	40	chem	42	43	chem	56	57	chem	135	136	chem
+43	44	chem	67	70	chem	78	80	chem	140	141	chem	171	172	chem	176	177	chem
+11	12	chem	14	15	chem	20	21	chem
+4	5	chem	34	36	chem	64	65	chem	82	83	chem
+3	4	chem	8	9	chem
+101	102	chem	41	42	chem	46	47	chem
+31	32	chem	36	37	chem	39	40	chem	53	55	chem	110	112	chem
+122	123	chem	126	128	chem	159	161	chem	231	232	chem
+52	53	chem
+
+
+
+
+
+
+53	61	chem
+
+39	48	chem
+61	70	chem
+45	48	chem	75	84	chem	112	132	chem
+45	54	chem
+11	20	chem
+90	96	chem
+20	27	chem
+44	46	chem	49	56	chem	58	60	chem	63	74	chem	76	78	chem	81	98	chem	100	102	chem	107	130	chem	132	135	chem	35	42	chem
+
+55	62	chem
+0	7	chem	39	46	chem
+
+20	27	chem	35	42	chem
+66	73	chem	0	7	chem
+57	64	chem	154	161	chem	166	173	chem	175	182	chem
+9	17	chem	95	111	chem
+120	128	chem	151	169	chem	182	190	chem	19	27	chem	263	278	chem	345	361	chem	363	365	chem	367	379	chem
+21	29	chem	32	39	chem
+
+74	76	chem
+49	54	chem	55	68	chem	9	11	chem
+71	83	chem	142	154	chem
+66	68	chem
+81	83	chem
+
+
+14	28	chem
+
+
+
+106	118	chem	144	151	chem
+
+
+51	61	chem
+
+70	80	chem	124	131	chem	215	222	chem	257	265	chem
+0	10	chem	14	21	chem	42	50	chem
+11	21	chem	31	38	chem	83	91	chem
+0	7	chem	76	86	chem
+
+0	11	chem	20	28	chem
+0	8	chem	10	14	chem
+34	38	chem
+45	56	chem	58	60	chem	65	69	chem	138	140	chem	160	164	chem
+69	71	chem	138	141	chem	143	156	chem
+0	2	chem	5	9	chem
+95	97	chem	0	4	chem
+17	20	chem	85	87	chem	91	95	chem	106	110	chem
+0	4	chem	42	44	chem
+91	93	chem	95	99	chem
+22	24	chem	26	30	chem
+28	62	chem	76	84	chem
+96	133	chem	9	41	chem	141	153	chem	165	190	chem	194	215	chem	55	63	chem
+52	68	chem	73	91	chem	95	117	chem
+177	189	chem	193	205	chem
+
+
+
+
+
+94	104	chem	122	128	chem
+0	6	chem	42	52	chem	8	13	chem
+124	134	chem	145	151	chem
+51	57	chem
+
+0	6	chem
+
+
+
+
+
+83	89	chem	177	187	chem
+42	48	chem
+0	6	chem
+
+87	97	chem	108	114	chem
+
+83	89	chem
+11	29	chem	46	65	chem
+0	18	chem	113	132	chem	134	142	chem	20	26	chem	65	71	chem
+8	18	chem	19	19	chem	48	54	chem	104	110	chem	132	138	chem
+24	30	chem	33	41	chem
+8	14	chem	112	126	chem	128	131	chem	149	157	chem	171	177	chem
+36	42	chem	45	53	chem	109	115	chem	134	142	chem
+22	32	chem	34	36	chem	48	54	chem	57	59	chem	84	90	chem	120	123	chem	169	177	chem	187	195	chem
+12	18	chem	76	82	chem	110	112	chem	130	134	chem	144	147	chem	151	166	chem
+44	58	chem	62	68	chem	88	94	chem	126	130	chem	176	182	chem
+111	115	chem
+
+21	27	chem	44	52	chem	80	82	chem
+
+
+
+
+153	158	chem
+
+
+
+0	5	chem
+
+
+6	16	chem	18	30	chem
+77	82	chem
+
+
+35	42	chem	43	46	chem	48	59	chem
+
+
+
+50	57	chem	58	61	chem	63	74	chem
+0	3	chem	20	32	chem	79	99	chem
+0	3	chem
+0	3	chem
+0	3	chem
+123	126	chem
+35	38	chem
+7	16	chem
+
+57	66	chem
+
+9	18	chem	34	43	chem
+59	68	chem
+26	35	chem	120	132	chem	184	190	chem	191	191	chem
+71	90	chem	119	140	chem
+88	97	chem
+7	16	chem
+32	41	chem
+0	13	chem
+0	13	chem	15	30	chem
+
+
+75	88	chem
+
+
+
+
+
+19	28	chem	59	70	chem
+320	328	chem	30	38	chem	39	95	chem	422	433	chem	130	135	chem	136	175	chem	178	187	chem	212	220	chem	221	317	chem
+15	26	chem
+115	126	chem
+48	59	chem	157	165	chem	210	215	chem	234	242	chem
+42	53	chem
+12	21	chem
+94	112	chem	10	22	chem
+100	111	chem	113	115	chem	61	71	chem
+
+
+
+
+
+
+0	18	chem	58	66	chem
+
+
+
+0	8	chem	30	48	chem	50	53	chem
+
+118	130	chem	12	22	chem	134	144	chem	24	31	chem
+0	10	chem	92	94	chem	105	106	chem	108	108	chem	110	112	chem	12	19	chem
+35	35	chem	37	39	chem
+34	44	chem	60	60	chem	62	64	chem	166	176	chem	194	204	chem
+66	76	chem
+0	10	chem
+120	136	chem	155	165	chem	173	183	chem	193	203	chem	243	255	chem	20	30	chem	32	42	chem	47	57	chem
+21	27	chem	29	39	chem	41	51	chem	56	68	chem	92	102	chem	104	114	chem	118	128	chem	171	181	chem	185	197	chem
+37	49	chem	51	61	chem	129	129	chem	131	133	chem	157	167	chem
+34	41	chem
+9	16	chem	36	44	chem	69	76	chem
+82	113	chem	135	157	chem
+
+0	14	chem
+
+47	61	chem	63	65	chem
+138	140	chem
+36	38	chem
+0	2	chem
+20	22	chem
+63	72	chem
+118	127	chem	153	162	chem	165	184	chem
+0	9	chem
+24	33	chem
+59	78	chem
+88	97	chem
+44	53	chem	55	81	chem
+55	61	chem	90	116	chem
+
+83	92	chem
+
+70	80	chem	141	150	chem	188	198	chem
+45	54	chem
+38	48	chem
+9	18	chem	22	32	chem
+0	10	chem	12	19	chem	34	43	chem	45	50	chem
+0	10	chem
+20	29	chem
+19	28	chem	32	42	chem	131	140	chem	188	198	chem
+25	34	chem	38	48	chem	146	157	chem
+29	38	chem	85	96	chem
+3	13	chem
+4	13	chem	17	27	chem
+0	10	chem
+
+70	70	chem
+52	59	chem
+
+66	80	chem	95	104	chem
+48	48	chem
+114	128	chem
+
+
+111	121	chem
+12	22	chem	24	26	chem
+45	47	chem
+17	45	chem	47	50	chem	60	68	chem	80	94	chem	141	143	chem
+31	33	chem	50	52	chem
+
+
+0	2	chem
+
+103	105	chem	84	87	chem
+48	51	chem	63	71	chem
+
+25	39	chem	81	83	chem	98	100	chem
+
+0	8	chem	98	101	chem	126	135	chem	148	153	chem	67	96	chem
+10	13	chem
+
+28	31	chem	110	113	chem
+
+119	126	chem
+
+38	41	chem	122	125	chem
+24	30	chem
+12	18	chem	78	84	chem
+0	7	chem
+58	64	chem
+57	63	chem
+22	28	chem
+76	82	chem
+
+129	135	chem	41	47	chem
+48	54	chem	124	130	chem
+69	75	chem
